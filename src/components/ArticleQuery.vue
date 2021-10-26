@@ -1,7 +1,7 @@
 <template>
   <Layout>
 
-    <h2>Old Versions of this website</h2>
+    <h2>Old versions of this website:</h2>
     <ul>
       <li>
         <a href="https://strapi.victorslibrary.com/">
