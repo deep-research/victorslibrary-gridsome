@@ -1,0 +1,1 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[4],{"6wJH":function(t,n,e){"use strict";e.r(n);var s=e("KHd+"),u=null,i=Object(s.a)({},(function(){var t=this.$createElement,n=this._self._c||t;return n("Layout",[n("h1",[this._v(this._s(this.$page.content.title))]),n("VueRemarkContent")],1)}),[],!1,null,null,null);"function"==typeof u&&u(i);n.default=i.exports}}]);
