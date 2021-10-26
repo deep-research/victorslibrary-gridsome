@@ -1,10 +1,10 @@
 <template>
   <div>
-    <ul>
+    <ol>
       <li v-for="edge in $static.posts.edges" :key="edge.node.id">
         <g-link :to="edge.node.path">{{ edge.node.title }}</g-link>
       </li>
-    </ul>
+    </ol>
   </div>
 </template>
 
