@@ -2,7 +2,6 @@
 title: The Groove Gestapo
 band: Reenchantment
 authors: ["Victor Fisher"]
-type: Song
 explicit: false
 
 description: This song was channeled from a strange dimension where I was a [glam rock](https://en.wikipedia.org/wiki/Glam_rock) guitarist during the 1970s.

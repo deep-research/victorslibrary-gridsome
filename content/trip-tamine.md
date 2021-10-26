@@ -2,7 +2,6 @@
 title: Trip-tamine
 band: Reenchantment
 authors: ["Victor Fisher", "Dr. Timothy Leary"]
-type: Song
 explicit: false
 
 description: |

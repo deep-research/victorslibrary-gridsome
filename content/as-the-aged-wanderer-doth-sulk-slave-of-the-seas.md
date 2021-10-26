@@ -2,7 +2,6 @@
 title: As the Aged Wanderer Doth Sulk (Slave of the Seas)
 band: Reenchantment
 authors: ["Victor Fisher"]
-type: Song
 explicit: false
 
 description: |

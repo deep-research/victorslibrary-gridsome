@@ -2,7 +2,6 @@
 title: On an Astral Journey to an Expanded Consciousness
 band: Reenchantment
 authors: ["Victor Fisher"]
-type: Song
 explicit: false
 
 description: This is a song about the extraordinary possibilities of mystical practice.

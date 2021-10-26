@@ -2,7 +2,6 @@
 title: They’ll Come For You
 band: Reenchantment
 authors: ["Victor Fisher"]
-type: Song
 explicit: false
 
 description: |

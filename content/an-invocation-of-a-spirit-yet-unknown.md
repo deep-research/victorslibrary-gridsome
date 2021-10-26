@@ -2,7 +2,6 @@
 title: An Invocation of a Spirit Yet Unknown
 band: Reenchantment
 authors: ["Victor Fisher"]
-type: Song
 explicit: false
 
 description: |

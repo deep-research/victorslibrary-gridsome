@@ -2,7 +2,6 @@
 title: Soul Loss in the Midst of an Endless Winter
 band: Reenchantment
 authors: ["Victor Fisher"]
-type: Song
 explicit: false
 
 description: This is a song that explores the inner workings of twisted mind.

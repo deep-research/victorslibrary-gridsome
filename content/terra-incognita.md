@@ -2,7 +2,6 @@
 title: Terra Incognita
 band: Reenchantment
 authors: ["Victor Fisher"]
-type: Song
 explicit: false
 
 description: This is an atmospheric rock song that has a nautical feel to it.

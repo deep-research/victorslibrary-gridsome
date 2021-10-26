@@ -2,7 +2,6 @@
 title: DroneTheist [Coda entitled Desire and Pain]
 band: Reenchantment
 authors: ["Victor Fisher"]
-type: Song
 explicit: false
 
 description: This song is a reflection on the Jungian shadow, and the terrifying realms of nihilism.

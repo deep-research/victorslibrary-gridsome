@@ -2,7 +2,6 @@
 title: Under the Spell of the Mystical Mist
 band: Reenchantment
 authors: ["Victor Fisher"]
-type: Song
 explicit: false
 
 description: This song tells a sinister tale about my secret workings with one of the most extreme forms of magical rites.

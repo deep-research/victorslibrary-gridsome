@@ -2,7 +2,6 @@
 title: derShamanDrone
 band: Reenchantment
 authors: ["Victor Fisher"]
-type: Song
 explicit: false
 
 description: This recording is an exploration of the ancient mysteries of tribalism and the shamanic tradition.

@@ -2,7 +2,6 @@
 title: The Weirdness of the Night
 band: Reenchantment
 authors: ["Victor Fisher"]
-type: Song
 explicit: false
 
 description: |

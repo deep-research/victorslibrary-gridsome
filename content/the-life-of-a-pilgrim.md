@@ -2,7 +2,6 @@
 title: The Life of a Pilgrim
 band: Reenchantment
 authors: ["Victor Fisher"]
-type: Song
 explicit: false
 
 description: |

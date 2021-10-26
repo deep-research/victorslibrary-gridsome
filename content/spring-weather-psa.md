@@ -2,7 +2,6 @@
 title: Spring Weather PSA
 band: Reenchantment
 authors: ["Victor Fisher"]
-type: Song
 explicit: false
 
 description: |

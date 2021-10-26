@@ -2,7 +2,6 @@
 title: From Path to Portal
 band: Reenchantment
 authors: ["Victor Fisher"]
-type: Song
 explicit: false
 
 description: This is a neo-pagan acoustic rock song. It's rather catchy!

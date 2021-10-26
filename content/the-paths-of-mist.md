@@ -2,7 +2,6 @@
 title: The Paths of Mist
 band: Reenchantment
 authors: ["Victor Fisher"]
-type: Song
 explicit: false
 
 description: |

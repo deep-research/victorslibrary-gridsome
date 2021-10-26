@@ -2,7 +2,6 @@
 title: Otherworldly Dream Magic
 band: Reenchantment
 authors: ["Victor Fisher"]
-type: Song
 explicit: false
 
 description: This concise atmospheric rock song refers to the way of those who know.

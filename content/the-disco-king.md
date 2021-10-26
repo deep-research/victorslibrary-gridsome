@@ -2,7 +2,6 @@
 title: The Disco King
 band: Reenchantment
 authors: ["Victor Fisher"]
-type: Song
 explicit: false
 
 description: This is a psychedelic rock jam that exudes pure coolness at every level.

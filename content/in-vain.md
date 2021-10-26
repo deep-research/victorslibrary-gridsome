@@ -2,7 +2,6 @@
 title: In Vain...
 band: Reenchantment
 authors: ["Victor Fisher"]
-type: Song
 explicit: true
 
 description: |

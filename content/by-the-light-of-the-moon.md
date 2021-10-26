@@ -2,7 +2,6 @@
 title: By the Light of the Moon
 band: Reenchantment
 authors: ["Victor Fisher"]
-type: Song
 explicit: false
 
 description: |

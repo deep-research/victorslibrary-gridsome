@@ -2,7 +2,6 @@
 title: Hypnotics
 band: Reenchantment
 authors: ["Victor Fisher"]
-type: Song
 explicit: false
 
 description: This song is about the managed social decline and mind control techniques that are perpetrated against the general public. It also references the mythology of The Lord Reverend Wizard of Alchemical Despair's basement.

@@ -2,7 +2,6 @@
 title: Suicidal Shaman
 band: Reenchantment
 authors: ["Victor Fisher"]
-type: Song
 explicit: true
 
 description: This is particularly nihilistic and rage fueled song of mine.

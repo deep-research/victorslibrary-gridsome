@@ -2,7 +2,6 @@
 title: Attempting to Survive in Alternative Planes of Existence
 band: Reenchantment
 authors: ["Victor Fisher"]
-type: Song
 explicit: true
 
 description: |

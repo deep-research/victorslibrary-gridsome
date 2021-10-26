@@ -2,7 +2,6 @@
 title: The 666 Names of Aleister Crowley
 band: Pater Shrouder
 authors: ["Aaron Schreiber", "Victor Fisher"]
-type: Song
 explicit: true
 
 description: |

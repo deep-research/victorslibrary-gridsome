@@ -2,7 +2,6 @@
 title: Remember
 band: Reenchantment
 authors: ["Victor Fisher"]
-type: Song
 explicit: false
 
 description: This is a heartfelt song about the feeling of loosing your sense of self.

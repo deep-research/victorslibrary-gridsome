@@ -2,7 +2,6 @@
 title: The Grieg and Euphorization Revealed
 band: Reenchantment
 authors: ["Victor Fisher"]
-type: Song
 explicit: false
 
 description: |

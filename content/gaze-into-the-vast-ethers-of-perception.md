@@ -2,7 +2,6 @@
 title: Gaze into the Vast Ethers of Perception
 band: Reenchantment
 authors: ["Victor Fisher"]
-type: Song
 explicit: false
 
 description: This song was inspired by an original encounter with that most controversial of plants.

@@ -2,7 +2,6 @@
 title: A Plastic Paradise
 band: Reenchantment
 authors: ["Victor Fisher"]
-type: Song
 explicit: false
 
 description: |

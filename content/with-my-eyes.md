@@ -2,7 +2,6 @@
 title: With My Eyes
 band: Reenchantment
 authors: ["Victor Fisher"]
-type: Song
 explicit: false
 
 description: |

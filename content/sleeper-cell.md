@@ -2,7 +2,6 @@
 title: Sleeper Cell
 band: Reenchantment
 authors: ["Victor Fisher"]
-type: Song
 explicit: false
 
 description: |

@@ -2,7 +2,6 @@
 title: Aries Girl
 band: Reenchantment
 authors: ["Victor Fisher"]
-type: Song
 explicit: false
 
 description: |

@@ -2,7 +2,6 @@
 title: The Wrath of God
 band: Reenchantment
 authors: ["Victor Fisher"]
-type: Song
 explicit: true
 
 description: This recording describes a terrifying journey through an apocalyptic vision.

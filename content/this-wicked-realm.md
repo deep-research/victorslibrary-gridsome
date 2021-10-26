@@ -2,7 +2,6 @@
 title: This Wicked Realm
 band: Reenchantment
 authors: ["Victor Fisher"]
-type: Song
 explicit: false
 
 description: |
