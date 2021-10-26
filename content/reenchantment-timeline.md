@@ -17,7 +17,7 @@ Updated: {{ $frontmatter.updated }}
 - After getting into Slayer, Melechesh and Amon Amarth, I was inspired to discover what the heaviest possible music is. This lead to an intense interest in doom metal and black metal.
 - I starting writing a doom metal and psychedelic rock live set.
 - David and I participated in a short lived rock band called *Lamp*.
-- I started a band called *[Shroud of Delirium](https://strangepeopleinpain.bandcamp.com/album/the-former-shroud-of-delirium)* with David Sommer on drums. Aaron Schreiber became the bassist shortly afterwards by playing a middle eastern sounding scale that seemed very impressive at the time.
+- I started a band called *[Shroud of Delirium](https://reenchantment.bandcamp.com/album/the-former-shroud-of-delirium)* with David Sommer on drums. Aaron Schreiber became the bassist shortly afterwards by playing a middle eastern sounding scale that seemed very impressive at the time.
 - Our band was mostly playing doom metal songs with a black metal influence such as Follow the Light, The Ritual, and Hypnotics.
 - We played live at a hookah bar called *Swingstate* that is no longer in existence.
 
@@ -40,7 +40,7 @@ Updated: {{ $frontmatter.updated }}
 
 - Aaron visited a spiritual community in New Mexico called the *[Lama Foundation](https://www.lamafoundation.org/)* and eventually became their treasurer.
 - Due to the fact that the band was starting to wane, I started a solo project called *The Reverend of Despair.*
-- I also started a radio show called *[Reverend Radio](https://strangepeopleinpain.bandcamp.com/album/the-reverend-radio-promos)* on [WMXM 88.9 FM](http://wmxm.org/), Lake Forest College radio.
+- I also started a radio show called *[Reverend Radio](https://reenchantment.bandcamp.com/album/the-reverend-radio-promos)* on [WMXM 88.9 FM](http://wmxm.org/), Lake Forest College radio.
 
   <g-image src="~/assets/forest-reverend.jpg" alt="The Lord Reverend Wizard of Alchemical Despair" width="500" /><br />
   Behold, The Lord Reverend Wizard of Alchemical Despair!
@@ -48,11 +48,11 @@ Updated: {{ $frontmatter.updated }}
 ### 2011
 
 - I became increasingly interested in the occult.
-- I recorded an eclectic album called *[Spirit Writing](https://strangepeopleinpain.bandcamp.com/album/spirit-writing)*. It had a pleasantly underground feel to it.
+- I recorded an eclectic album called *[Spirit Writing](https://reenchantment.bandcamp.com/album/spirit-writing)*. It had a pleasantly underground feel to it.
 
 ### 2012
 
-- I recorded an album called *[At the Edge of the World](https://strangepeopleinpain.bandcamp.com/album/at-the-edge-of-the-world)* that had a much bigger sound.
+- I recorded an album called *[At the Edge of the World](https://reenchantment.bandcamp.com/album/at-the-edge-of-the-world)* that had a much bigger sound.
 
   Here is a quote that was used to spread the malevolent influence of the album:
   > We, His Excellency The Lord Reverend Wizard of Alchemical Despair Himself! By the Grace of God, Emperor and Autocrat of All Underground Heavy Metal and Rock and Roll Music and the Most Feared D.J. on All Radio, et cetera, et cetera, et cetera Hereby Pronounce "At the Edge of the World" to be the Greatest Recording Ever Created For All Time With No Exception and Deem It Mandatory to Listen to This Record, For All Able Bodied Souls Within the Confines of The Reverend's Magnificently Glorious and Eternal Empire.
@@ -70,7 +70,7 @@ Updated: {{ $frontmatter.updated }}
 
 ### 2014
 
-- Aaron and I collaborated on a strange an awesome project known as *[The 666 Names of Aleister Crowley](https://patershrouder.bandcamp.com/track/666-names-of-aleister-crowley-demos)*.
+- Aaron and I collaborated on a strange an awesome project known as *[The 666 Names of Aleister Crowley](/the-666-names-of-aleister-crowley)*.
 
 ### 2015
 
