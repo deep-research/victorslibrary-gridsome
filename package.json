@@ -3,11 +3,12 @@
   "private": true,
   "scripts": {
     "build": "gridsome build",
-    "dev": "gridsome develop",
+    "develop": "gridsome develop",
     "explore": "gridsome explore"
   },
   "dependencies": {
     "@gridsome/vue-remark": "^0.2.6",
+    "gh-pages": "^3.2.3",
     "gridsome": "^0.7.0"
   }
 }
