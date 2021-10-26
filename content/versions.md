@@ -1,8 +1,10 @@
 ---
 title: Versions
+updated: 2021-10-26
 ---
 
-## Older Versions of This Site
+## Version of This Site
 
-1. [Strapi Version (Stable)](https://strapi.victorslibrary.com/)
-2. [Nuxt Version (Broken)](https://nuxt.victorslibrary.com/)
+1. [This Is the Newest Version (Unfinished)](/)
+2. [Transitional Version (Broken)](https://nuxt.victorslibrary.com/)
+3. [Old Version (Stable)](https://strapi.victorslibrary.com/)

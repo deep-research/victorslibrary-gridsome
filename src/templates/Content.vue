@@ -13,3 +13,13 @@ query Content ($id: ID!) {
   }
 }
 </page-query>
+
+<script>
+export default {
+  metaInfo() {
+    return {
+      title: this.$page.content.title
+    }
+  }
+}
+</script>

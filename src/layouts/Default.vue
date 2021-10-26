@@ -10,6 +10,7 @@
       </nav>
     </header>
     <slot/>
+    <footer class="footer">© {{new Date().getFullYear()}} Victor Fisher</footer>
   </div>
 </template>
 
@@ -42,6 +43,11 @@ body {
   align-items: center;
   margin-bottom: 20px;
   height: 80px;
+}
+
+.footer {
+  margin-bottom: 40px;
+  margin-top: 40px;
 }
 
 .nav__link {

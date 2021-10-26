@@ -1,6 +1,9 @@
 ---
 title: Home
-description: Description from frontmatter to markdown
 ---
 
-## Welcome to Victor's Library
+import AllPages from '~/components/AllPages.vue'
+
+## All Pages
+
+<AllPages />
