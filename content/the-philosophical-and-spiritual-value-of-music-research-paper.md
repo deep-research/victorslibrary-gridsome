@@ -3,6 +3,7 @@ title: The Philosophical and Spiritual Value of Music (Research Paper)
 authors: ["Victor Fisher"]
 published: "2019-12-23"
 updated: "2021-09-07"
+type: Article
 ---
 
 import ArticleHeader from '~/components/ArticleHeader.vue'

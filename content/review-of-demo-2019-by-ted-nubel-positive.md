@@ -3,6 +3,7 @@ title: Review of Demo 2019 by Ted Nubel (Positive)
 authors: ["Ted Nubel"]
 published: "2019-10-28"
 updated: "2021-09-07"
+type: Article
 ---
 
 import ArticleHeader from '~/components/ArticleHeader.vue'

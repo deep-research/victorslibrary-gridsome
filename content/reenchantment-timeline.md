@@ -2,6 +2,7 @@
 title: Reenchantment Timeline
 authors: ["Victor Fisher"]
 updated: "2021-09-06"
+type: Article
 ---
 
 import ArticleHeader from '~/components/ArticleHeader.vue'

@@ -2,6 +2,7 @@
 title: Home
 authors: ["Victor Fisher"]
 updated: "2021-10-27"
+type: Page
 ---
 
 import GlobalSearch from '~/components/GlobalSearch.vue'

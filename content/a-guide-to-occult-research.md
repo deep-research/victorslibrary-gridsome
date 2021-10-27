@@ -3,6 +3,7 @@ title: A Guide to Occult Research
 authors: ["Victor Fisher"]
 published: "2019-09-11"
 updated: "2021-09-06"
+type: Article
 # category:
 #   1:
 #     name: Writing

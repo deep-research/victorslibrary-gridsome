@@ -3,6 +3,7 @@ title: The Legend of Reenchantment
 authors: ["Victor Fisher"]
 published: "2019-09-29"
 updated: "2021-09-07"
+type: Article
 ---
 
 import ArticleHeader from '~/components/ArticleHeader.vue'

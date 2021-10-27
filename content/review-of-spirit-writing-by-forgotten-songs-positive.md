@@ -1,6 +1,7 @@
 ---
 title: Review of Spirit Writing by Forgotten Songs (Positive)
 authors: ["D. Kelvin"]
+type: Article
 ---
 
 import ArticleHeader from '~/components/ArticleHeader.vue'

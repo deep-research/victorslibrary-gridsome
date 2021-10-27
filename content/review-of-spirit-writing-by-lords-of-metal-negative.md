@@ -1,6 +1,7 @@
 ---
 title: Review of Spirit Writing by Lords of Metal (Negative)
 authors: ["Marcel H."]
+type: Article
 ---
 
 import ArticleHeader from '~/components/ArticleHeader.vue'

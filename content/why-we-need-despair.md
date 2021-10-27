@@ -3,6 +3,7 @@ title: Why We Need Despair
 authors: ["Victor Fisher"]
 published: "2013-03-07"
 updated: "2021-09-06"
+type: Article
 ---
 
 import ArticleHeader from '~/components/ArticleHeader.vue'

@@ -3,6 +3,7 @@ title: Reenchantment Related Projects
 authors: ["Victor Fisher"]
 published: "2018-12-01"
 updated: "2021-09-06"
+type: Article
 ---
 
 import ArticleHeader from '~/components/ArticleHeader.vue'

@@ -3,6 +3,7 @@ title: My Political Warning to America From 2013
 authors: ["Victor Fisher"]
 published: "2013-03-28"
 updated: "2021-09-06"
+type: Article
 ---
 
 import ArticleHeader from '~/components/ArticleHeader.vue'
