@@ -3,21 +3,21 @@ title: A Guide to Occult Research
 author: Victor Fisher
 published: "2019-09-11"
 updated: "2021-09-06"
-category:
-  1:
-    name: Writing
-    url: /writing
-  2:
-    name: Research
-    url: /research
-  3:
-    name: Occultism
-    url: /occult
+# category:
+#   1:
+#     name: Writing
+#     url: /writing
+#   2:
+#     name: Research
+#     url: /research
+#   3:
+#     name: Occultism
+#     url: /occult
 ---
 
-import ArticleInfo from '~/components/ArticleInfo.vue'
+import ArticleHeader from '~/components/ArticleHeader.vue'
 
-<ArticleInfo :articleData="$frontmatter" />
+<ArticleHeader :articleData="$frontmatter" />
 
 Here are some of my favorite sources, and the research topics that I am are currently looking into.
 

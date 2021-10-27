@@ -3,9 +3,9 @@ title: Review of Spirit Writing by Lords of Metal (Negative)
 author: Marcel H.
 ---
 
-import ArticleInfo from '~/components/ArticleInfo.vue'
+import ArticleHeader from '~/components/ArticleHeader.vue'
 
-<ArticleInfo :articleData="$frontmatter" />
+<ArticleHeader :articleData="$frontmatter" />
 
 <g-image src="~/assets/spirit-writing-old-cover.jpg" alt="Spirit Writing Cover" width="500" />
 

@@ -5,9 +5,9 @@ published: "2018-12-01"
 updated: "2021-09-06"
 ---
 
-import ArticleInfo from '~/components/ArticleInfo.vue'
+import ArticleHeader from '~/components/ArticleHeader.vue'
 
-<ArticleInfo :articleData="$frontmatter" />
+<ArticleHeader :articleData="$frontmatter" />
 
 This is a list of some projects that are related to my musical work in Reenchantment.
 

@@ -29,17 +29,6 @@ lyrics: |
   Save me
 ---
 
-By: {{ $frontmatter.band }} ({{ $frontmatter.authors }})  
-Explicit: {{$frontmatter.explicit}}
+import ReenchantmentSong from "~/components/ReenchantmentSong.vue"
 
-## Description
-
-{{ $frontmatter.description }}
-
-## Recordings
-
-{{ $frontmatter.recordings }}
-
-## Lyrics
-
-{{ $frontmatter.lyrics }}
+<ReenchantmentSong :songData="$frontmatter" />

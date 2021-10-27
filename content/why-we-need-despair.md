@@ -5,9 +5,9 @@ published: "2013-03-07"
 updated: "2021-09-06"
 ---
 
-import ArticleInfo from '~/components/ArticleInfo.vue'
+import ArticleHeader from '~/components/ArticleHeader.vue'
 
-<ArticleInfo :articleData="$frontmatter" />
+<ArticleHeader :articleData="$frontmatter" />
 
 From **The Reverend Report**  
 *Despair is the precursor to greatness!*

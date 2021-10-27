@@ -5,9 +5,9 @@ published: "2019-09-29"
 updated: "2021-09-07"
 ---
 
-import ArticleInfo from '~/components/ArticleInfo.vue'
+import ArticleHeader from '~/components/ArticleHeader.vue'
 
-<ArticleInfo :articleData="$frontmatter" />
+<ArticleHeader :articleData="$frontmatter" />
 
 Around the year two thousand and six, a troubled artist known as Comrade Victor discovered a collection of sacred texts. The artifacts were found in a chamber on the very fringes of our reality. These priceless documents contained an extraordinary glimpse into the mysteries of rock music.
 

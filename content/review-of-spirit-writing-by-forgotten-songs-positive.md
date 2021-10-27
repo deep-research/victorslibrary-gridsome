@@ -3,9 +3,9 @@ title: Review of Spirit Writing by Forgotten Songs (Positive)
 author: D. Kelvin
 ---
 
-import ArticleInfo from '~/components/ArticleInfo.vue'
+import ArticleHeader from '~/components/ArticleHeader.vue'
 
-<ArticleInfo :articleData="$frontmatter" />
+<ArticleHeader :articleData="$frontmatter" />
 
 <g-image src="~/assets/spirit-writing-new-cover.jpg" alt="Spirit Writing Cover" width="500" />
 

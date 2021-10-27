@@ -5,9 +5,9 @@ published: "2019-10-28"
 updated: "2021-09-07"
 ---
 
-import ArticleInfo from '~/components/ArticleInfo.vue'
+import ArticleHeader from '~/components/ArticleHeader.vue'
 
-<ArticleInfo :articleData="$frontmatter" />
+<ArticleHeader :articleData="$frontmatter" />
 
 ## Chicago Doom Confederacy Review
 
