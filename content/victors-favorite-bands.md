@@ -1,6 +1,6 @@
 ---
 title: Victor's Favorite Bands
-author: Victor Fisher
+authors: ["Victor Fisher"]
 published: "2019-09-23"
 updated: "2021-09-07"
 ---

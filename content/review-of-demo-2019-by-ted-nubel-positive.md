@@ -1,6 +1,6 @@
 ---
 title: Review of Demo 2019 by Ted Nubel (Positive)
-author: Ted Nubel
+authors: ["Ted Nubel"]
 published: "2019-10-28"
 updated: "2021-09-07"
 ---

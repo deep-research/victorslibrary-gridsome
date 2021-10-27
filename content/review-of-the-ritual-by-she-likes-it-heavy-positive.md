@@ -1,6 +1,6 @@
 ---
 title: Review of The Ritual By She Likes It Heavy (Positive)
-author: DJ Prajmetal
+authors: ["Priya Rajkumar (DJ Prajmetal)"]
 published: "2019-11-05"
 updated: "2021-09-07"
 ---

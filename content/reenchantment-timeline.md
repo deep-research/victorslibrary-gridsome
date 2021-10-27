@@ -1,6 +1,6 @@
 ---
 title: Reenchantment Timeline
-author: Victor Fisher
+authors: ["Victor Fisher"]
 updated: "2021-09-06"
 ---
 

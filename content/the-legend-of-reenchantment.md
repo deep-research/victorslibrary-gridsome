@@ -1,6 +1,6 @@
 ---
 title: The Legend of Reenchantment
-author: Victor Fisher
+authors: ["Victor Fisher"]
 published: "2019-09-29"
 updated: "2021-09-07"
 ---

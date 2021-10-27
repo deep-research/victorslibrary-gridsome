@@ -5,7 +5,6 @@
   </Layout>
 </template>
 
-<!-- Front-matter fields can be queried from GraphQL layer -->
 <page-query>
 query Content ($id: ID!) {
   content(id: $id) {
