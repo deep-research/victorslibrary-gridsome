@@ -6,7 +6,8 @@
       </strong>
       <nav class="nav">
         <g-link class="nav__link" to="/">Home</g-link>
-        <g-link class="nav__link" to="/versions/">Versions</g-link>
+        <g-link class="nav__link" to="/search">Search</g-link>
+        <g-link class="nav__link" to="/versions">Versions</g-link>
       </nav>
     </header>
     <slot/>
