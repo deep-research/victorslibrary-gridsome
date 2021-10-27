@@ -20,7 +20,7 @@ export default{
     songData: {
       type: Object,
       required: true
-    },
+    }
   }
 }
 </script>
