@@ -70,3 +70,4 @@ lyrics: |
 import ReenchantmentSong from "~/components/ReenchantmentSong.vue"
 
 <ReenchantmentSong :songData="$frontmatter" />
+
