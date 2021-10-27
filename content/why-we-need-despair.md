@@ -5,11 +5,9 @@ published: "2013-03-07"
 updated: "2021-09-06"
 ---
 
-Author: {{ $frontmatter.author }}  
-Published: {{ $frontmatter.published }}  
-Updated: {{ $frontmatter.updated }}
+import ArticleInfo from '~/components/ArticleInfo.vue'
 
-<!-- <post :title="title"></post> -->
+<ArticleInfo :articleData="$frontmatter" />
 
 From **The Reverend Report**  
 *Despair is the precursor to greatness!*

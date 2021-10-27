@@ -5,9 +5,9 @@ published: "2019-10-28"
 updated: "2021-09-07"
 ---
 
-Author: {{ $frontmatter.author }}  
-Published: {{ $frontmatter.published }}  
-Updated: {{ $frontmatter.updated }}
+import ArticleInfo from '~/components/ArticleInfo.vue'
+
+<ArticleInfo :articleData="$frontmatter" />
 
 ## Chicago Doom Confederacy Review
 

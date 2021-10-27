@@ -5,9 +5,9 @@ published: "2019-12-23"
 updated: "2021-09-07"
 ---
 
-Author: {{ $frontmatter.author }}  
-Published: {{ $frontmatter.published }}  
-Updated: {{ $frontmatter.updated }}
+import ArticleInfo from '~/components/ArticleInfo.vue'
+
+<ArticleInfo :articleData="$frontmatter" />
 
 Abstract: There is a duality in life between the rational mind and the emotional mind. This paper proposes a model for mediating between the two that would be helpful in explaining the philosophical meaning of music and for deriving a values system thereof. It also explores the spiritual dimensions of music that offer even more evidence for the accuracy of this model.
 

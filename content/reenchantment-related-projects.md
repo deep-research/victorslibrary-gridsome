@@ -5,9 +5,9 @@ published: "2018-12-01"
 updated: "2021-09-06"
 ---
 
-Author: {{ $frontmatter.author }}  
-Published: {{ $frontmatter.published }}  
-Updated: {{ $frontmatter.updated }}
+import ArticleInfo from '~/components/ArticleInfo.vue'
+
+<ArticleInfo :articleData="$frontmatter" />
 
 This is a list of some projects that are related to my musical work in Reenchantment.
 

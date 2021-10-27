@@ -4,8 +4,9 @@ author: Victor Fisher
 updated: "2021-09-06"
 ---
 
-Author: {{ $frontmatter.author }}  
-Updated: {{ $frontmatter.updated }}
+import ArticleInfo from '~/components/ArticleInfo.vue'
+
+<ArticleInfo :articleData="$frontmatter" />
 
 ### 2006
 

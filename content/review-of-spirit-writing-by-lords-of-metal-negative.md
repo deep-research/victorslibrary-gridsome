@@ -3,9 +3,11 @@ title: Review of Spirit Writing by Lords of Metal (Negative)
 author: Marcel H.
 ---
 
-Author: {{ $frontmatter.author }}
+import ArticleInfo from '~/components/ArticleInfo.vue'
 
- <g-image src="~/assets/spirit-writing-old-cover.jpg" alt="Spirit Writing Cover" width="500" />
+<ArticleInfo :articleData="$frontmatter" />
+
+<g-image src="~/assets/spirit-writing-old-cover.jpg" alt="Spirit Writing Cover" width="500" />
 
 What the flying f**k have I got here? Weird samples of spoken words that seem to be delivered by a rapper, electronic beats. What the hell does this have to do with doom? Yes, I know, a band name doesnt say a thing, but mister Reverend Of Despair himself describes his music as doom. I know that that isnt the be all and end all either (case in point Alexi Laiho who once said that Children Of Bodom played black metal) but the entire package screamed doom metal at me.
 

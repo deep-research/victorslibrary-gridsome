@@ -15,9 +15,9 @@ category:
     url: /occult
 ---
 
-Author: {{ $frontmatter.author }}  
-Published: {{ $frontmatter.published }}  
-Updated: {{ $frontmatter.updated }}
+import ArticleInfo from '~/components/ArticleInfo.vue'
+
+<ArticleInfo :articleData="$frontmatter" />
 
 Here are some of my favorite sources, and the research topics that I am are currently looking into.
 
