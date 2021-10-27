@@ -3,8 +3,10 @@ title: Remember
 band: Reenchantment
 authors: ["Victor Fisher"]
 explicit: false
+type: Song
 
-description: This is a heartfelt song about the feeling of loosing your sense of self.
+description: |
+  This is a heartfelt song about the feeling of loosing your sense of self.
 
 recordings:
   - title: Remember (High School Version)

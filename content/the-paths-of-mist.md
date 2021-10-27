@@ -3,6 +3,7 @@ title: The Paths of Mist
 band: Reenchantment
 authors: ["Victor Fisher"]
 explicit: false
+type: Song
 
 description: |
   This atmospheric doom metal song is the earliest one I wrote for my high school band, Shroud of Delirium. The recording is also one of the first ones I made that I still have access to.

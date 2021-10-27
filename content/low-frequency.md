@@ -3,6 +3,7 @@ title: Low Frequency
 band: Reenchantment
 authors: ["Victor Fisher"]
 explicit: false
+type: Song
 
 description: |
   *Prepare yourself for an evil sound exploration that is certain to trigger both insanity and enlightenment!*

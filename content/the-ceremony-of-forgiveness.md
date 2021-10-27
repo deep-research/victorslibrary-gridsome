@@ -3,8 +3,10 @@ title: The Ceremony of Forgiveness
 band: Reenchantment
 authors: ["Victor Fisher"]
 explicit: false
+type: Song
 
-description: This song describes the feeling of guilt that accompanies a broken relationship. It is one of the best examples of my atmospheric rock sound.
+description: |
+  This song describes the feeling of guilt that accompanies a broken relationship. It is one of the best examples of my atmospheric rock sound.
 
 recordings:
   - title: The Ceremony of Forgiveness

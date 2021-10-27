@@ -3,8 +3,10 @@ title: The Medicinal Applications of Despair
 band: Reenchantment
 authors: ["Victor Fisher"]
 explicit: true
+type: Song
 
-description: This song confronts the listener with the horrifying nature of an unhinged mind.
+description: |
+  This song confronts the listener with the horrifying nature of an unhinged mind.
 
 recordings:
   - title: The Medicinal Applications of Despair

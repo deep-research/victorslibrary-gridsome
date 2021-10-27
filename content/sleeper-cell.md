@@ -3,6 +3,7 @@ title: Sleeper Cell
 band: Reenchantment
 authors: ["Victor Fisher"]
 explicit: false
+type: Song
 
 description: |
   I made this track to try out some new distortion pedals. It has an aggressive sound, and I was able to include a disco sounding electric piano as well!

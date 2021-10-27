@@ -3,9 +3,9 @@ title: The Weirdness of the Night
 band: Reenchantment
 authors: ["Victor Fisher"]
 explicit: false
+type: Song
 
 description: |
-
   This song uses synthesizers to evoke the darker realms of spiritual exploration. The real question in occult research is *who do you trust?*
 
 recordings:

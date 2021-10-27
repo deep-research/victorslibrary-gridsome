@@ -3,6 +3,7 @@ title: This Wicked Realm
 band: Reenchantment
 authors: ["Victor Fisher"]
 explicit: false
+type: Song
 
 description: |
   The lyrics for this song describe the inability to express a magical experience to other people. And the music was able to beautifully capture my interest in both doom metal and atmospheric rock.

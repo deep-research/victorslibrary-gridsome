@@ -3,6 +3,8 @@ title: What For?
 band: Reenchantment
 authors: ["Victor Fisher"]
 explicit: false
+type: Song
+
 description: |
   This song was recorded back in the era when Victor was interested in the art of the [death growl](https://en.wikipedia.org/wiki/Death_growl).
   

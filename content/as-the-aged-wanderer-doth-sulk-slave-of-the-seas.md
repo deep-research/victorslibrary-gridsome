@@ -3,6 +3,7 @@ title: As the Aged Wanderer Doth Sulk (Slave of the Seas)
 band: Reenchantment
 authors: ["Victor Fisher"]
 explicit: false
+type: Song
 
 description: |
   This is a highly romanticized doom metal song. They should play this at the opera.

@@ -3,8 +3,10 @@ title: The Invasion of the Telepathic Squirrels
 band: Reenchantment
 authors: ["Victor Fisher", "Aaron Schreiber"]
 explicit: false
+type: Song
 
-description: I have been preparing for this looming cataclysm for many years.
+description: |
+  I have been preparing for this looming cataclysm for many years.
 
 recordings:
   - title: The Invasion of the Telepathic Squirrels

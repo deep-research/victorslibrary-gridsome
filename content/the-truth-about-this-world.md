@@ -3,9 +3,10 @@ title: The Truth About This World
 band: Reenchantment
 authors: ["Victor Fisher"]
 explicit: false
+type: Song
 
-description: This contains philosophical musings about the mysteries of the universe.
-
+description: 
+  This contains philosophical musings about the mysteries of the universe.
 
 recordings:
   - title: The Truth About This World

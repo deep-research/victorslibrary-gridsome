@@ -3,8 +3,10 @@ title: Jonesian
 band: Reenchantment
 authors: ["Victor Fisher"]
 explicit: false
+type: Song
 
-description: This rap song was a protest against the attempt to control my creative process through the genre system.
+description: |
+  This rap song was a protest against the attempt to control my creative process through the genre system.
 
 recordings:
   - title: Jonesian

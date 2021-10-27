@@ -3,6 +3,7 @@ title: Apathy = Freedom
 band: Reenchantment
 authors: ["Victor Fisher"]
 explicit: false
+type: Song
 
 description: |
   This is a poignant song about the agonies of heartbreak, and the depths of despair.

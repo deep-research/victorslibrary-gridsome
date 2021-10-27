@@ -3,8 +3,10 @@ title: The Paranoid Hallucinations of an Evil Spirit (Deep Within the Hidden Swa
 band: Reenchantment
 authors: ["Victor Fisher"]
 explicit: false
+type: Song
 
-description: This is a song about what it’s like to wake up from living in a fake world.
+description: |
+  This is a song about what it’s like to wake up from living in a fake world.
 
 recordings:
   - title: The Paranoid Hallucinations of an Evil Spirit (Deep Within the Hidden Swamp)

@@ -3,8 +3,10 @@ title: The Exploratory Committee on Plant-based Liberation
 band: Reenchantment
 authors: ["Victor Fisher"]
 explicit: false
+type: Song
 
-description: This song is a hippy rallying cry! It was written to rebel against my highschool’s talent show.
+description: |
+  This song is a hippy rallying cry! It was written to rebel against my highschool’s talent show.
 
 recordings:
   - title: The Exploratory Committee on Plant-based Liberation

@@ -3,8 +3,10 @@ title: Song for a Friend
 band: Reenchantment
 authors: ["Victor Fisher"]
 explicit: false
+type: Song
 
-description: This is a cute song about love, with a touch of darkness.
+description: |
+  This is a cute song about love, with a touch of darkness.
 
 recordings:
   - title: Song for a Friend

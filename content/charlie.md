@@ -3,6 +3,7 @@ title: Charlie
 band: Reenchantment
 authors: ["Victor Fisher"]
 explicit: false
+type: Song
 
 description: |
   For this recording, I channeled the radical wisdom of Charles Manson.

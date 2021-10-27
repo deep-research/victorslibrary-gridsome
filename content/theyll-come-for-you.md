@@ -3,6 +3,7 @@ title: They’ll Come For You
 band: Reenchantment
 authors: ["Victor Fisher"]
 explicit: false
+type: Song
 
 description: |
   The song discusses the way we are unconsciously shaped by [social conditioning](https://en.wikipedia.org/wiki/Social_conditioning).

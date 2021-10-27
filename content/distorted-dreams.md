@@ -3,8 +3,10 @@ title: Distorted Dreams
 band: Reenchantment
 authors: ["Victor Fisher"]
 explicit: true
+type: Song
 
-description: This song is about the cosmic struggle that is at play within the depths of the human psyche.
+description: |
+  This song is about the cosmic struggle that is at play within the depths of the human psyche.
 
 recordings:
   - title: Distorted Dreams

@@ -3,6 +3,7 @@ title: The 666 Names of Aleister Crowley
 band: Pater Shrouder
 authors: ["Aaron Schreiber", "Victor Fisher"]
 explicit: true
+type: Song
 
 description: |
   This is a Hindu style prayer, chanted in honor of [the great beast 666](https://en.wikipedia.org/wiki/Aleister_Crowley) himself.

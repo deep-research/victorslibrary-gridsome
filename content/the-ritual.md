@@ -3,8 +3,10 @@ title: The Ritual
 band: Reenchantment
 authors: ["Victor Fisher"]
 explicit: false
+type: Song
 
-description: This is an epic song about the dark history of mankind.
+description: |
+  This is an epic song about the dark history of mankind.
 
 recordings:
   - title: The Ritual

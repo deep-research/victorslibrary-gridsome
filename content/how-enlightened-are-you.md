@@ -3,8 +3,10 @@ title: How Enlightened Are You?
 band: Reenchantment
 authors: ["Victor Fisher", "Aaron Schreiber"]
 explicit: true
+type: Song
 
-description: This music conveys the deepest of wisdom from the lands of the east!
+description: |
+  This music conveys the deepest of wisdom from the lands of the east!
 
 recordings:
   - title: How Enlightened Are You?

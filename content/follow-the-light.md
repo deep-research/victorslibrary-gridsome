@@ -3,8 +3,10 @@ title: Follow the Light
 band: Reenchantment
 authors: ["Victor Fisher"]
 explicit: false
+type: Song
 
-description: This is the second song that I wrote for my main high school band Shroud of Delirium. It exemplifies our early doom metal sound. The lyrics describes the drive towards individuation that I experienced in my early teenage years.
+description: |
+  This is the second song that I wrote for my main high school band Shroud of Delirium. It exemplifies our early doom metal sound. The lyrics describes the drive towards individuation that I experienced in my early teenage years.
 
 recordings:
   - title: Follow the Light (Copyright Version)

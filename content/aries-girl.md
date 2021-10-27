@@ -3,6 +3,7 @@ title: Aries Girl
 band: Reenchantment
 authors: ["Victor Fisher"]
 explicit: false
+type: Song
 
 description: |
   This song was inspired by the [Garden State soundtrack](https://en.wikipedia.org/wiki/Garden_State_(soundtrack)), and those times we let a chance to someone love slip away.

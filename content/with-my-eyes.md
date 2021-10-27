@@ -3,6 +3,7 @@ title: With My Eyes
 band: Reenchantment
 authors: ["Victor Fisher"]
 explicit: false
+type: Song
 
 description: |
   This is an emotional song about the [Occupy Wall Street](https://en.wikipedia.org/wiki/Occupy_Wall_Street) movement.

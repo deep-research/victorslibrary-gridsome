@@ -3,6 +3,7 @@ title: The Grieg and Euphorization Revealed
 band: Reenchantment
 authors: ["Victor Fisher"]
 explicit: false
+type: Song
 
 description: |
   This song depicts the contrast between a feeling of extreme terror and a calm and reflective period that may be experienced in its wake.

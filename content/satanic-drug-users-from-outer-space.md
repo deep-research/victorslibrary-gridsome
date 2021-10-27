@@ -3,8 +3,10 @@ title: Satanic Drug Users from Outer Space
 band: Reenchantment
 authors: ["Victor Fisher", "Aaron Schreiber"]
 explicit: false
+type: Song
 
-description: This kind of song is the reason why I got into into heavy metal as a teenager.
+description: |
+  This kind of song is the reason why I got into into heavy metal as a teenager.
 
 recordings:
   - title: Satanic Drug Users from Outer Space

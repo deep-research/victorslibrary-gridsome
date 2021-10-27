@@ -3,6 +3,7 @@ title: By the Light of the Moon
 band: Reenchantment
 authors: ["Victor Fisher"]
 explicit: false
+type: Song
 
 description: |
   This is a song that was written during a lunar ritual about intuition and depth psychology.

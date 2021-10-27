@@ -3,6 +3,7 @@ title: In Vain...
 band: Reenchantment
 authors: ["Victor Fisher"]
 explicit: true
+type: Song
 
 description: |
   This song reflects upon the awesome power that is possessed by an empire and the vast impact of its gravitational field.

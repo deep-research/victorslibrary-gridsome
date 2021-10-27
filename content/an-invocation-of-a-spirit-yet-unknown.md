@@ -3,6 +3,7 @@ title: An Invocation of a Spirit Yet Unknown
 band: Reenchantment
 authors: ["Victor Fisher"]
 explicit: false
+type: Song
 
 description: |
   This is an ode to the spirits of loneliness.

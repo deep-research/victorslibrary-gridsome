@@ -3,6 +3,7 @@ title: Trip-tamine
 band: Reenchantment
 authors: ["Victor Fisher", "Dr. Timothy Leary"]
 explicit: false
+type: Song
 
 description: |
   This is a psychedelic soundtrack for an epic video by Dr. Timothy Leary.

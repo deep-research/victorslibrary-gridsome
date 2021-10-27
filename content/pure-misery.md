@@ -3,8 +3,10 @@ title: Pure Misery
 band: Reenchantment
 authors: ["Victor Fisher"]
 explicit: false
+type: Song
 
-description: This is a song about nihilism, alienation and the descent into insanity.
+description: |
+  This is a song about nihilism, alienation and the descent into insanity.
 
 recordings:
   - title: Pure Misery

@@ -3,8 +3,10 @@ title: The Curse of the Gothic Rainberries at Death’s Door
 band: Reenchantment
 authors: ["Victor Fisher"]
 explicit: false
+type: Song
 
-description: Listen to this song in a misty graveyard, late at night. It will allow you to master the dark arts.
+description: |
+  Listen to this song in a misty graveyard, late at night. It will allow you to master the dark arts.
 
 recordings:
   - title: The Curse of the Gothic Rainberries at Death’s Door

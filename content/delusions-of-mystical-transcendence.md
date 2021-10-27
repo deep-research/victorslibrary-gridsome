@@ -3,8 +3,10 @@ title: Delusions of Mystical Transcendence
 band: Reenchantment
 authors: ["Victor Fisher"]
 explicit: false
+type: Song
 
-description: This song is inspired by the wicked powers of datura!
+description: |
+  This song is inspired by the wicked powers of datura!
 
 recordings:
   - title: Delusions of Mystical Transcendence

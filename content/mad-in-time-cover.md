@@ -3,6 +3,7 @@ title: Mad in Time (Cover)
 band: Reenchantment
 authors: ["Victor Fisher", "Olivia Wallace"]
 explicit: false
+type: Song
 
 description: |
   This is my version of a folk rock song by [Olivia Wallace](https://soundcloud.com/user-14069985/mad-in-time).

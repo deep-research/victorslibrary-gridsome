@@ -3,8 +3,10 @@ title: Disoriented By the Forest Dark (Far From Help)
 band: Reenchantment
 authors: ["Victor Fisher"]
 explicit: false
+type: Song
 
-description: This song represents the outcry of a wretched soul.
+description: |
+  This song represents the outcry of a wretched soul.
 
 recordings:
   - title: Disoriented By the Forest Dark (Far From Help)

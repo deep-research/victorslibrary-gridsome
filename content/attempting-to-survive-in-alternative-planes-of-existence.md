@@ -3,6 +3,7 @@ title: Attempting to Survive in Alternative Planes of Existence
 band: Reenchantment
 authors: ["Victor Fisher"]
 explicit: true
+type: Song
 
 description: |
   This very intense song inspired by our friends in the police state.

@@ -3,6 +3,7 @@ title: WMXM Hard Rock Promo
 band: Reenchantment
 authors: ["Victor Fisher"]
 explicit: false
+type: Song
 
 description: |
   I used to open my [show](http://wmxm.radioactivity.fm/playlist.html?djoid=5590) on [college radio](https://wmxm.org/) with this recording as the introduction.

@@ -3,8 +3,10 @@ title: Prescription Silencer
 band: Reenchantment
 authors: ["Victor Fisher"]
 explicit: false
+type: Song
 
-description: I experimented with sound design on this high energy synth rock track.
+description: |
+  I experimented with sound design on this high energy synth rock track.
 
 recordings:
   - title: Prescription Silencer

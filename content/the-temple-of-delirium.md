@@ -3,6 +3,7 @@ title: The Temple of Delirium
 band: Reenchantment
 authors: ["Victor Fisher"]
 explicit: false
+type: Song
 
 description: |
   This song is a musical depiction of the dark side within us all.

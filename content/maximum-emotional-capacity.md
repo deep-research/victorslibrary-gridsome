@@ -3,9 +3,10 @@ title: Maximum Emotional Capacity
 band: Reenchantment
 authors: ["Victor Fisher"]
 explicit: false
+type: Song
 
-description: This is sad song about the feeling of longing for love.
-
+description: |
+  This is sad song about the feeling of longing for love.
 
 recordings:
   - title: Maximum Emotional Capacity
