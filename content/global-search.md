@@ -7,8 +7,8 @@ type: Search
 
 import GlobalSearch from '~/components/GlobalSearch.vue'
 
+<g-link to="/search">Search Pages</g-link>
+
+## Results
+
 <GlobalSearch />
-
-<br />
-
-<g-link to="/search">All Search Pages</g-link>

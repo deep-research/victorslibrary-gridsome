@@ -2,7 +2,6 @@
 title: Versions
 authors: ["Victor Fisher"]
 updated: "2021-10-26"
-type: Page
 ---
 
 ## Version of This Site

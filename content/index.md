@@ -2,7 +2,6 @@
 title: Home
 authors: ["Victor Fisher"]
 updated: "2021-10-27"
-type: Page
 ---
 
 ## Welcome to Victor's Library
