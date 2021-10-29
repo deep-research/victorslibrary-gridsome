@@ -4,10 +4,13 @@ authors: ["Victor Fisher"]
 updated: "2021-10-27"
 ---
 
-import SearchPages from '~/components/SearchPages.vue'
-
-<g-link to="/global-search">Global Search</g-link>
+import Search from '~/components/Search.vue'
 
 ## Categories
 
-<SearchPages />
+<Search category="Search" />
+
+## General
+
+1. <g-link to="/global-search">Global Search</g-link>
+2. <g-link to="/uncategorized">Uncategorized</g-link>

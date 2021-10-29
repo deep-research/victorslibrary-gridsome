@@ -1,7 +1,8 @@
 ---
-title: Global Search
+title: Songs
 authors: ["Victor Fisher"]
 updated: "2021-10-27"
+type: Search
 ---
 
 import Search from '~/components/Search.vue'
@@ -10,4 +11,4 @@ import Search from '~/components/Search.vue'
 
 ## Results
 
-<Search />
+<Search category="Song" />
