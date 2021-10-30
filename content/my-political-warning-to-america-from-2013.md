@@ -6,9 +6,9 @@ updated: "2021-09-06"
 type: Article
 ---
 
-import ArticleHeader from '~/components/ArticleHeader.vue'
+import Article from '~/components/Article.vue'
 
-<ArticleHeader :articleData="$frontmatter" />
+<Article :articleData="$frontmatter" />
 
 *Disclaimer: This piece does not necessarily reflect my current views.*
 

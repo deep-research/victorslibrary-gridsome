@@ -28,6 +28,6 @@ lyrics: |
   And if you could feel my pain, you’d see that I won’t last
 ---
 
-import ReenchantmentSong from "~/components/ReenchantmentSong.vue"
+import Song from "~/components/Song.vue"
 
-<ReenchantmentSong :songData="$frontmatter" />
+<Song :songData="$frontmatter" />

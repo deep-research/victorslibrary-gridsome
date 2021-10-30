@@ -33,6 +33,6 @@ lyrics: |
   Bow down to the lord, he rules you all with his despair
 ---
 
-import ReenchantmentSong from "~/components/ReenchantmentSong.vue"
+import Song from "~/components/Song.vue"
 
-<ReenchantmentSong :songData="$frontmatter" />
+<Song :songData="$frontmatter" />

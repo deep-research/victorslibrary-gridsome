@@ -29,6 +29,6 @@ lyrics: |
   And one day I pray that you will be there with me
 ---
 
-import ReenchantmentSong from "~/components/ReenchantmentSong.vue"
+import Song from "~/components/Song.vue"
 
-<ReenchantmentSong :songData="$frontmatter" />
+<Song :songData="$frontmatter" />

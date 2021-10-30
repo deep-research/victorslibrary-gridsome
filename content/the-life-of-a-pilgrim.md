@@ -28,6 +28,6 @@ lyrics: |
   Is not what it may seem
 ---
 
-import ReenchantmentSong from "~/components/ReenchantmentSong.vue"
+import Song from "~/components/Song.vue"
 
-<ReenchantmentSong :songData="$frontmatter" />
+<Song :songData="$frontmatter" />

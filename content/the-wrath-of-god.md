@@ -48,6 +48,6 @@ lyrics: |
   Hail to the end of all time, hail to the end of all
 ---
 
-import ReenchantmentSong from "~/components/ReenchantmentSong.vue"
+import Song from "~/components/Song.vue"
 
-<ReenchantmentSong :songData="$frontmatter" />
+<Song :songData="$frontmatter" />

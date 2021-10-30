@@ -33,6 +33,6 @@ lyrics: |
   > If you don’t have a plan, you become a part of somebody else’s plan
 ---
 
-import ReenchantmentSong from "~/components/ReenchantmentSong.vue"
+import Song from "~/components/Song.vue"
 
-<ReenchantmentSong :songData="$frontmatter" />
+<Song :songData="$frontmatter" />

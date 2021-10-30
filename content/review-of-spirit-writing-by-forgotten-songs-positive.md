@@ -4,9 +4,9 @@ authors: ["D. Kelvin"]
 type: Article
 ---
 
-import ArticleHeader from '~/components/ArticleHeader.vue'
+import Article from '~/components/Article.vue'
 
-<ArticleHeader :articleData="$frontmatter" />
+<Article :articleData="$frontmatter" />
 
 <br />
 

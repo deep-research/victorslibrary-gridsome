@@ -25,6 +25,6 @@ lyrics: |
   You’ve brought upon your soul, a life of pain
 ---
 
-import ReenchantmentSong from "~/components/ReenchantmentSong.vue"
+import Song from "~/components/Song.vue"
 
-<ReenchantmentSong :songData="$frontmatter" />
+<Song :songData="$frontmatter" />

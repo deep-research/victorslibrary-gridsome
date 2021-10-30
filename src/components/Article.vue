@@ -3,6 +3,9 @@
     <div v-if="articleData.authors">
       By: {{articleData.authors.join(', ')}}
     </div>
+    <div v-if="articleData.type">
+      Type: <g-link  to="/articles">Article</g-link>
+    </div>
     <div v-if="articleData.published">
       Published: {{ formatDate(articleData.published) }}
     </div>
