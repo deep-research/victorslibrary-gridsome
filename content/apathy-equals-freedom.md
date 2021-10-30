@@ -13,7 +13,7 @@ recordings:
     type: Recording
     style: Rock
     length: "6:04"
-    released: December 29 2019
+    released: "2019-12-29"
     link: https://victorslibrary.s3.amazonaws.com/music/Apathy+%3D+Freedom/Apathy+%3D+Freedom.mp3
 
 lyrics: |

@@ -13,7 +13,7 @@ recordings:
     type: Recording
     style: Rock
     length: "2:37"
-    released: November 9 2019
+    released: "2019-11-09"
     link: https://victorslibrary.s3.amazonaws.com/music/The+Disco+King/The+Disco+King.mp3
 
 lyrics: Instrumental

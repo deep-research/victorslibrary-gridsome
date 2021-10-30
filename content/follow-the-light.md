@@ -13,7 +13,7 @@ recordings:
     type: Recording
     style: Doom Metal
     length: "10:42"
-    released: May 3 2021
+    released: "2021-05-03"
     link: https://victorslibrary.s3.us-east-2.amazonaws.com/music/Follow+the+Light/Follow+the+Light+(Copyright+Version).mp3
   - title: Follow the Light (Ambient Version)
     type: Recording

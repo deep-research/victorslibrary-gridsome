@@ -13,7 +13,7 @@ recordings:
     type: Recording
     style: Rock
     length: "4:03"
-    released: December 25 2019
+    released: "2019-12-25"
     link: https://victorslibrary.s3.amazonaws.com/music/A+Voice+in+the+Distance/A+Voice+in+the+Distance.mp3
 
 lyrics: |

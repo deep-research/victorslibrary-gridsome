@@ -13,7 +13,7 @@ recordings:
     type: Recording
     style: Rock
     length: "6:35"
-    released: March 10 2021
+    released: "2021-03-10"
     link: https://victorslibrary.s3.us-east-2.amazonaws.com/music/Soul+Loss+in+the+Midst+of+an+Endless+Winter/Soul+Loss+in+the+Midst+of+an+Endless+Winter.mp3
   - title: Soul Loss in the Midst of an Endless Winter (Demo)
     type: Demo

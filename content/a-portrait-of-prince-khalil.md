@@ -13,7 +13,7 @@ recordings:
     type: Recording
     style: Electronic
     length: "1:42"
-    released: April 17 2020
+    released: "2020-04-17"
     link: https://victorslibrary.s3.amazonaws.com/music/A+Portrait+of+Prince+Khalil/A+Portrait+of+Prince+Khalil.mp3
 
 lyrics: Instrumental

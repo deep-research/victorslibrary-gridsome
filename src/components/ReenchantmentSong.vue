@@ -23,7 +23,20 @@
 
     <div v-if="songData.recordings">
       <h2>Recordings</h2>
-      <div>{{ songData.recordings }}</div>
+      <div v-for="(recording, index) in songData.recordings" :key="index">
+        <h3 v-if="recording.title">{{ index+1 }}. {{ recording.title }}</h3>
+        <div v-if="recording.type">Type: {{ recording.type }}</div>
+        <div v-if="recording.style">Style: {{ recording.style }}</div>
+        <div v-if="recording.released">Released: {{ recording.released }}</div>
+        <div v-if="recording.link">
+          <br />
+          <audio controls controlsList="nodownload">
+            <source :src="recording.link" type="audio/ogg">
+            <source :src="recording.link" type="audio/mpeg">
+          Your browser does not support the audio element.
+          </audio>
+        </div>
+      </div>
     </div>
 
     <div v-if="songData.lyrics">
