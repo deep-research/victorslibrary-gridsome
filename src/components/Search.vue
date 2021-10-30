@@ -1,9 +1,11 @@
 <template>
   <div>
+    <!-- Results Count -->
     <div v-if="category !== 'Category'">
-      <g-link to="/">Home Page</g-link>
       <h2>Results: {{filteredData.length}}</h2>
     </div>
+
+    <!-- Sorted Results -->
     <ol>
       <li v-for="node in filteredData" :key="node.id">
         <g-link :to="node.path">{{ node.title }}</g-link>
@@ -41,7 +43,7 @@ export default{
     }
   },
   mounted() {
-    // No Filter
+    // Global Search
     if (!this.category) {
       for (let item of this.$static.pages.edges) {
         this.filteredData.push(item.node)
@@ -62,6 +64,7 @@ export default{
       }      
     }
 
+    // Sorting Algorithm
     let compare = (a, b) => {
       let x = a.title.toLowerCase()
       let y = b.title.toLowerCase()
@@ -75,7 +78,8 @@ export default{
       return 0;
     }
 
-    this.filteredData.sort( compare );
+    // Sort the Data
+    this.filteredData.sort(compare);
   }
 }
 </script>
