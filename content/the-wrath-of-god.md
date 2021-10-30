@@ -27,7 +27,7 @@ lyrics: |
   You’ve always been unstoppable
 
   Iraq war sound sample:
-  > S***, where the f*** was that one
+  > S*\*\*, where the f*\*\* was that one
 
   Satan lives, Satan, he is my master forever
 

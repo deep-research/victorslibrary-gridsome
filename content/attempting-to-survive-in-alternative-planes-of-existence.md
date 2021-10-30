@@ -18,7 +18,7 @@ recordings:
 
 lyrics: |
   I hate you all
-  You f***ing cowards
+  You f*\*\*ing cowards
   Why don’t you go
   Do something worthwhile
   You fight a plant
@@ -28,7 +28,7 @@ lyrics: |
 
   Nation of hate
   Land of tyranny
-  All the f***ing pigs
+  All the f*\*\*ing pigs
   Control everything
 
   Free your mind

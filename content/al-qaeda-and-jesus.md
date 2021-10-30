@@ -26,11 +26,11 @@ recordings:
 
 lyrics: |
   The president’s a killer, wants to bleed you till you’re dead
-  You voted for the f***ing war, but send kids in your stead
+  You voted for the f*\*\*ing war, but send kids in your stead
   The coward is so blinded, he can’t recognize your bribes
-  They bought the f***ing system, now they’re telling you you’ll thrive
+  They bought the f*\*\*ing system, now they’re telling you you’ll thrive
   There is no way in hell that they can save us with their lies
-  Show the f***ing sheeple they are causing our demise
+  Show the f*\*\*ing sheeple they are causing our demise
 
   Al Qaeda and Jesus
   Yeah
@@ -45,7 +45,7 @@ lyrics: |
   Encountering angelic souls that now must seal their fate
 
   I’ll tell you what to do, I know the way to save your life
-  Take a f***ing magnum gun to shoot your boss and wife
+  Take a f*\*\*ing magnum gun to shoot your boss and wife
   Your chakras and your astral body surely will be cleansed
   There is no time to wait ’cause you can never strike again
   All the people, all your life, have always made you slave

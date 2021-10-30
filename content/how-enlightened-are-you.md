@@ -17,7 +17,7 @@ recordings:
     link: https://victorslibrary.s3.amazonaws.com/music/How+Enlightened+Are+You/How+Enlightened+Are+You.mp3
 
 lyrics: |
-  Yo, I’m more enlightened than you m***erf***er
+  Yo, I’m more enlightened than you m*\*\*erf*\*\*er
   
   You fools think you can reach the divine enlightenment on your own?
   Surely you must understand that only through me can these gifts be granted to you
