@@ -14,7 +14,7 @@
 
 <static-query>
 query {
-  pages: allContent (sortBy: "title", order: ASC) {
+  pages: allContent {
     edges {
       node {
         id
@@ -62,6 +62,20 @@ export default{
       }      
     }
 
+    let compare = (a, b) => {
+      let x = a.title.toLowerCase()
+      let y = b.title.toLowerCase()
+      
+      if ( x < y ){
+        return -1;
+      }
+      if ( x > y ){
+        return 1;
+      }
+      return 0;
+    }
+
+    this.filteredData = this.filteredData.sort( compare );
   }
 }
 </script>
