@@ -13,12 +13,13 @@
     </div>
 
     <div v-if="songData.explicit">
-      Explicit: {{songData.explicit}}
+      <br />
+      ⚠️ Warning: Contains explicit content.
     </div>
 
     <div v-if="songData.description">
       <h2>Description</h2>
-      <div>{{ songData.description }}</div>
+      <vue-markdown>{{ songData.description }}</vue-markdown>
     </div>
 
     <div v-if="songData.recordings">
@@ -41,7 +42,7 @@
 
     <div v-if="songData.lyrics">
       <h2>Lyrics</h2>
-      <div>{{ songData.lyrics }}</div>
+      <vue-markdown>{{ songData.lyrics }}</vue-markdown>
     </div>
   </div>
 </template>

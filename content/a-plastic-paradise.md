@@ -66,6 +66,7 @@ lyrics: |
   Ah
 
   <photo src="spirit-writing-new-cover.jpg" alt="The Former Shroud of Delirium"></photo>
+  
 ---
 
 import ReenchantmentSong from "~/components/ReenchantmentSong.vue"
