@@ -1,5 +1,9 @@
 <template>
   <div>
+    <div v-if="category !== 'Category'">
+      <g-link to="/">Home Page</g-link>
+      <h2>Results: {{filteredData.length}}</h2>
+    </div>
     <ol>
       <li v-for="node in filteredData" :key="node.id">
         <g-link :to="node.path">{{ node.title }}</g-link>
