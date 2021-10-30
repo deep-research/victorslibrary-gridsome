@@ -43,6 +43,7 @@
     <div v-if="songData.lyrics">
       <h2>Lyrics</h2>
       <vue-markdown>{{ songData.lyrics }}</vue-markdown>
+      <v-runtime-template :template="songData.lyrics"></v-runtime-template>
     </div>
   </div>
 </template>

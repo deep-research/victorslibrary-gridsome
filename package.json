@@ -13,6 +13,7 @@
     "babel-runtime": "^6.26.0",
     "gh-pages": "^3.2.3",
     "gridsome": "^0.7.0",
+    "v-runtime-template": "^1.10.0",
     "vue-markdown": "^2.2.4"
   }
 }

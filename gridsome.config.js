@@ -16,5 +16,6 @@ module.exports = {
         template: './src/templates/Content.vue' // Optional
       }
     }
-  ]
+  ],
+  runtimeCompiler: true
 }
