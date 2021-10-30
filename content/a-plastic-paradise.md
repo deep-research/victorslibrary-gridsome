@@ -63,10 +63,7 @@ lyrics: |
 
   Ah
   Kaka kapata, kakakaka
-  Ah
-
-  <Search category="Article" />
-  
+  Ah  
 ---
 
 import ReenchantmentSong from "~/components/ReenchantmentSong.vue"
