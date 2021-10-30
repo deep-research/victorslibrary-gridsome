@@ -14,7 +14,7 @@ import ArticleHeader from '~/components/ArticleHeader.vue'
 
 **[Original Post](http://www.chicagodoomconfederacy.com/review-strange-people-in-pain-demo-2019/)**
 
- <g-image src="~/assets/demo-2019.png" alt="Demo 2019" width="500" />
+ <g-image src="~/assets/demo-2019.png" alt="Demo 2019" class="image" />
 
 Strange People In Pain is the latest project from a rather mysterious figure formerly known as "The Lord Reverend Wizard of Alchemical Despair", or more colloquially, Victor Fisher. I first met Victor when he joined Sacred Monster as a vocalist for a few months, way before we even recorded our first EP. That didn't work out due to time constraints, but in the short while that he was in the band, it was apparent that Victor was in a league of his own, musically and otherwise -- he operates on a different plane of existence than most of us mortals. That's especially apparent with his latest project, "Strange People In Pain", which he's kicked off recently with a two-song demo that showcases the different aspects of the sound and its basis in philosophical musings.
 

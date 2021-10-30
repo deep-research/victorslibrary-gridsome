@@ -52,4 +52,10 @@ body {
 .nav__link {
   margin-left: 20px;
 }
+
+.image {
+  width: 100%;
+  max-width: 500px;
+  height: auto;
+}
 </style>

@@ -23,7 +23,7 @@ import ArticleHeader from '~/components/ArticleHeader.vue'
 - Our band was mostly playing doom metal songs with a black metal influence such as Follow the Light, The Ritual, and Hypnotics.
 - We played live at a hookah bar called *Swingstate* that is no longer in existence.
 
-  <g-image src="~/assets/shroud-of-delirium-animation.gif" alt="The Former Shroud of Delirium" width="500" /><br />
+  <g-image src="~/assets/shroud-of-delirium-animation.gif" alt="The Former Shroud of Delirium" class="image" /><br />
   The Former Shroud of Delirium
 
 ### 2008
@@ -44,7 +44,7 @@ import ArticleHeader from '~/components/ArticleHeader.vue'
 - Due to the fact that the band was starting to wane, I started a solo project called *The Reverend of Despair.*
 - I also started a radio show called *[Reverend Radio](https://reenchantment.bandcamp.com/album/the-reverend-radio-promos)* on [WMXM 88.9 FM](http://wmxm.org/), Lake Forest College radio.
 
-  <g-image src="~/assets/forest-reverend.jpg" alt="The Lord Reverend Wizard of Alchemical Despair" width="500" /><br />
+  <g-image src="~/assets/forest-reverend.jpg" alt="The Lord Reverend Wizard of Alchemical Despair" class="image" /><br />
   Behold, The Lord Reverend Wizard of Alchemical Despair!
 
 ### 2011
@@ -59,7 +59,7 @@ import ArticleHeader from '~/components/ArticleHeader.vue'
   Here is a quote that was used to spread the malevolent influence of the album:
   > We, His Excellency The Lord Reverend Wizard of Alchemical Despair Himself! By the Grace of God, Emperor and Autocrat of All Underground Heavy Metal and Rock and Roll Music and the Most Feared D.J. on All Radio, et cetera, et cetera, et cetera Hereby Pronounce "At the Edge of the World" to be the Greatest Recording Ever Created For All Time With No Exception and Deem It Mandatory to Listen to This Record, For All Able Bodied Souls Within the Confines of The Reverend's Magnificently Glorious and Eternal Empire.
 
-  <g-image src="~/assets/at-the-edge-of-the-world.jpg" alt="At the Edge of the World" width="500" /><br />
+  <g-image src="~/assets/at-the-edge-of-the-world.jpg" alt="At the Edge of the World" class="image" /><br />
   Aaron depicted on the cover of my album.
   
 ### 2013
@@ -67,7 +67,7 @@ import ArticleHeader from '~/components/ArticleHeader.vue'
 - Aaron also started a solo project called *[Pater Shrouder](https://patershrouder.bandcamp.com/)*.
 - Aaron and I completed a powerful and violent ritual known as *The Night of Nine Rites*.
 
-  <g-image src="~/assets/shadow-work-by-pater-shrouder.jpg" alt="Shadow Work by Pater Shrouder" width="500" /><br />
+  <g-image src="~/assets/shadow-work-by-pater-shrouder.jpg" alt="Shadow Work by Pater Shrouder" class="image" /><br />
   Shadow Work by Pater Shrouder
 
 ### 2014
@@ -85,7 +85,7 @@ import ArticleHeader from '~/components/ArticleHeader.vue'
 - I shut it down after it started getting attention from our friends in Virginia.
 - Aaron and I were also involved with a mysterious occult group known as *The Shadow Work Society*.
 
-  <g-image src="~/assets/strange-people-in-pain.jpg" alt="The Show Work Society" width="500" /><br />
+  <g-image src="~/assets/strange-people-in-pain.jpg" alt="The Show Work Society" class="image" /><br />
   We are really evil!
 
 ### 2017
