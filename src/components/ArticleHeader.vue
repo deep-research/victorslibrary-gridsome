@@ -12,7 +12,7 @@ export default{
     articleData: {
       type: Object,
       required: true
-    },
+    }
   }
 }
 </script>
