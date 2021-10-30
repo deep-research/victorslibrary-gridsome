@@ -7,7 +7,7 @@ type: Category
 
 import Search from '~/components/Search.vue'
 
-<g-link to="/search">Search Page</g-link>
+<g-link to="/">Search Page</g-link>
 
 ## Results
 

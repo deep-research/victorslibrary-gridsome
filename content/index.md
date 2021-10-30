@@ -4,14 +4,13 @@ authors: ["Victor Fisher"]
 updated: "2021-10-27"
 ---
 
-## Welcome to Victor's Library
+import Search from '~/components/Search.vue'
 
-<p>
-Find a Page<br />
-<g-link to="/search">Search</g-link>
-</p>
+## Categories
 
-<p>
-This website is currently under construction.<br />
-<g-link to="/versions">Older Versions</g-link>
-</p>
+<Search category="Category" />
+
+## General
+
+1. <g-link to="/global-search">Global Search</g-link>
+2. <g-link to="/uncategorized">Uncategorized</g-link>
