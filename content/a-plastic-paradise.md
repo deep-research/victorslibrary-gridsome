@@ -10,6 +10,7 @@ description: |
 
 recordings:
   - title: A Plastic Paradise
+    # author:
     type: Recording
     style: Hard Rock
     length: "4:54"

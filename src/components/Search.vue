@@ -1,9 +1,9 @@
 <template>
   <div>
     <!-- Results Count -->
-    <div v-if="category !== 'Category'">
-      <h2>Results: {{filteredData.length}}</h2>
-    </div>
+    <h2 >
+      Results: {{filteredData.length}}
+    </h2>
 
     <!-- Sorted Results -->
     <ol>
@@ -43,6 +43,7 @@ export default{
     }
   },
   mounted() {
+    // TRY TO MAKE THIS MORE CONSISE
     // Global Search
     if (!this.category) {
       for (let item of this.$static.pages.edges) {
@@ -61,7 +62,7 @@ export default{
         if (item.node.type == this.category) {
           this.filteredData.push(item.node)
         }
-      }      
+      }
     }
 
     // Sorting Algorithm
