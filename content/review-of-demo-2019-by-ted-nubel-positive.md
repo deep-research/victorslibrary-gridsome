@@ -10,7 +10,7 @@ import Article from '~/components/Article.vue'
 
 <Article :articleData="$frontmatter" />
 
-## Chicago Doom Confederacy Review
+### Chicago Doom Confederacy Review
 
 **[Original Post](http://www.chicagodoomconfederacy.com/review-strange-people-in-pain-demo-2019/)**
 
@@ -26,6 +26,6 @@ Victor is not one for convention, which is why to listen to this demo in the int
 
 I end up running into Victor every couple of years -- sometimes physically, sometimes through email, and it's always nice to see what he's up to. Fun fact -- a while back he filled in on bass with Sacred Monster at a Mutiny show for a single cover of Black Sabbath's "Snowblind", which also makes him, technically, a live member. I can't really predict what he'll be up to next, but make sure you listen to this latest iteration.
 
-### You can find the demo here:
+#### You can find the demo here:
 1. [They'll Come For You](/theyll-come-for-you/)
 2. [The Ritual](/the-ritual/)

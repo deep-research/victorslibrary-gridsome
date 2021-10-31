@@ -10,7 +10,7 @@ import Article from '~/components/Article.vue'
 
 <Article :articleData="$frontmatter" />
 
-## From Show 328
+### From Show 328
 
 <g-image src="~/assets/she-likes-it-heavy.jpg" alt="She Likes It Heavy" class="image" />
 

@@ -9,12 +9,12 @@ import Article from '~/components/Article.vue'
 
 <Article :articleData="$frontmatter" />
 
-### 2006
+#### 2006
 
 - I started playing guitar after I discovered 60s psychedelic rock bands like The Beatles, Queen, Led Zeppelin, Deep Purple, Steppenwolf, Creedence, Rare Earth and Jefferson Airplane.
 - I had previously been a violin player in school orchestras with an interest in folk music, disco music and movie soundtracks.
 
-### 2007
+#### 2007
 
 - After getting into Slayer, Melechesh and Amon Amarth, I was inspired to discover what the heaviest possible music is. This lead to an intense interest in doom metal and black metal.
 - I starting writing a doom metal and psychedelic rock live set.
@@ -26,19 +26,19 @@ import Article from '~/components/Article.vue'
   <g-image src="~/assets/shroud-of-delirium-animation.gif" alt="The Former Shroud of Delirium" class="image" /><br />
   The Former Shroud of Delirium
 
-### 2008
+#### 2008
 
 - The band entered a psychedelic period in 2008.
 - I was into stoner movies like *Dig!*, *Dazed & Confused* and *This Is How We Trip* at the time. I also loved conspiracy documentaries on *Google Video* like *Zeitgeist* and *America: Freedom to Fascism*.
 - I added Acoustic rock songs such as They'll Come For You and Remember to the set.
 - A short lived project called *Jeff's After School Special* was formed.
 
-### 2009
+#### 2009
 
 - We radically slowed down our tempos due to an increased interest in funeral doom and drone doom.
 - We also became interested in spiritual practices such as meditation and ritual.
 
-### 2010
+#### 2010
 
 - Aaron visited a spiritual community in New Mexico called the *[Lama Foundation](https://www.lamafoundation.org/)* and eventually became their treasurer.
 - Due to the fact that the band was starting to wane, I started a solo project called *The Reverend of Despair.*
@@ -47,12 +47,12 @@ import Article from '~/components/Article.vue'
   <g-image src="~/assets/forest-reverend.jpg" alt="The Lord Reverend Wizard of Alchemical Despair" class="image" /><br />
   Behold, The Lord Reverend Wizard of Alchemical Despair!
 
-### 2011
+#### 2011
 
 - I became increasingly interested in the occult.
 - I recorded an eclectic album called *[Spirit Writing](https://reenchantment.bandcamp.com/album/spirit-writing)*. It had a pleasantly underground feel to it.
 
-### 2012
+#### 2012
 
 - I recorded an album called *[At the Edge of the World](https://reenchantment.bandcamp.com/album/at-the-edge-of-the-world)* that had a much bigger sound.
 
@@ -62,7 +62,7 @@ import Article from '~/components/Article.vue'
   <g-image src="~/assets/at-the-edge-of-the-world.jpg" alt="At the Edge of the World" class="image" /><br />
   Aaron depicted on the cover of my album.
   
-### 2013
+#### 2013
 
 - Aaron also started a solo project called *[Pater Shrouder](https://patershrouder.bandcamp.com/)*.
 - Aaron and I completed a powerful and violent ritual known as *The Night of Nine Rites*.
@@ -70,15 +70,15 @@ import Article from '~/components/Article.vue'
   <g-image src="~/assets/shadow-work-by-pater-shrouder.jpg" alt="Shadow Work by Pater Shrouder" class="image" /><br />
   Shadow Work by Pater Shrouder
 
-### 2014
+#### 2014
 
 - Aaron and I collaborated on a strange an awesome project known as *[The 666 Names of Aleister Crowley](/the-666-names-of-aleister-crowley)*.
 
-### 2015
+#### 2015
 
 - I graduated from Lake Forest College with a degree in music and religion.
 
-### 2016
+#### 2016
 
 - I created controversial website that covered news about witchcraft from around the world.
 - The site started to generate minor traffic from across the world.
@@ -88,28 +88,28 @@ import Article from '~/components/Article.vue'
   <g-image src="~/assets/strange-people-in-pain.jpg" alt="The Show Work Society" class="image" /><br />
   We are really evil!
 
-### 2017
+#### 2017
 
 - I created yet another website called *The Deep Research Archive*. This was a close precursor to the current incarnation.
 
-### 2018
+#### 2018
 
 - I created the first version of this website to promote my music and archive all of my work.
 - I was studying in web development at the time, so the quality ended up being much higher than my previous attempts at publishing had been.
 - The recording quality for my music was also radically improving with recordings like They'll Come For You, The Ritual, The Ceremony of Forgiveness, and Otherworldly Dream Magic.
 - I debated whether my musical project should be called *Strange People in Pain* or *Reenchantment*.
 
-### 2019
+#### 2019
 
 - I became interested in library science to improve the research side of this project.
 - I did a lot of writing and recording for the website. The main goal was to release demo versions of almost every song.
 
-### 2020
+#### 2020
 
 - I created a second version of the website with a more developer friendly framework. It was definitely more custom, although I wasn't able to continue the process due to problems with the architecture.
 - I started to work on recording demos to copyright my songs.
 
-### 2021
+#### 2021
 
 - I completed a major update of my musical equipment.
 - I was able to finish copyrighting my songs.

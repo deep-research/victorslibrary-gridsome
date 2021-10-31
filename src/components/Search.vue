@@ -1,9 +1,9 @@
 <template>
   <div>
     <!-- Results Count -->
-    <h2 v-if="filter !== 'Category'">
+    <h3 v-if="filter !== 'Category'">
       Results: {{filteredData.length}}
-    </h2>
+    </h3>
 
     <!-- Sorted Results -->
     <ol>
