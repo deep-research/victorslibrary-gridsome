@@ -42,30 +42,8 @@ export default{
       filteredData: []
     }
   },
-  mounted() {
-    // Global Search
-    if (!this.category) {
-      for (let item of this.$static.pages.edges) {
-        this.filteredData.push(item.node)
-      }
-    // Pages With No Category
-    } else if (this.category == "None") {
-      for (let item of this.$static.pages.edges) {
-        if (item.node.type == "") {
-          this.filteredData.push(item.node)
-        }
-      }
-    // Pages With a Category
-    } else {
-      for (let item of this.$static.pages.edges) {
-        if (item.node.type == this.category) {
-          this.filteredData.push(item.node)
-        }
-      }      
-    }
-
-    // Sorting Algorithm
-    let compare = (a, b) => {
+  methods: {
+    compare(a, b) {
       let x = a.title.toLowerCase()
       let y = b.title.toLowerCase()
 
@@ -77,9 +55,25 @@ export default{
       }
       return 0;
     }
+  },
+  mounted() {
+    for (let item of this.$static.pages.edges) {
+      // Global Search
+      if (!this.category) {
+        this.filteredData.push(item.node)
+
+      // Pages With No Category
+      } else if (this.category == "None" & item.node.type == "") {
+        this.filteredData.push(item.node)   
+             
+      // Pages With a Category
+      } else if (item.node.type == this.category) {
+        this.filteredData.push(item.node)
+      }
+    }
 
     // Sort the Data
-    this.filteredData.sort(compare);
+    this.filteredData.sort(this.compare);
   }
 }
 </script>
