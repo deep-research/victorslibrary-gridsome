@@ -28,6 +28,19 @@ body {
   padding:0;
   line-height: 1.5;
   font-size: 125%;
+   background: rgba(0, 128, 0, 0.1)
+}
+
+@keyframes gradient {
+  0% {
+    background-position: 0% 50%;
+  }
+  50% {
+    background-position: 100% 50%;
+  }
+  100% {
+    background-position: 0% 50%;
+  }
 }
 
 .layout {
@@ -41,6 +54,7 @@ body {
   display: flex;
   justify-content: space-between;
   align-items: center;
+  margin-top: 10px;
   margin-bottom: 20px;
   height: 80px;
 }
@@ -52,6 +66,7 @@ body {
 
 .nav__link {
   margin-left: 20px;
+  text-decoration: none;
 }
 
 .image {
@@ -65,12 +80,9 @@ ol li {
 }
 
 .siteTitle {
-  font-size: 30px;
+  font: 30px Helvetica, Sans-Serif;
   text-decoration: none;
-  color: grey;
-}
-
-.siteTitle:hover {
-  opacity: .7;
+	letter-spacing: 7px;
+	color: rgba(0,0,255,0.5);
 }
 </style>
