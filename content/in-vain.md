@@ -8,7 +8,7 @@ type: Song
 description: |
   This song reflects upon the awesome power that is possessed by an empire and the vast impact of its gravitational field.
 
-  The audio clips were sourced from an [RT News](https://www.rt.com/) interview with Senator Mike Gravel.
+  The audio clips were sourced from an <a href="https://www.rt.com/" target="_blank">RT News</a> interview with Senator Mike Gravel.
 
 recordings:
   - title: In Vain...

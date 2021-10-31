@@ -6,7 +6,7 @@ explicit: false
 type: Song
 
 description: |
-  This is my version of a folk rock song by [Olivia Wallace](https://soundcloud.com/user-14069985/mad-in-time).
+  This is my version of a folk rock song by <a href="https://soundcloud.com/user-14069985/mad-in-time" target="_blank">Olivia Wallace</a>.
 
 recordings:
   - title: Mad in Time (Cover)

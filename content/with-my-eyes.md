@@ -6,7 +6,7 @@ explicit: false
 type: Song
 
 description: |
-  This is an emotional song about the [Occupy Wall Street](https://en.wikipedia.org/wiki/Occupy_Wall_Street) movement.
+  This is an emotional song about the <a href="https://en.wikipedia.org/wiki/Occupy_Wall_Street" target="_blank">Occupy Wall Street</a> movement.
 
 recordings:
   - title: With My Eyes

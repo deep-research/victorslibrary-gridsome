@@ -6,7 +6,7 @@ explicit: false
 type: Song
 
 description: |
-  This song was recorded back in the era when Victor was interested in the art of the [death growl](https://en.wikipedia.org/wiki/Death_growl).
+  This song was recorded back in the era when Victor was interested in the art of the <a href="https://en.wikipedia.org/wiki/Death_growl" target="_blank">death growl</a>.
   
   Black metal bands such as Darkthrone were a major inspiration.
 

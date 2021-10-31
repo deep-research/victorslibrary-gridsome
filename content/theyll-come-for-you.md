@@ -6,7 +6,7 @@ explicit: false
 type: Song
 
 description: |
-  The song discusses the way we are unconsciously shaped by [social conditioning](https://en.wikipedia.org/wiki/Social_conditioning).
+  The song discusses the way we are unconsciously shaped by <A href="https://en.wikipedia.org/wiki/Social_conditioning" target="_blank">social conditioning</a>.
 
   This is one of the best examples of my acoustic rock songwriting. The *Mermaid Version* ended up capturing my sound in the most accurate way, although the last minute of the *Pilgrimage Version* is also very interesting because is revealed how I would sound with a more radio friendly approach.
 

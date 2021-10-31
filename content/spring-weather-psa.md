@@ -8,7 +8,7 @@ type: Song
 description: |
   I was required to play public service announcements on my college radio show, which was called *Reverend Radio*. After getting sick of them, I decided to make one of my own. It ended up playing the automation system for many months.
   
-  [WMXM 88.9 FM Lake Forest College Radio](https://wmxm.org/)
+  <a href="https://wmxm.org/" target="_blank">WMXM 88.9 FM - Lake Forest College Radio</a>
 
 
 recordings:

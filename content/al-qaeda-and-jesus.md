@@ -6,7 +6,7 @@ explicit: true
 type: Song
 
 description: |
-  One time I spent an entire summer listening to [crossover thrash](https://en.wikipedia.org/wiki/Crossover_thrash). Things eventually boiled over when I repeatedly screamed “Al Qaeda” and gave the Nazi salute towards a busy intersection of commuters stuck in traffic. I was on rollerblades.
+  One time I spent an entire summer listening to <a href="https://en.wikipedia.org/wiki/Crossover_thrash" target="_blank">crossover thrash</a>. Things eventually boiled over when I repeatedly screamed “Al Qaeda” and gave the Nazi salute towards a busy intersection of commuters stuck in traffic. I was on rollerblades.
 
   This recording was also a lot of fun to make because I had scream "Al Qaeda" at the top of my lungs repeatedly.
 
