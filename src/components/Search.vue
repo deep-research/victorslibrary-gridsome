@@ -60,12 +60,12 @@ export default{
     for (let item of this.$static.pages.edges) {
       // Global Search
       if (!this.category) {
-        this.filteredData.push(item.node)
+       this.filteredData.push(item.node)
 
       // Pages With No Category
-      } else if (this.category == "None" & item.node.type == "") {
-        this.filteredData.push(item.node)   
-             
+      } else if (this.category == "None" && item.node.type == "") {
+        this.filteredData.push(item.node) 
+
       // Pages With a Category
       } else if (item.node.type == this.category) {
         this.filteredData.push(item.node)
