@@ -7,4 +7,4 @@ type: Category
 
 import Search from '~/components/Search.vue'
 
-<Search category="Song" />
+<Search filter="Song" />

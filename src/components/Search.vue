@@ -1,7 +1,7 @@
 <template>
   <div>
     <!-- Results Count -->
-    <h2 v-if="category !== 'Category'">
+    <h2 v-if="filter !== 'Category'">
       Results: {{filteredData.length}}
     </h2>
 
@@ -32,7 +32,7 @@ query {
 <script>
 export default{
   props: {
-    category: {
+    filter: {
       type: String,
       required: false
     }
@@ -59,15 +59,15 @@ export default{
   mounted() {
     for (let item of this.$static.pages.edges) {
       // Global Search
-      if (!this.category) {
+      if (!this.filter) {
        this.filteredData.push(item.node)
 
       // Pages With No Category
-      } else if (this.category == "None" && item.node.type == "") {
+      } else if (this.filter == "None" && item.node.type == "") {
         this.filteredData.push(item.node) 
 
       // Pages With a Category
-      } else if (item.node.type == this.category) {
+      } else if (this.filter == item.node.type) {
         this.filteredData.push(item.node)
       }
     }

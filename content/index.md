@@ -8,7 +8,7 @@ import Search from '~/components/Search.vue'
 
 ## Categories
 
-<Search category="Category" />
+<Search filter="Category" />
 
 ## General
 
