@@ -1,7 +1,7 @@
 <template>
   <div>
     <!-- Results Count -->
-    <h2 >
+    <h2 v-if="category !== 'Category'">
       Results: {{filteredData.length}}
     </h2>
 
@@ -43,7 +43,6 @@ export default{
     }
   },
   mounted() {
-    // TRY TO MAKE THIS MORE CONSISE
     // Global Search
     if (!this.category) {
       for (let item of this.$static.pages.edges) {
@@ -62,7 +61,7 @@ export default{
         if (item.node.type == this.category) {
           this.filteredData.push(item.node)
         }
-      }
+      }      
     }
 
     // Sorting Algorithm
