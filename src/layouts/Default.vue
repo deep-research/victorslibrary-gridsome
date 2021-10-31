@@ -4,9 +4,9 @@
       <strong>
         <g-link class="siteTitle" to="/">{{ $static.metadata.siteName }}</g-link>
       </strong>
-      <nav class="nav">
+      <!-- <nav class="nav">
         <g-link class="nav__link" to="/versions">Versions</g-link>
-      </nav>
+      </nav> -->
     </header>
     <slot/>
     <footer class="footer">© {{new Date().getFullYear()}} Victor Fisher</footer>

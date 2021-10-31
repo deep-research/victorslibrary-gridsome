@@ -22,7 +22,7 @@ The opener, "They'll Come For You (Mermaid Version)", is a relaxed atmospheric r
 
 On the flip side is "The Ritual", with a doomier sound closer to T.L.R.W.o.A.D.'s previous output. It feels almost like a black metal lens cast upon the atmospheric rock of the opening track, which averages out to a slow, evil and groovy affair with harsher vocals. Still present here are the 70s-feeling progressions and adept manipulation of melodies to craft something that's far more than just a few riffs stapled together. So, think first-wave black metal riffs tied together with Black Sabbath trimmings and you're getting there.
 
-Victor is not one for convention, which is why to listen to this demo in the intended order you'll need to hit up the [band website](https://victorslibrary.com/), where you can also check out the backstory on the band, which has been written in a sort of tongue-in-cheek historical retrospective tone.
+Victor is not one for convention, which is why to listen to this demo in the intended order you'll need to hit up the [band website](http://evilrockmusic.com/), where you can also check out the backstory on the band, which has been written in a sort of tongue-in-cheek historical retrospective tone.
 
 I end up running into Victor every couple of years -- sometimes physically, sometimes through email, and it's always nice to see what he's up to. Fun fact -- a while back he filled in on bass with Sacred Monster at a Mutiny show for a single cover of Black Sabbath's "Snowblind", which also makes him, technically, a live member. I can't really predict what he'll be up to next, but make sure you listen to this latest iteration.
 

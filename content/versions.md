@@ -4,6 +4,12 @@ authors: ["Victor Fisher"]
 updated: "2021-10-26"
 ---
 
-1. <g-link to="/">This Is the newest version.</g-link>
-2. [The previous prototype is broken.](https://nuxt.victorslibrary.com/)
-3. [The old version archived my music.](https://strapi.victorslibrary.com/)
+### Main Addresses
+
+1. Main Page: <a href="https://victorslibrary.com/">victorslibrary.com</a>
+2. Victor's Music: <a href="https://victorslibrary.com/">evilrockmusic.com</a>
+
+### Older Versions
+
+1. Broken Prototype: [nuxt.victorslibrary.com](https://nuxt.victorslibrary.com/)
+2. Working Old Version: [strapi.victorslibrary.com](https://strapi.victorslibrary.com/)
