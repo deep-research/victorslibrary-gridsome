@@ -11,5 +11,5 @@ updated: "2021-10-26"
 
 ### Older Versions
 
-1. Broken Prototype: [nuxt.victorslibrary.com](https://nuxt.victorslibrary.com/)
-2. Working Old Version: [strapi.victorslibrary.com](https://strapi.victorslibrary.com/)
+1. Working Old Version: [strapi.victorslibrary.com](https://strapi.victorslibrary.com/)
+2. Broken Prototype: [nuxt.victorslibrary.com](https://nuxt.victorslibrary.com/)
