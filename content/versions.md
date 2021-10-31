@@ -9,7 +9,7 @@ updated: "2021-10-26"
 1. Main Page: <a href="https://victorslibrary.com/">victorslibrary.com</a>
 2. Original Music: <a href="https://victorslibrary.com/">evilrockmusic.com</a>
 
-### Older Versions
+### Old Versions
 
 1. Working Old Version: [strapi.victorslibrary.com](https://strapi.victorslibrary.com/)
 2. Broken Prototype: [nuxt.victorslibrary.com](https://nuxt.victorslibrary.com/)
