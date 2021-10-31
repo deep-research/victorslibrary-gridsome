@@ -7,7 +7,7 @@ updated: "2021-10-26"
 ### Main Addresses
 
 1. Main Page: <a href="https://victorslibrary.com/">victorslibrary.com</a>
-2. Victor's Music: <a href="https://victorslibrary.com/">evilrockmusic.com</a>
+2. Original Music: <a href="https://victorslibrary.com/">evilrockmusic.com</a>
 
 ### Older Versions
 
