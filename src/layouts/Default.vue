@@ -28,7 +28,6 @@ body {
   padding:0;
   line-height: 1.5;
   font-size: 125%;
-   background: rgba(0, 128, 0, 0.1)
 }
 
 @keyframes gradient {
