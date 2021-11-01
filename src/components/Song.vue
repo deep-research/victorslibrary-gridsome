@@ -21,10 +21,9 @@
       Updated: {{ formatDate(songData.updated) }}
     </div>
 
-    <div v-if="songData.explicit">
-      <br />
+    <p v-if="songData.explicit">
       ⚠️ Warning: Contains explicit content.
-    </div>
+    </p>
 
     <div v-if="songData.description">
       <h3>Description</h3>
@@ -38,14 +37,13 @@
         <div v-if="recording.type">Type: {{ recording.type }}</div>
         <div v-if="recording.style">Style: {{ recording.style }}</div>
         <div v-if="recording.released">Released: {{ formatDate(recording.released) }}</div>
-        <div v-if="recording.link">
-          <br />
+        <p v-if="recording.link">
           <audio controls controlsList="nodownload">
             <source :src="recording.link" type="audio/ogg">
             <source :src="recording.link" type="audio/mpeg">
           Your browser does not support the audio element.
           </audio>
-        </div>
+        </p>
       </div>
     </div>
 
