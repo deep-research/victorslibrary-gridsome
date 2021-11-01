@@ -63,7 +63,7 @@ export default{
        this.filteredData.push(item.node)
 
       // Pages With No Category
-      } else if (this.filter == "None" && item.node.type == "") {
+      } else if (this.filter == "None" && !item.node.type) {
         this.filteredData.push(item.node) 
 
       // Pages With a Category

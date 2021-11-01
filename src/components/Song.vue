@@ -11,7 +11,7 @@
         By: {{ songData.authors.join(', ') }}
       </span>     
     </div>
-    <div v-if="songData.type">
+    <div v-if="songData.type == 'Song'">
       Type: <g-link  to="/songs">Song</g-link>
     </div>
     <div v-if="songData.published">

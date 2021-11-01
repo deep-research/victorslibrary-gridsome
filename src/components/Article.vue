@@ -3,7 +3,7 @@
     <div v-if="articleData.authors">
       By: {{articleData.authors.join(', ')}}
     </div>
-    <div v-if="articleData.type">
+    <div v-if="articleData.type == 'Article'">
       Type: <g-link  to="/articles">Article</g-link>
     </div>
     <div v-if="articleData.published">
