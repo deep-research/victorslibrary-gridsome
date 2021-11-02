@@ -62,10 +62,6 @@ body {
   height: auto;
 }
 
-ol li, ul li {
-  margin-bottom: 10px;;
-}
-
 .siteTitle {
   font: 30px Helvetica, Sans-Serif;
   text-decoration: none;
