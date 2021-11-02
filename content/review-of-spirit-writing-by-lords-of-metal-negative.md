@@ -3,9 +3,7 @@ title: Review of Spirit Writing by Lords of Metal (Negative)
 authors: ["Marcel H."]
 ---
 
-By: {{ $frontmatter.authors.join(', ') }}<br />
-Published: {{ formatDate($frontmatter.published) }}<br />
-Updated: {{ formatDate($frontmatter.updated) }}
+By: {{ $frontmatter.authors.join(', ') }}
 
 <p>
   <g-image src="~/assets/spirit-writing-old-cover.jpg" alt="Spirit Writing Cover" class="image" />
