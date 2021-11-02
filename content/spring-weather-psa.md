@@ -3,7 +3,6 @@ title: Spring Weather PSA
 band: Reenchantment
 authors: ["Victor Fisher"]
 explicit: false
-type: Song
 
 description: |
   I was required to play public service announcements on my college radio show, which was called *Reverend Radio*. After getting sick of them, I decided to make one of my own. It ended up playing the automation system for many months.
@@ -11,13 +10,13 @@ description: |
   <a href="https://wmxm.org/" target="_blank">WMXM 88.9 FM - Lake Forest College Radio</a>
 
 
-recordings:
-  - title: 
-    type: 
-    style: 
-    length: 
-    released: 
-    link: 
+# recordings:
+#   - title: 
+#     type: 
+#     style: 
+#     length: 
+#     released: 
+#     link: 
 
 lyrics: |
   Hello, I’m The Reverend of Despair and you’re listening to WMXM 88.9 FM, Lake Forest College Radio
@@ -33,6 +32,17 @@ lyrics: |
   *This has been a public service announcement from The Reverend of Despair*
 ---
 
-import Song from "~/components/Song.vue"
+By: {{ $frontmatter.band }} ({{ $frontmatter.authors.join(', ') }})  
+Explicit: {{$frontmatter.explicit}}
 
-<Song :songData="$frontmatter" />
+## Description
+
+<vue-markdown>{{ $frontmatter.description }}</vue-markdown>
+
+## Recordings
+
+{{ $frontmatter.recordings }}
+
+## Lyrics
+
+<vue-markdown>{{ $frontmatter.lyrics }}</vue-markdown>

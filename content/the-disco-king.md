@@ -3,7 +3,6 @@ title: The Disco King
 band: Reenchantment
 authors: ["Victor Fisher"]
 explicit: false
-type: Song
 
 description: |
   This is a psychedelic rock jam that exudes pure coolness at every level.
@@ -19,6 +18,17 @@ recordings:
 lyrics: Instrumental
 ---
 
-import Song from "~/components/Song.vue"
+By: {{ $frontmatter.band }} ({{ $frontmatter.authors.join(', ') }})  
+Explicit: {{$frontmatter.explicit}}
 
-<Song :songData="$frontmatter" />
+## Description
+
+<vue-markdown>{{ $frontmatter.description }}</vue-markdown>
+
+## Recordings
+
+{{ $frontmatter.recordings }}
+
+## Lyrics
+
+<vue-markdown>{{ $frontmatter.lyrics }}</vue-markdown>

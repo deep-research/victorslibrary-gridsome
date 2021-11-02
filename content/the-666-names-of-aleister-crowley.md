@@ -3,7 +3,6 @@ title: The 666 Names of Aleister Crowley
 band: Pater Shrouder
 authors: ["Aaron Schreiber", "Victor Fisher"]
 explicit: true
-type: Song
 
 description: |
   This is a Hindu style prayer, chanted in honor of <a href="https://en.wikipedia.org/wiki/Aleister_Crowley" target="_blank">the great beast 666</a> himself.
@@ -154,6 +153,17 @@ lyrics: |
   He who is the consort of G.G. Allen
 ---
 
-import Song from "~/components/Song.vue"
+By: {{ $frontmatter.band }} ({{ $frontmatter.authors.join(', ') }})  
+Explicit: {{$frontmatter.explicit}}
 
-<Song :songData="$frontmatter" />
+## Description
+
+<vue-markdown>{{ $frontmatter.description }}</vue-markdown>
+
+## Recordings
+
+{{ $frontmatter.recordings }}
+
+## Lyrics
+
+<vue-markdown>{{ $frontmatter.lyrics }}</vue-markdown>

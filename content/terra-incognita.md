@@ -3,7 +3,6 @@ title: Terra Incognita
 band: Reenchantment
 authors: ["Victor Fisher"]
 explicit: false
-type: Song
 
 description: |
   This is an atmospheric rock song that has a nautical feel to it.
@@ -19,6 +18,17 @@ recordings:
 lyrics: Instrumental
 ---
 
-import Song from "~/components/Song.vue"
+By: {{ $frontmatter.band }} ({{ $frontmatter.authors.join(', ') }})  
+Explicit: {{$frontmatter.explicit}}
 
-<Song :songData="$frontmatter" />
+## Description
+
+<vue-markdown>{{ $frontmatter.description }}</vue-markdown>
+
+## Recordings
+
+{{ $frontmatter.recordings }}
+
+## Lyrics
+
+<vue-markdown>{{ $frontmatter.lyrics }}</vue-markdown>

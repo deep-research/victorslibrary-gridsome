@@ -3,7 +3,6 @@ title: Sleeper Cell
 band: Reenchantment
 authors: ["Victor Fisher"]
 explicit: false
-type: Song
 
 description: |
   I made this track to try out some new distortion pedals. It has an aggressive sound, and I was able to include a disco sounding electric piano as well!
@@ -19,6 +18,17 @@ recordings:
 lyrics: Instrumental
 ---
 
-import Song from "~/components/Song.vue"
+By: {{ $frontmatter.band }} ({{ $frontmatter.authors.join(', ') }})  
+Explicit: {{$frontmatter.explicit}}
 
-<Song :songData="$frontmatter" />
+## Description
+
+<vue-markdown>{{ $frontmatter.description }}</vue-markdown>
+
+## Recordings
+
+{{ $frontmatter.recordings }}
+
+## Lyrics
+
+<vue-markdown>{{ $frontmatter.lyrics }}</vue-markdown>

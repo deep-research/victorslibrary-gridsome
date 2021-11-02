@@ -3,14 +3,11 @@ title: Low Frequency
 band: Reenchantment
 authors: ["Victor Fisher"]
 explicit: false
-type: Song
 
 description: |
   *Prepare yourself for an evil sound exploration that is certain to trigger both insanity and enlightenment!*
 
   Alan Moore has discussed the alchemical principals of solve and coagula in his speeches on magic. These concepts would be referred to as analysis and synthesis today. This sound exploration was created at a time when Victor was primarily interested in the possibilities of analytical thought. It is meant for playing in the background during ritual work.
-
-  Please note: This recording is currently not available but can be provided upon request.
 
 # recordings:
 #   - title: 
@@ -23,6 +20,17 @@ description: |
 lyrics: Instrumental
 ---
 
-import Song from "~/components/Song.vue"
+By: {{ $frontmatter.band }} ({{ $frontmatter.authors.join(', ') }})  
+Explicit: {{$frontmatter.explicit}}
 
-<Song :songData="$frontmatter" />
+## Description
+
+<vue-markdown>{{ $frontmatter.description }}</vue-markdown>
+
+## Recordings
+
+This recording is currently not available.
+
+## Lyrics
+
+<vue-markdown>{{ $frontmatter.lyrics }}</vue-markdown>

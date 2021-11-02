@@ -1,12 +1,11 @@
 ---
 title: Review of Spirit Writing by Lords of Metal (Negative)
 authors: ["Marcel H."]
-type: Article
 ---
 
-import Article from '~/components/Article.vue'
-
-<Article :articleData="$frontmatter" />
+By: {{ $frontmatter.authors.join(', ') }}<br />
+Published: {{ formatDate($frontmatter.published) }}<br />
+Updated: {{ formatDate($frontmatter.updated) }}
 
 <p>
   <g-image src="~/assets/spirit-writing-old-cover.jpg" alt="Spirit Writing Cover" class="image" />

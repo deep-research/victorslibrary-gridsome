@@ -3,7 +3,6 @@ title: With My Eyes
 band: Reenchantment
 authors: ["Victor Fisher"]
 explicit: false
-type: Song
 
 description: |
   This is an emotional song about the <a href="https://en.wikipedia.org/wiki/Occupy_Wall_Street" target="_blank">Occupy Wall Street</a> movement.
@@ -37,6 +36,17 @@ lyrics: |
   And leave their fear and tyranny exposed
 ---
 
-import Song from "~/components/Song.vue"
+By: {{ $frontmatter.band }} ({{ $frontmatter.authors.join(', ') }})  
+Explicit: {{$frontmatter.explicit}}
 
-<Song :songData="$frontmatter" />
+## Description
+
+<vue-markdown>{{ $frontmatter.description }}</vue-markdown>
+
+## Recordings
+
+{{ $frontmatter.recordings }}
+
+## Lyrics
+
+<vue-markdown>{{ $frontmatter.lyrics }}</vue-markdown>

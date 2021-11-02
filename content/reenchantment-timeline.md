@@ -2,12 +2,10 @@
 title: Reenchantment Timeline
 authors: ["Victor Fisher"]
 updated: "2021-09-06"
-type: Article
 ---
 
-import Article from '~/components/Article.vue'
-
-<Article :articleData="$frontmatter" />
+By: {{ $frontmatter.authors.join(', ') }}<br />
+Updated: {{ formatDate($frontmatter.updated) }}
 
 #### 2006
 

@@ -3,12 +3,11 @@ title: My Political Warning to America From 2013
 authors: ["Victor Fisher"]
 published: "2013-03-28"
 updated: "2021-09-06"
-type: Article
 ---
 
-import Article from '~/components/Article.vue'
-
-<Article :articleData="$frontmatter" />
+By: {{ $frontmatter.authors.join(', ') }}<br />
+Published: {{ formatDate($frontmatter.published) }}<br />
+Updated: {{ formatDate($frontmatter.updated) }}
 
 *Disclaimer: This piece does not necessarily reflect my current views.*
 

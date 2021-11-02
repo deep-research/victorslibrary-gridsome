@@ -3,14 +3,13 @@ title: Hypnotics
 band: Reenchantment
 authors: ["Victor Fisher"]
 explicit: false
-type: Song
 
 description: |
   This song is about the managed social decline and mind control techniques that are perpetrated against the general public. It also references the mythology of The Lord Reverend Wizard of Alchemical Despair's basement.
 
 recordings:
   - title: 
-    type: Hypnotics
+    type: Demo
     style: Doom Metal
     length: "6:48"
     released: 
@@ -38,6 +37,17 @@ lyrics: |
   Of human dream
 ---
 
-import Song from "~/components/Song.vue"
+By: {{ $frontmatter.band }} ({{ $frontmatter.authors.join(', ') }})  
+Explicit: {{$frontmatter.explicit}}
 
-<Song :songData="$frontmatter" />
+## Description
+
+<vue-markdown>{{ $frontmatter.description }}</vue-markdown>
+
+## Recordings
+
+{{ $frontmatter.recordings }}
+
+## Lyrics
+
+<vue-markdown>{{ $frontmatter.lyrics }}</vue-markdown>

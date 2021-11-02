@@ -3,12 +3,11 @@ title: Review of The Ritual By She Likes It Heavy (Positive)
 authors: ["Priya Rajkumar (DJ Prajmetal)"]
 published: "2019-11-05"
 updated: "2021-09-07"
-type: Article
 ---
 
-import Article from '~/components/Article.vue'
-
-<Article :articleData="$frontmatter" />
+By: {{ $frontmatter.authors.join(', ') }}<br />
+Published: {{ formatDate($frontmatter.published) }}<br />
+Updated: {{ formatDate($frontmatter.updated) }}
 
 ### From Show 328
 

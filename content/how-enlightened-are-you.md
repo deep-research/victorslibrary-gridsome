@@ -3,7 +3,6 @@ title: How Enlightened Are You?
 band: Reenchantment
 authors: ["Victor Fisher", "Aaron Schreiber"]
 explicit: true
-type: Song
 
 description: |
   This music conveys the deepest of wisdom from the lands of the east!
@@ -26,6 +25,17 @@ lyrics: |
   Come on now
 ---
 
-import Song from "~/components/Song.vue"
+By: {{ $frontmatter.band }} ({{ $frontmatter.authors.join(', ') }})  
+Explicit: {{$frontmatter.explicit}}
 
-<Song :songData="$frontmatter" />
+## Description
+
+<vue-markdown>{{ $frontmatter.description }}</vue-markdown>
+
+## Recordings
+
+{{ $frontmatter.recordings }}
+
+## Lyrics
+
+<vue-markdown>{{ $frontmatter.lyrics }}</vue-markdown>

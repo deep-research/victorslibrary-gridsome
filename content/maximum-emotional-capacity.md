@@ -3,14 +3,13 @@ title: Maximum Emotional Capacity
 band: Reenchantment
 authors: ["Victor Fisher"]
 explicit: false
-type: Song
 
 description: |
   This is sad song about the feeling of longing for love.
 
 recordings:
   - title: Maximum Emotional Capacity
-    type: draft
+    type: Draft
     style: Rock
     length: "3:38"
     released: 
@@ -29,6 +28,17 @@ lyrics: |
   And one day I pray that you will be there with me
 ---
 
-import Song from "~/components/Song.vue"
+By: {{ $frontmatter.band }} ({{ $frontmatter.authors.join(', ') }})  
+Explicit: {{$frontmatter.explicit}}
 
-<Song :songData="$frontmatter" />
+## Description
+
+<vue-markdown>{{ $frontmatter.description }}</vue-markdown>
+
+## Recordings
+
+{{ $frontmatter.recordings }}
+
+## Lyrics
+
+<vue-markdown>{{ $frontmatter.lyrics }}</vue-markdown>

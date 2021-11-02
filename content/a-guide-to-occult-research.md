@@ -3,7 +3,6 @@ title: A Guide to Occult Research
 authors: ["Victor Fisher"]
 published: "2019-09-11"
 updated: "2021-09-06"
-type: Article
 # category:
 #   1:
 #     name: Writing
@@ -16,9 +15,9 @@ type: Article
 #     url: /occult
 ---
 
-import Article from '~/components/Article.vue'
-
-<Article :articleData="$frontmatter" />
+By: {{ $frontmatter.authors.join(', ') }}<br />
+Published: {{ formatDate($frontmatter.published) }}<br />
+Updated: {{ formatDate($frontmatter.updated) }}
 
 Here are some of my favorite sources, and the research topics that I am are currently looking into.
 

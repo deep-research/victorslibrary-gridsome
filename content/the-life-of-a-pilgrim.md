@@ -3,7 +3,6 @@ title: The Life of a Pilgrim
 band: Reenchantment
 authors: ["Victor Fisher"]
 explicit: false
-type: Song
 
 description: |
   This is an atmospheric rock song about the <a href="https://en.wikipedia.org/wiki/Hero%27s_journey" target="_blank">hero’s journey</a> and <a href="https://en.wikipedia.org/wiki/The_Way_of_a_Pilgrim" target="_blank">The Way of a Pilgrim</a>. Both sources contain fascinating perspectives on the nature of mystical practice.
@@ -28,6 +27,17 @@ lyrics: |
   Is not what it may seem
 ---
 
-import Song from "~/components/Song.vue"
+By: {{ $frontmatter.band }} ({{ $frontmatter.authors.join(', ') }})  
+Explicit: {{$frontmatter.explicit}}
 
-<Song :songData="$frontmatter" />
+## Description
+
+<vue-markdown>{{ $frontmatter.description }}</vue-markdown>
+
+## Recordings
+
+{{ $frontmatter.recordings }}
+
+## Lyrics
+
+<vue-markdown>{{ $frontmatter.lyrics }}</vue-markdown>

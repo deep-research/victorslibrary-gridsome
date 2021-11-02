@@ -3,7 +3,6 @@ title: Suicidal Shaman
 band: Reenchantment
 authors: ["Victor Fisher"]
 explicit: true
-type: Song
 
 description: |
   This is particularly nihilistic and rage fueled song of mine.
@@ -40,6 +39,17 @@ lyrics: |
   For you must pay for every lie
 ---
 
-import Song from "~/components/Song.vue"
+By: {{ $frontmatter.band }} ({{ $frontmatter.authors.join(', ') }})  
+Explicit: {{$frontmatter.explicit}}
 
-<Song :songData="$frontmatter" />
+## Description
+
+<vue-markdown>{{ $frontmatter.description }}</vue-markdown>
+
+## Recordings
+
+{{ $frontmatter.recordings }}
+
+## Lyrics
+
+<vue-markdown>{{ $frontmatter.lyrics }}</vue-markdown>

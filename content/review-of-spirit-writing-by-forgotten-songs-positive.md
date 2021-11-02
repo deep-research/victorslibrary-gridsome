@@ -1,12 +1,9 @@
 ---
 title: Review of Spirit Writing by Forgotten Songs (Positive)
 authors: ["D. Kelvin"]
-type: Article
 ---
 
-import Article from '~/components/Article.vue'
-
-<Article :articleData="$frontmatter" />
+By: {{ $frontmatter.authors.join(', ') }}
 
 <p>
   <g-image src="~/assets/spirit-writing-new-cover.jpg" alt="Spirit Writing Cover" class="image" />

@@ -3,7 +3,6 @@ title: What For?
 band: Reenchantment
 authors: ["Victor Fisher"]
 explicit: false
-type: Song
 
 description: |
   This song was recorded back in the era when Victor was interested in the art of the <a href="https://en.wikipedia.org/wiki/Death_growl" target="_blank">death growl</a>.
@@ -21,7 +20,7 @@ recordings:
 lyrics: |
     War
 
-    Why did they send you here
+    Why did they send you here?
     To fight these so called enemies?
     I will suffer drenched in blood
     Is this worth the glory for me?
@@ -32,6 +31,17 @@ lyrics: |
     I still don’t know what for
 ---
 
-import Song from "~/components/Song.vue"
+By: {{ $frontmatter.band }} ({{ $frontmatter.authors.join(', ') }})  
+Explicit: {{$frontmatter.explicit}}
 
-<Song :songData="$frontmatter" />
+## Description
+
+<vue-markdown>{{ $frontmatter.description }}</vue-markdown>
+
+## Recordings
+
+{{ $frontmatter.recordings }}
+
+## Lyrics
+
+<vue-markdown>{{ $frontmatter.lyrics }}</vue-markdown>

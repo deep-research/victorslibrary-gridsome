@@ -3,7 +3,6 @@ title: In Vain...
 band: Reenchantment
 authors: ["Victor Fisher"]
 explicit: true
-type: Song
 
 description: |
   This song reflects upon the awesome power that is possessed by an empire and the vast impact of its gravitational field.
@@ -67,6 +66,17 @@ lyrics: |
   You know their m\*\*\*erf\*\*\*ing clock
 ---
 
-import Song from "~/components/Song.vue"
+By: {{ $frontmatter.band }} ({{ $frontmatter.authors.join(', ') }})  
+Explicit: {{$frontmatter.explicit}}
 
-<Song :songData="$frontmatter" />
+## Description
+
+<vue-markdown>{{ $frontmatter.description }}</vue-markdown>
+
+## Recordings
+
+{{ $frontmatter.recordings }}
+
+## Lyrics
+
+<vue-markdown>{{ $frontmatter.lyrics }}</vue-markdown>

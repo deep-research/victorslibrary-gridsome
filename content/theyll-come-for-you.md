@@ -3,7 +3,6 @@ title: They’ll Come For You
 band: Reenchantment
 authors: ["Victor Fisher"]
 explicit: false
-type: Song
 
 description: |
   The song discusses the way we are unconsciously shaped by <A href="https://en.wikipedia.org/wiki/Social_conditioning" target="_blank">social conditioning</a>.
@@ -77,6 +76,17 @@ lyrics: |
   Come together, and expose the lie
 ---
 
-import Song from "~/components/Song.vue"
+By: {{ $frontmatter.band }} ({{ $frontmatter.authors.join(', ') }})  
+Explicit: {{$frontmatter.explicit}}
 
-<Song :songData="$frontmatter" />
+## Description
+
+<vue-markdown>{{ $frontmatter.description }}</vue-markdown>
+
+## Recordings
+
+{{ $frontmatter.recordings }}
+
+## Lyrics
+
+<vue-markdown>{{ $frontmatter.lyrics }}</vue-markdown>

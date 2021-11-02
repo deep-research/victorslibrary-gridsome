@@ -3,7 +3,6 @@ title: The Wrath of God
 band: Reenchantment
 authors: ["Victor Fisher"]
 explicit: true
-type: Song
 
 description: |
   This recording describes a terrifying journey through an apocalyptic vision.
@@ -27,7 +26,7 @@ lyrics: |
   You’ve always been unstoppable
 
   Iraq war sound sample:
-  > S*\*\*, where the f*\*\* was that one
+  > S*\*\*, where the f*\*\* was that one?
 
   Satan lives, Satan, he is my master forever
 
@@ -48,6 +47,17 @@ lyrics: |
   Hail to the end of all time, hail to the end of all
 ---
 
-import Song from "~/components/Song.vue"
+By: {{ $frontmatter.band }} ({{ $frontmatter.authors.join(', ') }})  
+Explicit: {{$frontmatter.explicit}}
 
-<Song :songData="$frontmatter" />
+## Description
+
+<vue-markdown>{{ $frontmatter.description }}</vue-markdown>
+
+## Recordings
+
+{{ $frontmatter.recordings }}
+
+## Lyrics
+
+<vue-markdown>{{ $frontmatter.lyrics }}</vue-markdown>

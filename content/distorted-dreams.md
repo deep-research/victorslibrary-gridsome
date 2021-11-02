@@ -3,7 +3,6 @@ title: Distorted Dreams
 band: Reenchantment
 authors: ["Victor Fisher"]
 explicit: true
-type: Song
 
 description: |
   This song is about the cosmic struggle that is at play within the depths of the human psyche.
@@ -53,6 +52,17 @@ lyrics: |
   Binded by the blood, of the sage
 ---
 
-import Song from "~/components/Song.vue"
+By: {{ $frontmatter.band }} ({{ $frontmatter.authors.join(', ') }})  
+Explicit: {{$frontmatter.explicit}}
 
-<Song :songData="$frontmatter" />
+## Description
+
+<vue-markdown>{{ $frontmatter.description }}</vue-markdown>
+
+## Recordings
+
+{{ $frontmatter.recordings }}
+
+## Lyrics
+
+<vue-markdown>{{ $frontmatter.lyrics }}</vue-markdown>

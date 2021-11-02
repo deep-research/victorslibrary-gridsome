@@ -3,12 +3,11 @@ title: Reenchantment Related Projects
 authors: ["Victor Fisher"]
 published: "2018-12-01"
 updated: "2021-09-06"
-type: Article
 ---
 
-import Article from '~/components/Article.vue'
-
-<Article :articleData="$frontmatter" />
+By: {{ $frontmatter.authors.join(', ') }}<br />
+Published: {{ formatDate($frontmatter.published) }}<br />
+Updated: {{ formatDate($frontmatter.updated) }}
 
 This is a list of some projects that are related to my musical work in Reenchantment.
 

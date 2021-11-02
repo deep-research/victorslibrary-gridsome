@@ -3,7 +3,6 @@ title: Satanic Drug Users from Outer Space
 band: Reenchantment
 authors: ["Victor Fisher", "Aaron Schreiber"]
 explicit: false
-type: Song
 
 description: |
   This kind of song is the reason why I got into into heavy metal as a teenager.
@@ -19,6 +18,17 @@ recordings:
 lyrics: Satan has the best drugs
 ---
 
-import Song from "~/components/Song.vue"
+By: {{ $frontmatter.band }} ({{ $frontmatter.authors.join(', ') }})  
+Explicit: {{$frontmatter.explicit}}
 
-<Song :songData="$frontmatter" />
+## Description
+
+<vue-markdown>{{ $frontmatter.description }}</vue-markdown>
+
+## Recordings
+
+{{ $frontmatter.recordings }}
+
+## Lyrics
+
+<vue-markdown>{{ $frontmatter.lyrics }}</vue-markdown>

@@ -3,7 +3,6 @@ title: The Groove Gestapo
 band: Reenchantment
 authors: ["Victor Fisher"]
 explicit: false
-type: Song
 
 description: |
   This song was channeled from a strange dimension where I was a <a href="https://en.wikipedia.org/wiki/Glam_rock" target="_blank">glam rock</a> guitarist during the 1970s.
@@ -23,6 +22,17 @@ lyrics: |
   > Are you grooving in there?
 ---
 
-import Song from "~/components/Song.vue"
+By: {{ $frontmatter.band }} ({{ $frontmatter.authors.join(', ') }})  
+Explicit: {{$frontmatter.explicit}}
 
-<Song :songData="$frontmatter" />
+## Description
+
+<vue-markdown>{{ $frontmatter.description }}</vue-markdown>
+
+## Recordings
+
+{{ $frontmatter.recordings }}
+
+## Lyrics
+
+<vue-markdown>{{ $frontmatter.lyrics }}</vue-markdown>

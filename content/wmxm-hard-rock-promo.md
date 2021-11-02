@@ -3,7 +3,6 @@ title: WMXM Hard Rock Promo
 band: Reenchantment
 authors: ["Victor Fisher"]
 explicit: false
-type: Song
 
 description: |
   I used to open my <a href="http://wmxm.radioactivity.fm/playlist.html?djoid=5590" target="_blank">show</a> on <a href="https://wmxm.org/" target="_blank">college radio</a> with this recording as the introduction.
@@ -19,6 +18,17 @@ recordings:
 lyrics: You’re listening to WMXM 88.9 FM
 ---
 
-import Song from "~/components/Song.vue"
+By: {{ $frontmatter.band }} ({{ $frontmatter.authors.join(', ') }})  
+Explicit: {{$frontmatter.explicit}}
 
-<Song :songData="$frontmatter" />
+## Description
+
+<vue-markdown>{{ $frontmatter.description }}</vue-markdown>
+
+## Recordings
+
+{{ $frontmatter.recordings }}
+
+## Lyrics
+
+<vue-markdown>{{ $frontmatter.lyrics }}</vue-markdown>

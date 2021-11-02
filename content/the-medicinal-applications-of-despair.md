@@ -3,7 +3,6 @@ title: The Medicinal Applications of Despair
 band: Reenchantment
 authors: ["Victor Fisher"]
 explicit: true
-type: Song
 
 description: |
   This song confronts the listener with the horrifying nature of an unhinged mind.
@@ -33,6 +32,17 @@ lyrics: |
   Bow down to the lord, he rules you all with his despair
 ---
 
-import Song from "~/components/Song.vue"
+By: {{ $frontmatter.band }} ({{ $frontmatter.authors.join(', ') }})  
+Explicit: {{$frontmatter.explicit}}
 
-<Song :songData="$frontmatter" />
+## Description
+
+<vue-markdown>{{ $frontmatter.description }}</vue-markdown>
+
+## Recordings
+
+{{ $frontmatter.recordings }}
+
+## Lyrics
+
+<vue-markdown>{{ $frontmatter.lyrics }}</vue-markdown>

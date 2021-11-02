@@ -3,12 +3,11 @@ title: Review of Demo 2019 by Ted Nubel (Positive)
 authors: ["Ted Nubel"]
 published: "2019-10-28"
 updated: "2021-09-07"
-type: Article
 ---
 
-import Article from '~/components/Article.vue'
-
-<Article :articleData="$frontmatter" />
+By: {{ $frontmatter.authors.join(', ') }}<br />
+Published: {{ formatDate($frontmatter.published) }}<br />
+Updated: {{ formatDate($frontmatter.updated) }}
 
 ### Chicago Doom Confederacy Review
 

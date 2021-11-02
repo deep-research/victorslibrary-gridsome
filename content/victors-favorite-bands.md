@@ -3,12 +3,11 @@ title: Victor's Favorite Bands
 authors: ["Victor Fisher"]
 published: "2019-09-23"
 updated: "2021-09-07"
-type: Article
 ---
 
-import Article from '~/components/Article.vue'
-
-<Article :articleData="$frontmatter" />
+By: {{ $frontmatter.authors.join(', ') }}<br />
+Published: {{ formatDate($frontmatter.published) }}<br />
+Updated: {{ formatDate($frontmatter.updated) }}
 
 These are some of my favorite bands:
 

@@ -3,7 +3,6 @@ title: Under the Spell of the Mystical Mist
 band: Reenchantment
 authors: ["Victor Fisher"]
 explicit: false
-type: Song
 
 description: |
   This song tells a sinister tale about my secret workings with one of the most extreme forms of magical rites.
@@ -38,6 +37,17 @@ lyrics: |
   Will reclaim the prize of doom
 ---
 
-import Song from "~/components/Song.vue"
+By: {{ $frontmatter.band }} ({{ $frontmatter.authors.join(', ') }})  
+Explicit: {{$frontmatter.explicit}}
 
-<Song :songData="$frontmatter" />
+## Description
+
+<vue-markdown>{{ $frontmatter.description }}</vue-markdown>
+
+## Recordings
+
+No versions completed yet.
+
+## Lyrics
+
+<vue-markdown>{{ $frontmatter.lyrics }}</vue-markdown>

@@ -3,7 +3,6 @@ title: Al Qaeda and Jesus
 band: Reenchantment
 authors: ["Victor Fisher"]
 explicit: true
-type: Song
 
 description: |
   One time I spent an entire summer listening to <a href="https://en.wikipedia.org/wiki/Crossover_thrash" target="_blank">crossover thrash</a>. Things eventually boiled over when I repeatedly screamed “Al Qaeda” and gave the Nazi salute towards a busy intersection of commuters stuck in traffic. I was on rollerblades.
@@ -57,6 +56,17 @@ lyrics: |
   Al Qaeda and Jesus Christ
 ---
 
-import Song from "~/components/Song.vue"
+By: {{ $frontmatter.band }} ({{ $frontmatter.authors.join(', ') }})  
+Explicit: {{$frontmatter.explicit}}
 
-<Song :songData="$frontmatter" />
+## Description
+
+<vue-markdown>{{ $frontmatter.description }}</vue-markdown>
+
+## Recordings
+
+{{ $frontmatter.recordings }}
+
+## Lyrics
+
+<vue-markdown>{{ $frontmatter.lyrics }}</vue-markdown>

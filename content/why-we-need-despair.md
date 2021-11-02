@@ -3,12 +3,11 @@ title: Why We Need Despair
 authors: ["Victor Fisher"]
 published: "2013-03-07"
 updated: "2021-09-06"
-type: Article
 ---
 
-import Article from '~/components/Article.vue'
-
-<Article :articleData="$frontmatter" />
+By: {{ $frontmatter.authors.join(', ') }}<br />
+Published: {{ formatDate($frontmatter.published) }}<br />
+Updated: {{ formatDate($frontmatter.updated) }}
 
 From **The Reverend Report**  
 *Despair is the precursor to greatness!*

@@ -5,8 +5,7 @@ import DefaultLayout from '~/layouts/Default.vue'
 
 import VueMarkdown from 'vue-markdown'
 import VRuntimeTemplate from "v-runtime-template"
-
-import Search from "./components/Search.vue"
+import format from 'date-fns/format'
 
 export default function (Vue, { router, head, isClient }) {
   // Set default layout as a global component
@@ -15,5 +14,14 @@ export default function (Vue, { router, head, isClient }) {
   Vue.component('VueMarkdown', VueMarkdown)
   Vue.component('VRuntimeTemplate', VRuntimeTemplate)
   
-  Vue.component('Search', Search)
+  Vue.mixin({
+    methods: {
+      formatDate: function (inputString) {
+        var parts = inputString.split('-');
+        var date = new Date(parts[0], parts[1] - 1, parts[2]); 
+  
+        return format(date, "MM/dd/yyy")
+      }
+    }
+  })
 }
