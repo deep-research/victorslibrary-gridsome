@@ -1,7 +1,7 @@
 <template>
   <div>
     <!-- Results Count -->
-    Results: {{filteredData.length}}
+    <h3>Results: {{filteredData.length}}</h3>
 
     <!-- Sorted Results -->
     <ol>
