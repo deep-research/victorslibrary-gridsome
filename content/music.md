@@ -12,7 +12,7 @@ updated: "2021-11-02"
 * <span style="color: red">Bloodslut</span>
 * <span style="color: red">Catastrophe Beneath the Heavens</span>
 * <span style="color: red">Dendrons</span>
-* <span style="color: red">F***asaurus</span>
+* <span style="color: red">F*\*\*asaurus</span>
 * <span style="color: red">Hellbent</span>
 * <span style="color: red">Human ID</span>
 * <span style="color: red">Lamp</span>
