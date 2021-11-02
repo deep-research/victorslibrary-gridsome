@@ -150,3 +150,8 @@ updated: "2021-11-02"
 ### <span style="color: red">Songs</span>
 
 ### <span style="color: red">Recordings</span>
+
+### <span style="color: red">Study</span>
+
+* <span style="color: red">Music Theory</span>
+* <span style="color: red">Music Production</span>
