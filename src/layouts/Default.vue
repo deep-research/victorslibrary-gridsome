@@ -62,7 +62,7 @@ body {
   height: auto;
 }
 
-ol li {
+ol li, ul li {
   margin-bottom: 10px;;
 }
 
