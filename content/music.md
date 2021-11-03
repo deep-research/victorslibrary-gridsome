@@ -25,9 +25,7 @@ updated: "2021-11-02"
 * <span style="color: red">Jeff Smith</span>
 * <span style="color: red">Kevin Kalika</span>
 * <span style="color: red">Olivia Wallace</span>
-* <span style="color: red">Pater Shrouder</span>
 * <span style="color: red">Rob Halliday</span>
-* <span style="color: red">The Reverend of Despair</span>
 * <span style="color: red">Victor Fisher</span>
 
 ### <span style="color: red">Songs</span>
