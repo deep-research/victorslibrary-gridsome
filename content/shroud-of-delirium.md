@@ -9,7 +9,16 @@ updated: "2021-1-03"
 
 ## {{ $frontmatter.title }}
 
-### Psychedelic Doom Band
+Psychedelic Doom Band
 
-* Members: Victor Fisher, Aaron Schreiber, David Sommer
-* Years Active: 2007 - 2010
+### Members
+* Victor Fisher - Guitar, Vocals and Songwriting
+* Aaron Schreiber - Bass Guitar
+* David Sommer - Drums
+
+### Years Active
+2007 - 2010
+
+### Related Projects
+* <g-link to="/reenchantment">Reenchantment</g-link>
+* <g-link to="/pater-shrouder">Pater Shrouder</g-link>

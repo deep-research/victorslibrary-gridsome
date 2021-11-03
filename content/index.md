@@ -6,6 +6,8 @@ updated: "2021-10-27"
 
 ## {{ $frontmatter.title }}
 
+### Categories
+
 * <g-link to="/music">Music</g-link>
 
 <g-link to="/global-search">Global Search</g-link>

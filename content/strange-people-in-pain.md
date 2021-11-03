@@ -9,4 +9,4 @@ updated: "2021-1-03"
 
 ## {{ $frontmatter.title }}
 
-### Collaboration Between Victor Fisher and Aaron Schreiber
+Collaboration Between Victor Fisher and Aaron Schreiber
