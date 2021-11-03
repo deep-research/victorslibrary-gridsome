@@ -20,11 +20,9 @@ updated: "2021-11-02"
 ### <span style="color: red">Artists</span>
 * <span style="color: red">Aaron Schreiber</span>
 * <span style="color: red">Brent Nortman</span>
-* <span style="color: red">D Sumz?</span>
 * <span style="color: red">David Sommer</span>
 * <span style="color: red">Jack Stefans</span>
 * <span style="color: red">Jeff Smith</span>
-* <span style="color: red">K Topz?</span>
 * <span style="color: red">Kevin Kalika</span>
 * <span style="color: red">Olivia Wallace</span>
 * <span style="color: red">Pater Shrouder</span>
