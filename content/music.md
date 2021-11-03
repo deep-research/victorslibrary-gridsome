@@ -7,33 +7,31 @@ updated: "2021-11-02"
 
 ## {{ $frontmatter.title }}
 
-*Terms in red don't have a page yet.*
-
-### <span style="color: red">Bands</span>
+### Bands
 * <g-link to="/pater-shrouder">Pater Shrouder</g-link>
 * <g-link to="/reenchantment">Reenchantment</g-link>
 * <g-link to="/reverend-of-despair">The Reverend of Despair</g-link>
 * <g-link to="/shroud-of-delirium">Shroud of Delirium</g-link>
 * <g-link to="/strange-people-in-pain">Strange People in Pain</g-link>
-* <span style="color: red">Jeff's After School Special</span>
-* <span style="color: red">Lamp</span>
-* <span style="color: red">Original Project With David, Kevin and Brent?</span>
-* <span style="color: red">The Neoluddites?</span>
+* Jeff's After School Special
+* Lamp
+* Original Project With David, Kevin and Brent?
+* The Neoluddites?
 
-### <span style="color: red">Artists</span>
-* <span style="color: red">Aaron Schreiber</span>
-* <span style="color: red">Brent Nortman</span>
-* <span style="color: red">David Sommer</span>
-* <span style="color: red">Jack Stefans</span>
-* <span style="color: red">Jeff Smith</span>
-* <span style="color: red">Josh Avni</span>
-* <span style="color: red">Kevin Kalika</span>
-* <span style="color: red">Olivia Wallace</span>
-* <span style="color: red">Rob Halliday</span>
-* <span style="color: red">Victor Fisher</span>
+### Artists
+* Aaron Schreiber
+* Brent Nortman
+* David Sommer
+* Jack Stefans
+* Jeff Smith
+* Josh Avni
+* Kevin Kalika
+* Olivia Wallace
+* Rob Halliday
+* Victor Fisher
 
-### <span style="color: red">Songs</span>
+### Songs
 
-### <span style="color: red">Recordings</span>
+### Recordings
 
-### <span style="color: red">Albums</span>
+### Albums
