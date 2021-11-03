@@ -10,13 +10,14 @@ updated: "2021-11-02"
 *Terms in red don't have a page yet.*
 
 ### <span style="color: red">Bands</span>
+* <g-link to="/pater-shrouder">Pater Shrouder</g-link>
+* <g-link to="/reenchantment">Reenchantment</g-link>
+* <g-link to="/reverend-of-despair">The Reverend of Despair</g-link>
+* <g-link to="/shroud-of-delirium">Shroud of Delirium</g-link>
+* <g-link to="/strange-people-in-pain">Strange People in Pain</g-link>
 * <span style="color: red">Jeff's After School Special</span>
 * <span style="color: red">Lamp</span>
 * <span style="color: red">Original Project With David, Kevin and Brent?</span>
-* <g-link to="/pater-shrouder">Pater Shrouder</g-link>
-* <g-link to="/reenchantment">Reenchantment</g-link>
-* <g-link to="/shroud-of-delirium">Shroud of Delirium</g-link>
-* <span style="color: red">Strange People in Pain</span>
 * <span style="color: red">The Neoluddites?</span>
 
 ### <span style="color: red">Artists</span>
