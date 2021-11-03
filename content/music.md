@@ -11,8 +11,8 @@ updated: "2021-11-02"
 * <span style="color: red">Jeff's After School Special</span>
 * <span style="color: red">Lamp</span>
 * <span style="color: red">Original Project With David, Kevin and Brent?</span>
-* <span style="color: red">Pater Shrouder</span>
-* <span style="color: red">Reenchantment</span>
+* <g-link to="/pater-shrouder">Pater Shrouder</g-link>
+* <g-link to="/reenchantment">Reenchantment</g-link>
 * <span style="color: red">Shroud of Delirium</span>
 * <span style="color: red">Strange People in Pain</span>
 * <span style="color: red">The Neoluddites?</span>
