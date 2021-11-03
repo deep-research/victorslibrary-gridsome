@@ -23,6 +23,7 @@ updated: "2021-11-02"
 * <span style="color: red">David Sommer</span>
 * <span style="color: red">Jack Stefans</span>
 * <span style="color: red">Jeff Smith</span>
+* <span style="color: red">Josh Avni</span>
 * <span style="color: red">Kevin Kalika</span>
 * <span style="color: red">Olivia Wallace</span>
 * <span style="color: red">Rob Halliday</span>
