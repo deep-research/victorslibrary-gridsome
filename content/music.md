@@ -10,6 +10,7 @@ updated: "2021-11-02"
 ### <span style="color: red">Bands</span>
 * <span style="color: red">Jeff's After School Special</span>
 * <span style="color: red">Lamp</span>
+* <span style="color: red">Original Project With David, Kevin and Brent?</span>
 * <span style="color: red">Pater Shrouder</span>
 * <span style="color: red">Reenchantment</span>
 * <span style="color: red">Shroud of Delirium</span>
@@ -18,6 +19,7 @@ updated: "2021-11-02"
 
 ### <span style="color: red">Artists</span>
 * <span style="color: red">Aaron Schreiber</span>
+* <span style="color: red">Brent Nortman</span>
 * <span style="color: red">D Sumz?</span>
 * <span style="color: red">David Sommer</span>
 * <span style="color: red">Jack Stefans</span>
@@ -34,4 +36,4 @@ updated: "2021-11-02"
 
 ### <span style="color: red">Recordings</span>
 
-### <span style="color: red">Albums</span>
+### <span style="color: red">Albums?</span>
