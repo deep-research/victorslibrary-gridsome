@@ -26,6 +26,8 @@ lyrics: |
   That the art will stop the fall
 ---
 
+## {{ $frontmatter.title }}
+
 By: {{ $frontmatter.band }} ({{ $frontmatter.authors.join(', ') }})  
 Explicit: {{$frontmatter.explicit}}
 

@@ -76,6 +76,8 @@ lyrics: |
   Come together, and expose the lie
 ---
 
+## {{ $frontmatter.title }}
+
 By: {{ $frontmatter.band }} ({{ $frontmatter.authors.join(', ') }})  
 Explicit: {{$frontmatter.explicit}}
 

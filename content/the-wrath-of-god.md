@@ -47,6 +47,8 @@ lyrics: |
   Hail to the end of all time, hail to the end of all
 ---
 
+## {{ $frontmatter.title }}
+
 By: {{ $frontmatter.band }} ({{ $frontmatter.authors.join(', ') }})  
 Explicit: {{$frontmatter.explicit}}
 

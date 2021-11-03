@@ -27,6 +27,8 @@ lyrics: |
   And if you could feel my pain, you’d see that I won’t last
 ---
 
+## {{ $frontmatter.title }}
+
 By: {{ $frontmatter.band }} ({{ $frontmatter.authors.join(', ') }})  
 Explicit: {{$frontmatter.explicit}}
 

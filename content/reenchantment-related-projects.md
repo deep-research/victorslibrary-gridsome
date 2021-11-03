@@ -5,6 +5,8 @@ published: "2018-12-01"
 updated: "2021-09-06"
 ---
 
+## {{ $frontmatter.title }}
+
 By: {{ $frontmatter.authors.join(', ') }}<br />
 Published: {{ formatDate($frontmatter.published) }}<br />
 Updated: {{ formatDate($frontmatter.updated) }}

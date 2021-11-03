@@ -28,6 +28,8 @@ lyrics: |
   And one day I pray that you will be there with me
 ---
 
+## {{ $frontmatter.title }}
+
 By: {{ $frontmatter.band }} ({{ $frontmatter.authors.join(', ') }})  
 Explicit: {{$frontmatter.explicit}}
 

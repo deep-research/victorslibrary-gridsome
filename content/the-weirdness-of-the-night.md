@@ -26,6 +26,8 @@ lyrics: |
   I hope you understand that we’ll never come back to home
 ---
 
+## {{ $frontmatter.title }}
+
 By: {{ $frontmatter.band }} ({{ $frontmatter.authors.join(', ') }})  
 Explicit: {{$frontmatter.explicit}}
 

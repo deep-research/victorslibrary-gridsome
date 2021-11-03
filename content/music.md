@@ -5,6 +5,8 @@ created: "2021-11-02"
 updated: "2021-11-02"
 ---
 
+## {{ $frontmatter.title }}
+
 *Terms in red don't have a page yet.*
 
 ### <span style="color: red">Bands</span>
@@ -13,7 +15,7 @@ updated: "2021-11-02"
 * <span style="color: red">Original Project With David, Kevin and Brent?</span>
 * <g-link to="/pater-shrouder">Pater Shrouder</g-link>
 * <g-link to="/reenchantment">Reenchantment</g-link>
-* <span style="color: red">Shroud of Delirium</span>
+* <g-link to="/shroud-of-delirium">Shroud of Delirium</g-link>
 * <span style="color: red">Strange People in Pain</span>
 * <span style="color: red">The Neoluddites?</span>
 

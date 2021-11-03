@@ -18,6 +18,8 @@ recordings:
 lyrics: You’re listening to WMXM 88.9 FM
 ---
 
+## {{ $frontmatter.title }}
+
 By: {{ $frontmatter.band }} ({{ $frontmatter.authors.join(', ') }})  
 Explicit: {{$frontmatter.explicit}}
 

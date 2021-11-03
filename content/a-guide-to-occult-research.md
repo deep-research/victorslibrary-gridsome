@@ -15,6 +15,8 @@ updated: "2021-09-06"
 #     url: /occult
 ---
 
+## {{ $frontmatter.title }}
+
 By: {{ $frontmatter.authors.join(', ') }}<br />
 Published: {{ formatDate($frontmatter.published) }}<br />
 Updated: {{ formatDate($frontmatter.updated) }}

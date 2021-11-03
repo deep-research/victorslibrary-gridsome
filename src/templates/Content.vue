@@ -1,6 +1,5 @@
 <template>
   <Layout>
-    <h2>{{ $page.content.title }}</h2>
     <VueRemarkContent />
   </Layout>
 </template>

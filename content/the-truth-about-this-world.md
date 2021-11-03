@@ -27,6 +27,8 @@ lyrics: |
   Or does it lie beyond the grave?
 ---
 
+## {{ $frontmatter.title }}
+
 By: {{ $frontmatter.band }} ({{ $frontmatter.authors.join(', ') }})  
 Explicit: {{$frontmatter.explicit}}
 
