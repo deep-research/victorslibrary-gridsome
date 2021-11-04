@@ -49,7 +49,8 @@ lyrics: |
 
 ## {{ $frontmatter.title }}
 
-By: {{ $frontmatter.band }} ({{ $frontmatter.authors.join(', ') }})  
+By: <g-link to="/band/reenchantment">Reenchantment</g-link> ({{ $frontmatter.authors.join(', ') }})
+
 Explicit: {{$frontmatter.explicit}}
 
 ## Description

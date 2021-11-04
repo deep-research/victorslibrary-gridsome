@@ -1,5 +1,5 @@
 ---
-title: Shroud of Delirium
+title: Shroud of Delirium (Band)
 authors: ["Victor Fisher"]
 published: "2021-11-03"
 updated: "2021-1-03"
@@ -9,7 +9,7 @@ updated: "2021-1-03"
 
 ## {{ $frontmatter.title }}
 
-Psychedelic Doom Band
+High School Era Psychedelic Doom Band
 
 ### Members
 * Victor Fisher - Guitar, Vocals and Songwriting
@@ -20,5 +20,5 @@ Psychedelic Doom Band
 2007 - 2010
 
 ### Related Projects
-* <g-link to="/reenchantment">Reenchantment</g-link>
-* <g-link to="/pater-shrouder">Pater Shrouder</g-link>
+* <g-link to="/band/reenchantment">Reenchantment</g-link>
+* <g-link to="/band/pater-shrouder">Pater Shrouder</g-link>

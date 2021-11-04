@@ -1,5 +1,5 @@
 ---
-title: Pater Shrouder
+title: Strange People in Pain (Band)
 authors: ["Victor Fisher"]
 published: "2021-11-03"
 updated: "2021-1-03"
@@ -9,4 +9,4 @@ updated: "2021-1-03"
 
 ## {{ $frontmatter.title }}
 
-Drone Metal by Aaron Scheiber
+Collaboration With Victor Fisher and Aaron Schreiber

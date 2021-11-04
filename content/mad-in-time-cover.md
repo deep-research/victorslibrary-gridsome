@@ -1,7 +1,7 @@
 ---
 title: Mad in Time (Cover)
 band: Reenchantment
-authors: ["Victor Fisher", "Olivia Wallace"]
+authors: ["Victor Fisher"]
 explicit: false
 
 description: |
@@ -49,7 +49,8 @@ lyrics: |
 
 ## {{ $frontmatter.title }}
 
-By: {{ $frontmatter.band }} ({{ $frontmatter.authors.join(', ') }})  
+By: <g-link to="/band/reenchantment">Reenchantment</g-link> ({{ $frontmatter.authors.join(', ') }})
+
 Explicit: {{$frontmatter.explicit}}
 
 ## Description
