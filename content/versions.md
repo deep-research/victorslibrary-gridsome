@@ -4,6 +4,8 @@ authors: ["Victor Fisher"]
 updated: "2021-10-26"
 ---
 
+<g-link to="/">Home Page</g-link>
+
 ### Main Addresses
 
 1. Main Page: <a href="https://victorslibrary.com/">victorslibrary.com</a>

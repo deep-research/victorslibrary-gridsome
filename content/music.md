@@ -5,6 +5,8 @@ created: "2021-11-02"
 updated: "2021-11-02"
 ---
 
+<g-link to="/">Home Page</g-link>
+
 ## {{ $frontmatter.title }}
 
 ### Bands
