@@ -15,4 +15,4 @@ Hypnotic Rock Music by Victor Fisher
 * <g-link to="/song/a-plastic-paradise">A Plastic Paradise</g-link>
 
 ### Links
-* <a href="http://evilrockmusic.com">evilrockmusic.com</a>
+* <a href="http://hypnoticrock.com">hypnoticrock.com</a>
