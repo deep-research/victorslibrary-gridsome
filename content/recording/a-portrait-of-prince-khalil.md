@@ -18,6 +18,8 @@ By: <g-link to="/band/reenchantment">Reenchantment</g-link> ({{ $frontmatter.aut
 Type: {{ $frontmatter.type }}  
 Explicit: {{$frontmatter.explicit}}
 
+### Audio
+
 <audio controls controlsList="nodownload">
   <source :src="$frontmatter.link" type="audio/mpeg">
 Your browser does not support the audio element.
