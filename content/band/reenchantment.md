@@ -11,9 +11,6 @@ updated: "2021-1-03"
 
 Hypnotic Rock Music by Victor Fisher
 
-### Songs
-* <g-link to="/song/a-plastic-paradise">A Plastic Paradise</g-link>
-
 ### Links
 
 <a href="http://hypnoticrock.com">hypnoticrock.com</a>
@@ -25,3 +22,7 @@ Hypnotic Rock Music by Victor Fisher
 <!-- * <a href="https://www.instagram.com/hypnoticrock/">Instagram</a> -->
 <!-- * <a href="https://www.tiktok.com/@hypnoticrock?">TikTok</a> -->
 <!-- * Snapchat -->
+
+### Songs
+* <g-link to="/song/a-plastic-paradise">A Plastic Paradise</g-link>
+* <g-link to="/song/a-portrait-of-prince-khalil">A Portrait of Prince Khalil</g-link>
