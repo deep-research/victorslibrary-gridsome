@@ -1,19 +1,11 @@
 ---
-title: A Voice in the Distance
+title: A Voice in the Distance (Song)
 band: Reenchantment
 authors: ["Victor Fisher"]
 explicit: false
 
 description: |
   This is a song about inspiration and being positive and hope. Ew!
-
-recordings:
-  - title: A Voice in the Distance
-    type: Recording
-    style: Rock
-    length: "4:03"
-    released: "2019-12-25"
-    link: https://victorslibrary.s3.amazonaws.com/music/A+Voice+in+the+Distance/A+Voice+in+the+Distance.mp3
 
 lyrics: |
   It’s been a hard time
@@ -54,7 +46,7 @@ Explicit: {{$frontmatter.explicit}}
 
 ## Recordings
 
-{{ $frontmatter.recordings }}
+* <g-link to="/recording/a-voice-in-the-distance">A Voice in the Distance</g-link>
 
 ## Lyrics
 

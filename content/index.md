@@ -12,7 +12,7 @@ updated: "2021-10-27"
 
 * <g-link to="/music">Music</g-link>
 
-### Search
+### System
 
 * <g-link to="/global-search">Global Search</g-link><br />
 * <g-link to="/versions">Website Versions</g-link>
