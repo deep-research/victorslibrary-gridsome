@@ -28,3 +28,4 @@ Hypnotic Rock Music by Victor Fisher
 * <g-link to="/song/a-portrait-of-prince-khalil">A Portrait of Prince Khalil</g-link>
 * <g-link to="/song/a-voice-in-the-distance">A Voice in the Distance</g-link>
 * <g-link to="/song/al-qaeda-and-jesus">Al Qaeda and Jesus</g-link>
+* <g-link to="/song/an-invocation-of-a-spirit-yet-unknown">An Invocation of a Spirit Yet Unknown</g-link>

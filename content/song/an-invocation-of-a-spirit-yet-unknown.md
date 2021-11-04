@@ -7,14 +7,6 @@ explicit: false
 description: |
   This is an ode to the spirits of loneliness.
 
-recordings:
-  - title: An Invocation of a Spirit Yet Unknown
-    type: Recording
-    style: Rock
-    length: "3:17"
-    released: 
-    link: https://victorslibrary.s3.amazonaws.com/music/An+Invocation+of+a+Spirit+Yet+Unknown/An+Invocation+of+a+Spirit+Yet+Unknown+(Heavy+Version).mp3
-
 lyrics: |
   One lonely night, I think you know how it feels, when the dark clouds start descending
   I went outside to greet the earth, and the sky which has no ending
@@ -32,6 +24,8 @@ lyrics: |
   > If you don’t have a plan, you become a part of somebody else’s plan
 ---
 
+<g-link to="/band/reenchantment">Band Page</g-link>
+
 ## {{ $frontmatter.title }}
 
 By: <g-link to="/band/reenchantment">Reenchantment</g-link> ({{ $frontmatter.authors.join(', ') }})
@@ -44,7 +38,7 @@ Explicit: {{$frontmatter.explicit}}
 
 ## Recordings
 
-{{ $frontmatter.recordings }}
+* <g-link to="/recording/an-invocation-of-a-spirit-yet-unknown">An Invocation of a Spirit Yet Unknown</g-link>
 
 ## Lyrics
 

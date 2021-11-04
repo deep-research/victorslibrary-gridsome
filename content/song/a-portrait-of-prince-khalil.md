@@ -10,7 +10,7 @@ description: |
 lyrics: Instrumental
 ---
 
-<g-link to="/band/reenchantment">Reenchantment</g-link>
+<g-link to="/band/reenchantment">Band Page</g-link>
 
 ## {{ $frontmatter.title }}
 
