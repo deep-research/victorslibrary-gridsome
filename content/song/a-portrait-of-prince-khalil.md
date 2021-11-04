@@ -17,14 +17,14 @@ lyrics: Instrumental
 By: <g-link to="/band/reenchantment">Reenchantment</g-link> ({{ $frontmatter.authors.join(', ') }})  
 Explicit: {{$frontmatter.explicit}}
 
-## Description
+### Description
 
 <vue-markdown>{{ $frontmatter.description }}</vue-markdown>
 
-## Recordings
+### Recordings
 
 * <g-link to="/recording/a-portrait-of-prince-khalil">A Portrait of Prince Khalil</g-link>
 
-## Lyrics
+### Lyrics
 
 <vue-markdown>{{ $frontmatter.lyrics }}</vue-markdown>

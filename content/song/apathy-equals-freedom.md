@@ -49,14 +49,14 @@ lyrics: |
 By: <g-link to="/band/reenchantment">Reenchantment</g-link> ({{ $frontmatter.authors.join(', ') }})  
 Explicit: {{$frontmatter.explicit}}
 
-## Description
+### Description
 
 <vue-markdown>{{ $frontmatter.description }}</vue-markdown>
 
-## Recordings
+### Recordings
 
 * <g-link to="/recording/apathy-equals-freedom">Apathy = Freedom</g-link>
 
-## Lyrics
+### Lyrics
 
 <vue-markdown>{{ $frontmatter.lyrics }}</vue-markdown>

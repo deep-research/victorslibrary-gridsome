@@ -49,15 +49,15 @@ lyrics: |
 By: <g-link to="/band/reenchantment">Reenchantment</g-link> ({{ $frontmatter.authors.join(', ') }})  
 Explicit: {{$frontmatter.explicit}}
 
-## Description
+### Description
 
 <vue-markdown>{{ $frontmatter.description }}</vue-markdown>
 
-## Recordings
+### Recordings
 
 * <g-link to="/recording/al-qaeda-and-jesus">Al Qaeda and Jesus</g-link>
 * <g-link to="/recording/al-qaeda-and-jesus-clean-edit">Al Qaeda and Jesus (Clean Edit)</g-link>
 
-## Lyrics
+### Lyrics
 
 <vue-markdown>{{ $frontmatter.lyrics }}</vue-markdown>
