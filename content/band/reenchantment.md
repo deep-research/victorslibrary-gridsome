@@ -15,4 +15,13 @@ Hypnotic Rock Music by Victor Fisher
 * <g-link to="/song/a-plastic-paradise">A Plastic Paradise</g-link>
 
 ### Links
-* <a href="http://hypnoticrock.com">hypnoticrock.com</a>
+
+<a href="http://hypnoticrock.com">hypnoticrock.com</a>
+* <a href="https://reenchantment.bandcamp.com">Bandcamp</a>
+* <a href="https://twitter.com/hypnoticrock">Twitter</a>
+<!-- * <a href="https://www.facebook.com/hypnoticrock">Facebook</a> -->
+<!-- * <a href="https://www.youtube.com/user/reverendofdespair">YouTube (The Reverend of Despair)</a> -->
+<!-- * <a href="https://www.youtube.com/channel/UCUty3MJPa-JrdNLJtiSxttA">YouTube (Reenchantment)</a> -->
+<!-- * <a href="https://www.instagram.com/hypnoticrock/">Instagram</a> -->
+<!-- * <a href="https://www.tiktok.com/@hypnoticrock?">TikTok</a> -->
+<!-- * Snapchat -->
