@@ -9,7 +9,7 @@ description: |
 
 recordings:
   - title: The Weirdness of the Night
-    type: Recording
+    type: Multitrack  
     style: Doom Metal
     length: "0:55"
     released: 

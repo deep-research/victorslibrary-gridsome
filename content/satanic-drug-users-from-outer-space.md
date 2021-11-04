@@ -9,7 +9,7 @@ description: |
 
 recordings:
   - title: Satanic Drug Users from Outer Space
-    type: Recording
+    type: Multitrack  
     style: Hard Rock
     length: "2:48"
     released: 

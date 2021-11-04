@@ -1,5 +1,5 @@
 ---
-title: Reenchantment (Band)
+title: "Band: Reenchantment"
 authors: ["Victor Fisher"]
 published: "2021-11-03"
 updated: "2021-1-03"
@@ -29,3 +29,4 @@ Hypnotic Rock Music by Victor Fisher
 * <g-link to="/song/a-voice-in-the-distance">A Voice in the Distance</g-link>
 * <g-link to="/song/al-qaeda-and-jesus">Al Qaeda and Jesus</g-link>
 * <g-link to="/song/an-invocation-of-a-spirit-yet-unknown">An Invocation of a Spirit Yet Unknown</g-link>
+* <g-link to="/song/apathy-equals-freedom">Apathy = Freedom</g-link>

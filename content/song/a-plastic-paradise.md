@@ -1,5 +1,5 @@
 ---
-title: A Plastic Paradise (Song)
+title: "Song: A Plastic Paradise"
 band: Reenchantment
 authors: ["Victor Fisher"]
 explicit: false

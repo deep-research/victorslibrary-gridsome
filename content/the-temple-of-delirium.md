@@ -11,7 +11,7 @@ description: |
 
 recordings:
   - title: The Temple of Delirium
-    type: Recording
+    type: Multitrack  
     style: Doom Metal
     length: "3:54"
     released: 

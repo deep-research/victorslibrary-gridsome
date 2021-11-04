@@ -11,7 +11,7 @@ description: |
 
 recordings:
   - title: The Paths of Mist
-    type: Recording
+    type: Multitrack  
     style: Doom Metal
     length: "5:22"
     released: 

@@ -9,7 +9,7 @@ description: |
 
 recordings:
   - title: Drawing Down the Moon (The Art of the Cunning)
-    type: Recording
+    type: Multitrack  
     style: Electronic
     length: "1:48"
     released: 

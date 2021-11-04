@@ -9,7 +9,7 @@ description: |
 
 recordings:
   - title: WMXM Hard Rock Promo
-    type: Recording
+    type: Multitrack  
     style: Hard Rock
     length: "0:50"
     released: 

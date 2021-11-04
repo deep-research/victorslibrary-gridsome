@@ -9,7 +9,7 @@ description: |
 
 recordings:
   - title: The Groove Gestapo
-    type: Recording
+    type: Multitrack  
     style: Electronic
     length: "2:55"
     released: 

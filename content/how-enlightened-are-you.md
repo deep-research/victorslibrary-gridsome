@@ -9,7 +9,7 @@ description: |
 
 recordings:
   - title: How Enlightened Are You?
-    type: Recording
+    type: Multitrack  
     style: Electronic
     length: "2:41"
     released: 

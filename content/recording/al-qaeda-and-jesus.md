@@ -1,8 +1,8 @@
 ---
-title: Al Qaeda and Jesus (Recording)
+title: "Recording: Al Qaeda and Jesus"
 authors: ["Victor Fisher"]
-explicit: false
-type: Recording
+explicit: true
+type: Multitrack  
 style: Hard Rock
 length: "3:22"
 released:
@@ -14,6 +14,7 @@ link: https://victorslibrary.s3.amazonaws.com/music/Al+Qaeda+and+Jesus/Al+Qaeda+
 ## {{ $frontmatter.title }}
 
 By: <g-link to="/band/reenchantment">Reenchantment</g-link> ({{ $frontmatter.authors.join(', ') }})  
+Type: {{ $frontmatter.type }}  
 Explicit: {{$frontmatter.explicit}}
 
 <audio controls controlsList="nodownload">

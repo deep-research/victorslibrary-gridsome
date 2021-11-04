@@ -9,7 +9,7 @@ description: |
 
 recordings:
   - title: derShamanDrone
-    type: Recording
+    type: Multitrack  
     style: Drone
     length: "2:44"
     released: 

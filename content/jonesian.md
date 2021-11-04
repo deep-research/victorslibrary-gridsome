@@ -9,7 +9,7 @@ description: |
 
 recordings:
   - title: Jonesian
-    type: Recording
+    type: Multitrack  
     style: Electronic
     length: "3:55"
     released: 

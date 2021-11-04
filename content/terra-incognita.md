@@ -9,7 +9,7 @@ description: |
 
 recordings:
   - title: Terra Incognita
-    type: Recording
+    type: Multitrack  
     style: Electronic
     length: "1:18"
     released: 

@@ -9,7 +9,7 @@ description: |
 
 recordings:
   - title: Aries Girl
-    type: Recording
+    type: Multitrack  
     style: Electronic
     length: "4:09"
     released: 

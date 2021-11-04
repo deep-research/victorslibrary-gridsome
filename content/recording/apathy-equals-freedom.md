@@ -1,15 +1,15 @@
 ---
-title: "Recording: Al Qaeda and Jesus (Clean Edit)"
+title: "Recording: Apathy = Freedom"
 authors: ["Victor Fisher"]
 explicit: false
 type: Multitrack  
-style: Hard Rock
-length: "3:18"
-released:
-link: https://victorslibrary.s3.amazonaws.com/music/Al+Qaeda+and+Jesus/Al+Qaeda+and+Jesus+(Clean+Edit).mp3
+style: Rock
+length: "6:04"
+released: "2019-12-29"
+link: https://victorslibrary.s3.amazonaws.com/music/Apathy+%3D+Freedom/Apathy+%3D+Freedom.mp3
 ---
 
-<g-link to="/song/al-qaeda-and-jesus">Song Page</g-link>
+<g-link to="/song/apathy-equals-freedom">Song Page</g-link>
 
 ## {{ $frontmatter.title }}
 

@@ -11,7 +11,7 @@ description: |
 
 recordings:
   - title: The Grieg and Euphorization Revealed
-    type: Recording
+    type: Multitrack  
     style: Doom Metal
     length: "3:25"
     released: 

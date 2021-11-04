@@ -9,7 +9,7 @@ description: |
 
 recordings:
   - title: The Disco King
-    type: Recording
+    type: Multitrack  
     style: Rock
     length: "2:37"
     released: "2019-11-09"

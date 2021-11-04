@@ -9,7 +9,7 @@ description: |
 
 recordings:
   - title: As the Aged Wanderer Doth Sulk (Slave of the Seas)
-    type: Recording
+    type: Multitrack  
     style: Doom Metal
     length: "6:46"
     released: 

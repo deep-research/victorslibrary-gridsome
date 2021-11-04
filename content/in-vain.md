@@ -11,7 +11,7 @@ description: |
 
 recordings:
   - title: In Vain...
-    type: Recording
+    type: Multitrack  
     style: Doom Metal
     length: "8:27"
     released: 

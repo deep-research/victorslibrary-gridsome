@@ -1,8 +1,8 @@
 ---
-title: A Plastic Paradise (Recording)
+title: "Recording: A Plastic Paradise"
 authors: ["Victor Fisher"]
 explicit: false
-type: Recording
+type: Multitrack  
 style: Hard Rock
 length: "4:54"
 released: 
@@ -15,6 +15,7 @@ link: https://victorslibrary.s3.amazonaws.com/music/A+Plastic+Paradise/A+Plastic
 ## {{ $frontmatter.title }}
 
 By: <g-link to="/band/reenchantment">Reenchantment</g-link> ({{ $frontmatter.authors.join(', ') }})  
+Type: {{ $frontmatter.type }}  
 Explicit: {{$frontmatter.explicit}}
 
 <audio controls controlsList="nodownload">

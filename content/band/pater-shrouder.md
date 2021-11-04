@@ -1,5 +1,5 @@
 ---
-title: Pater Shrouder (Band)
+title: "Band: Pater Shrouder"
 authors: ["Victor Fisher"]
 published: "2021-11-03"
 updated: "2021-1-03"

@@ -9,7 +9,7 @@ description: |
 
 recordings:
   - title: The Wrath of God
-    type: Recording
+    type: Multitrack  
     style: Doom Metal
     length: "19:58"
     released: 

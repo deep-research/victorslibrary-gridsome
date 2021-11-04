@@ -9,7 +9,7 @@ description: |
 
 recordings:
   - title: Charlie
-    type: Recording
+    type: Multitrack  
     style: Electronic
     length: "0:58"
     released: 

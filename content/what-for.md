@@ -11,7 +11,7 @@ description: |
 
 recordings:
   - title: What For?
-    type: Recording
+    type: Multitrack  
     style: Hard Rock
     length: "0:55"
     released: 

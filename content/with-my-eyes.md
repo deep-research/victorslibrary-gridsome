@@ -9,7 +9,7 @@ description: |
 
 recordings:
   - title: With My Eyes
-    type: Recording
+    type: Multitrack  
     style: Hard Rock 
     length: "5:38"
     released: 

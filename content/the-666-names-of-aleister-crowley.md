@@ -9,7 +9,7 @@ description: |
 
 recordings:
   - title: The 666 Names of Aleister Crowley
-    type: Recording
+    type: Multitrack  
     style: Drone
     length: "7:36"
     released: "2017-04-30"

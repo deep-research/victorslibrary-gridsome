@@ -9,7 +9,7 @@ description: |
 
 recordings:
   - title: The Curse of the Gothic Rainberries at Death’s Door
-    type: Recording
+    type: Multitrack  
     style: Doom Metal
     length: "6:57"
     released: 

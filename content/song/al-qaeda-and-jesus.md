@@ -1,5 +1,5 @@
 ---
-title: Al Qaeda and Jesus
+title: "Song: Al Qaeda and Jesus"
 band: Reenchantment
 authors: ["Victor Fisher"]
 explicit: true

@@ -1,5 +1,5 @@
 ---
-title: A Portrait of Prince Khalil
+title: "Song: A Portrait of Prince Khalil"
 band: Reenchantment
 authors: ["Victor Fisher"]
 explicit: false

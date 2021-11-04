@@ -9,7 +9,7 @@ description: |
 
 recordings:
   - title: The Life of a Pilgrim
-    type: Recording
+    type: Multitrack  
     style: Electronic
     length: "2:37"
     released: 

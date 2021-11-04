@@ -9,7 +9,7 @@ description: |
 
 recordings:
   - title: The Ritual
-    type: Recording
+    type: Multitrack  
     style: Doom Metal
     length: "9:13"
     released: 

@@ -9,7 +9,7 @@ description: |
 
 recordings:
   - title: Otherworldly Dream Magic
-    type: Recording
+    type: Multitrack  
     style: Electronic
     length: "0:44"
     link: https://victorslibrary.s3.amazonaws.com/music/Otherworldly+Dream+Magick/Otherworldly+Dream+Magick.mp3

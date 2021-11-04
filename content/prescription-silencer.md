@@ -9,7 +9,7 @@ description: |
 
 recordings:
   - title: Prescription Silencer
-    type: Recording
+    type: Multitrack  
     style: Hard Rock
     length: "3:33"
     released: 

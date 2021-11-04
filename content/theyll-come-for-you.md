@@ -11,13 +11,13 @@ description: |
 
 recordings:
   - title: They’ll Come For You (Mermaid Version)
-    type: Recording
+    type: Multitrack  
     style: Rock
     length: "5:15"
     released: 
     link: https://victorslibrary.s3.amazonaws.com/music/Theyll+Come+For+You/Theyll+Come+For+You+(Mermaid+Version).mp3
   - title: They’ll Come For You (Pilgrimage Version)
-    type: Recording
+    type: Multitrack  
     style: Rock
     length: "5:07"
     released: 

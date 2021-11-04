@@ -1,5 +1,5 @@
 ---
-title: Shroud of Delirium (Band)
+title: "Band: Shroud of Delirium"
 authors: ["Victor Fisher"]
 published: "2021-11-03"
 updated: "2021-1-03"

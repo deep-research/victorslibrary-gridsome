@@ -9,7 +9,7 @@ description: |
 
 recordings:
   - title: Remember (High School Version)
-    type: Recording
+    type: Multitrack  
     style: Rock
     length: "9:23"
     released: 

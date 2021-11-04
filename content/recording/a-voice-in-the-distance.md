@@ -1,8 +1,8 @@
 ---
-title: A Voice in the Distance (Recording)
+title: "Recording: A Voice in the Distance"
 authors: ["Victor Fisher"]
 explicit: false
-type: Recording
+type: Multitrack  
 style: Rock
 length: "4:03"
 released: "2019-12-25"
@@ -14,6 +14,7 @@ link: https://victorslibrary.s3.amazonaws.com/music/A+Voice+in+the+Distance/A+Vo
 ## {{ $frontmatter.title }}
 
 By: <g-link to="/band/reenchantment">Reenchantment</g-link> ({{ $frontmatter.authors.join(', ') }})  
+Type: {{ $frontmatter.type }}  
 Explicit: {{$frontmatter.explicit}}
 
 <audio controls controlsList="nodownload">

@@ -1,5 +1,5 @@
 ---
-title: A Voice in the Distance (Song)
+title: "Song: A Voice in the Distance"
 band: Reenchantment
 authors: ["Victor Fisher"]
 explicit: false

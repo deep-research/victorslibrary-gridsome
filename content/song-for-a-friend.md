@@ -9,7 +9,7 @@ description: |
 
 recordings:
   - title: Song for a Friend
-    type: Recording
+    type: Multitrack  
     style: Ballad
     length: "4:59"
     released: "2021-05-09"

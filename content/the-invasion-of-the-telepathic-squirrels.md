@@ -9,7 +9,7 @@ description: |
 
 recordings:
   - title: The Invasion of the Telepathic Squirrels
-    type: Recording
+    type: Multitrack  
     style: Electronic
     length: "1:33"
     released: 

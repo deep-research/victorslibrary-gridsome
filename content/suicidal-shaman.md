@@ -9,7 +9,7 @@ description: |
 
 recordings:
   - title: Suicidal Shaman
-    type: Recording
+    type: Multitrack  
     style: Hard Rock
     length: "2:37"
     released: 

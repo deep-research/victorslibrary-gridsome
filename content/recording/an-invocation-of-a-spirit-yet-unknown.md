@@ -1,8 +1,8 @@
 ---
-title: An Invocation of a Spirit Yet Unknown
+title: "Recording: An Invocation of a Spirit Yet Unknown"
 authors: ["Victor Fisher"]
 explicit: false
-type: Recording
+type: Multitrack  
 style: Rock
 length: "3:17"
 released:
@@ -14,6 +14,7 @@ link: https://victorslibrary.s3.amazonaws.com/music/An+Invocation+of+a+Spirit+Ye
 ## {{ $frontmatter.title }}
 
 By: <g-link to="/band/reenchantment">Reenchantment</g-link> ({{ $frontmatter.authors.join(', ') }})  
+Type: {{ $frontmatter.type }}  
 Explicit: {{$frontmatter.explicit}}
 
 <audio controls controlsList="nodownload">

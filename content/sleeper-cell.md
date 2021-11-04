@@ -9,7 +9,7 @@ description: |
 
 recordings:
   - title: Sleeper Cell
-    type: Recording
+    type: Multitrack  
     style: Hard Rock
     length: "1:46"
     released: 

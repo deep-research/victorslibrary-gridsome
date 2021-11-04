@@ -9,7 +9,7 @@ description: |
 
 recordings:
   - title: Doom Sex (Mind Control Extradimensional Ecstasy)
-    type: Recording
+    type: Multitrack  
     style: Doom Metal
     length: "5:29"
     released: 

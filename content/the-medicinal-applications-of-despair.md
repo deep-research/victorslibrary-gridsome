@@ -9,7 +9,7 @@ description: |
 
 recordings:
   - title: The Medicinal Applications of Despair
-    type: Recording
+    type: Multitrack  
     style: Doom Metal
     length: "2:36"
     released: 

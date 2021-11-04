@@ -1,5 +1,5 @@
 ---
-title: An Invocation of a Spirit Yet Unknown
+title: "Song: An Invocation of a Spirit Yet Unknown"
 band: Reenchantment
 authors: ["Victor Fisher"]
 explicit: false

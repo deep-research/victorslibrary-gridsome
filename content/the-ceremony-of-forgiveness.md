@@ -9,7 +9,7 @@ description: |
 
 recordings:
   - title: The Ceremony of Forgiveness
-    type: Recording
+    type: Multitrack  
     style: Rock
     length: "3:10"
     released: 

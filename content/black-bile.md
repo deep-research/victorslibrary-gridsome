@@ -9,7 +9,7 @@ description: |
   
 recordings:
   - title: Black Bile
-    type: Recording
+    type: Multitrack  
     style: Ballad
     length: "2:18"
     released: 

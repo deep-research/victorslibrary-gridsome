@@ -9,7 +9,7 @@ description: |
 
 recordings:
   - title: This Wicked Realm
-    type: Recording
+    type: Multitrack  
     style: Doom Metal
     length: "5:55"
     released: 

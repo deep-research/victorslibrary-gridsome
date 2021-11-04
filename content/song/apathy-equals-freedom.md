@@ -1,19 +1,11 @@
 ---
-title: Apathy = Freedom
+title: "Song: Apathy = Freedom"
 band: Reenchantment
 authors: ["Victor Fisher"]
 explicit: false
 
 description: |
   This is a poignant song about the agonies of heartbreak, and the depths of despair.
-
-recordings:
-  - title: Apathy = Freedom
-    type: Recording
-    style: Rock
-    length: "6:04"
-    released: "2019-12-29"
-    link: https://victorslibrary.s3.amazonaws.com/music/Apathy+%3D+Freedom/Apathy+%3D+Freedom.mp3
 
 lyrics: |
   The autumn heaven was still fresh in my mind, it was a pain that I could feel
@@ -50,6 +42,8 @@ lyrics: |
   A lot freer than
 ---
 
+<g-link to="/band/reenchantment">Band Page</g-link>
+
 ## {{ $frontmatter.title }}
 
 By: <g-link to="/band/reenchantment">Reenchantment</g-link> ({{ $frontmatter.authors.join(', ') }})
@@ -62,7 +56,7 @@ Explicit: {{$frontmatter.explicit}}
 
 ## Recordings
 
-{{ $frontmatter.recordings }}
+* <g-link to="/recording/apathy-equals-freedom">Apathy = Freedom</g-link>
 
 ## Lyrics
 

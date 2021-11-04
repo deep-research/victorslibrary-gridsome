@@ -9,7 +9,7 @@ description: |
 
 recordings:
   - title: DroneTheist [Coda entitled Desire and Pain]
-    type: Recording
+    type: Multitrack  
     style: Drone
     length: "15:16"
     released: 

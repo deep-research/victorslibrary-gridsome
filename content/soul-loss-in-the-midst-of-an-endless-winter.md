@@ -9,7 +9,7 @@ description: |
 
 recordings:
   - title: Soul Loss in the Midst of an Endless Winter
-    type: Recording
+    type: Multitrack  
     style: Rock
     length: "6:35"
     released: "2021-03-10"
