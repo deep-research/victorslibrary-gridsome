@@ -19,6 +19,8 @@ updated: "2021-11-02"
 * The Neoluddites?
 
 ### Musicians
+Victor Fisher
+
 * Aaron Schreiber
 * Brent Nortman
 * David Sommer
@@ -28,4 +30,3 @@ updated: "2021-11-02"
 * Kevin Kalika
 * Olivia Wallace
 * Rob Halliday
-* Victor Fisher
