@@ -27,3 +27,4 @@ Hypnotic Rock Music by Victor Fisher
 * <g-link to="/song/a-plastic-paradise">A Plastic Paradise</g-link>
 * <g-link to="/song/a-portrait-of-prince-khalil">A Portrait of Prince Khalil</g-link>
 * <g-link to="/song/a-voice-in-the-distance">A Voice in the Distance</g-link>
+* <g-link to="/song/al-qaeda-and-jesus">Al Qaeda and Jesus</g-link>

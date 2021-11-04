@@ -9,20 +9,6 @@ description: |
 
   This recording was also a lot of fun to make because I had scream "Al Qaeda" at the top of my lungs repeatedly.
 
-recordings:
-  - title: Al Qaeda and Jesus
-    type: Recording
-    style: Hard Rock
-    length: "3:22"
-    released: 
-    link: https://victorslibrary.s3.amazonaws.com/music/Al+Qaeda+and+Jesus/Al+Qaeda+and+Jesus.mp3
-  - title: Al Qaeda and Jesus (Clean Edit)
-    type: Recording
-    style: Hard Rock
-    length: "3:18"
-    released: 
-    link: https://victorslibrary.s3.amazonaws.com/music/Al+Qaeda+and+Jesus/Al+Qaeda+and+Jesus+(Clean+Edit).mp3
-
 lyrics: |
   The president’s a killer, wants to bleed you till you’re dead
   You voted for the f*\*\*ing war, but send kids in your stead
@@ -68,7 +54,8 @@ Explicit: {{$frontmatter.explicit}}
 
 ## Recordings
 
-{{ $frontmatter.recordings }}
+* <g-link to="/recording/al-qaeda-and-jesus">Al Qaeda and Jesus</g-link>
+* <g-link to="/recording/al-qaeda-and-jesus-clean-edit">Al Qaeda and Jesus (Clean Edit)</g-link>
 
 ## Lyrics
 
