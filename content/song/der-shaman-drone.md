@@ -1,5 +1,5 @@
 ---
-title: derShamanDrone
+title: "Song: derShamanDrone"
 band: Reenchantment
 authors: ["Victor Fisher"]
 explicit: false
@@ -7,21 +7,14 @@ explicit: false
 description: |
   This recording is an exploration of the ancient mysteries of tribalism and the shamanic tradition.
 
-recordings:
-  - title: derShamanDrone
-    type: Multitrack  
-    style: Drone
-    length: "2:44"
-    released: 
-    link: https://victorslibrary.s3.amazonaws.com/music/derShamanDrone/derShamanDrone.mp3
-
 lyrics: Instrumental
 ---
 
+<g-link to="/band/reenchantment">Band Page</g-link>
+
 ## {{ $frontmatter.title }}
 
-By: <g-link to="/band/reenchantment">Reenchantment</g-link> ({{ $frontmatter.authors.join(', ') }})
-
+By: <g-link to="/band/reenchantment">Reenchantment</g-link> ({{ $frontmatter.authors.join(', ') }})  
 Explicit: {{$frontmatter.explicit}}
 
 ## Description
@@ -30,7 +23,7 @@ Explicit: {{$frontmatter.explicit}}
 
 ## Recordings
 
-{{ $frontmatter.recordings }}
+1. <g-link to="/recording/der-shaman-drone">derShamanDrone</g-link>
 
 ## Lyrics
 
