@@ -1,19 +1,11 @@
 ---
-title: As the Aged Wanderer Doth Sulk (Slave of the Seas)
+title: "Song: As the Aged Wanderer Doth Sulk (Slave of the Seas)"
 band: Reenchantment
 authors: ["Victor Fisher"]
 explicit: false
 
 description: |
   This is a highly romanticized doom metal song. They should play this at the opera.
-
-recordings:
-  - title: As the Aged Wanderer Doth Sulk (Slave of the Seas)
-    type: Multitrack  
-    style: Doom Metal
-    length: "6:46"
-    released: 
-    link: https://victorslibrary.s3.amazonaws.com/music/As+the+Aged+Wanderer+Doth+Sulk+(Slave+of+the+Seas)/As+the+Aged+Wanderer+Doth+Sulk+(Slave+of+the+Seas).mp3
 
 lyrics: |
   A storm approaches, the clouds are darkened, black castles reign the sky
@@ -32,10 +24,11 @@ lyrics: |
   What have I done to deserve this fate
 ---
 
+<g-link to="/band/reenchantment">Band Page</g-link>
+
 ## {{ $frontmatter.title }}
 
-By: <g-link to="/band/reenchantment">Reenchantment</g-link> ({{ $frontmatter.authors.join(', ') }})
-
+By: <g-link to="/band/reenchantment">Reenchantment</g-link> ({{ $frontmatter.authors.join(', ') }})  
 Explicit: {{$frontmatter.explicit}}
 
 ## Description
@@ -44,7 +37,7 @@ Explicit: {{$frontmatter.explicit}}
 
 ## Recordings
 
-{{ $frontmatter.recordings }}
+* <g-link to="/recording/as-the-aged-wanderer-doth-sulk-slave-of-the-seas">As the Aged Wanderer Doth Sulk (Slave of the Seas)</g-link>
 
 ## Lyrics
 

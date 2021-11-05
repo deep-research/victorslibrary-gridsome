@@ -31,3 +31,4 @@ Hypnotic Rock Music by Victor Fisher
 * <g-link to="/song/an-invocation-of-a-spirit-yet-unknown">An Invocation of a Spirit Yet Unknown</g-link>
 * <g-link to="/song/apathy-equals-freedom">Apathy = Freedom</g-link>
 * <g-link to="/song/aries-girl">Aries Girl</g-link>
+* <g-link to="/song/as-the-aged-wanderer-doth-sulk-slave-of-the-seas">As the Aged Wanderer Doth Sulk (Slave of the Seas)</g-link>
