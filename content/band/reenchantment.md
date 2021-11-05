@@ -34,3 +34,4 @@ Hypnotic Rock Music by Victor Fisher
 * <g-link to="/song/as-the-aged-wanderer-doth-sulk-slave-of-the-seas">As the Aged Wanderer Doth Sulk (Slave of the Seas)</g-link>
 * <g-link to="/song/attempting-to-survive-in-alternative-planes-of-existence">Attempting to Survive in Alternative Planes of Existence</g-link>
 * <g-link to="/song/black-bile">Black Bile</g-link>
+* <g-link to="/song/by-the-light-of-the-moon">By the Light of the Moon</g-link>

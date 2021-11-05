@@ -1,19 +1,11 @@
 ---
-title: By the Light of the Moon
+title: "Song: By the Light of the Moon"
 band: Reenchantment
 authors: ["Victor Fisher"]
 explicit: false
 
 description: |
   This is a song that was written during a lunar ritual about intuition and depth psychology.
-
-recordings:
-  - title: By the Light of the Moon
-    type: Demo
-    style: Rock
-    length: "1:22"
-    released: 
-    link: https://victorslibrary.s3.amazonaws.com/music/demos/By+the+Light+of+the+Moon.mp3
 
 lyrics: |
   By the light of the moon I can see
@@ -37,20 +29,21 @@ lyrics: |
   To leave the past behind
 ---
 
+<g-link to="/band/reenchantment">Band Page</g-link>
+
 ## {{ $frontmatter.title }}
 
-By: <g-link to="/band/reenchantment">Reenchantment</g-link> ({{ $frontmatter.authors.join(', ') }})
-
+By: <g-link to="/band/reenchantment">Reenchantment</g-link> ({{ $frontmatter.authors.join(', ') }})  
 Explicit: {{$frontmatter.explicit}}
 
-## Description
+### Description
 
 <vue-markdown>{{ $frontmatter.description }}</vue-markdown>
 
-## Recordings
+### Recordings
 
-{{ $frontmatter.recordings }}
+* <g-link to="/recording/by-the-light-of-the-moon">By the Light of the Moon</g-link>
 
-## Lyrics
+### Lyrics
 
 <vue-markdown>{{ $frontmatter.lyrics }}</vue-markdown>
