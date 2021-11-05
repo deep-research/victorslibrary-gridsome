@@ -1,15 +1,15 @@
 ---
-title: "Recording: Attempting to Survive in Alternative Planes of Existence"
+title: "Recording: Black Bile"
 authors: ["Victor Fisher"]
-explicit: true
-type: Demo  
-style: Doom Metal
-length: "7:38"
+explicit: false
+type: Multitrack  
+style: Ballad
+length: "2:18"
 released:
-link: https://victorslibrary.s3.amazonaws.com/music/demos/Attempting+to+Survive+in+Alternative+Planes+of+Existence.mp3
+link: https://victorslibrary.s3.amazonaws.com/music/Black+Bile/Black+Bile.mp3
 ---
 
-<g-link to="/song/attempting-to-survive-in-alternative-planes-of-existence">Song Page</g-link>
+<g-link to="/song/black-bile">Song Page</g-link>
 
 ## {{ $frontmatter.title }}
 

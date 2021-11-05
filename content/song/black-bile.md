@@ -1,19 +1,11 @@
 ---
-title: Black Bile
+title: "Song: Black Bile"
 band: Reenchantment
 authors: ["Victor Fisher"]
 explicit: false
 
 description: |
   This song describes the symptoms that one may encounter when facing a loss of meaning in their life. It was recorded with the use of traditional instrumentation.
-  
-recordings:
-  - title: Black Bile
-    type: Multitrack  
-    style: Ballad
-    length: "2:18"
-    released: 
-    link: https://victorslibrary.s3.amazonaws.com/music/Black+Bile/Black+Bile.mp3
 
 lyrics: |
   Life alone an endless circle, going on and on
@@ -29,20 +21,21 @@ lyrics: |
   Save me
 ---
 
+<g-link to="/band/reenchantment">Band Page</g-link>
+
 ## {{ $frontmatter.title }}
 
-By: <g-link to="/band/reenchantment">Reenchantment</g-link> ({{ $frontmatter.authors.join(', ') }})
-
+By: <g-link to="/band/reenchantment">Reenchantment</g-link> ({{ $frontmatter.authors.join(', ') }})  
 Explicit: {{$frontmatter.explicit}}
 
-## Description
+### Description
 
 <vue-markdown>{{ $frontmatter.description }}</vue-markdown>
 
-## Recordings
+### Recordings
 
-{{ $frontmatter.recordings }}
+* <g-link to="/recording/black-bile">Black Bile</g-link>
 
-## Lyrics
+### Lyrics
 
 <vue-markdown>{{ $frontmatter.lyrics }}</vue-markdown>
