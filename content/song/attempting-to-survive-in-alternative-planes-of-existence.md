@@ -1,19 +1,11 @@
 ---
-title: Attempting to Survive in Alternative Planes of Existence
+title: "Song: Attempting to Survive in Alternative Planes of Existence"
 band: Reenchantment
 authors: ["Victor Fisher"]
 explicit: true
 
 description: |
   This very intense song inspired by our friends in the police state.
-
-recordings:
-  - title: Attempting to Survive in Alternative Planes of Existence
-    type: Demo
-    style: Doom Metal
-    length: "7:38"
-    released: 
-    link: https://victorslibrary.s3.amazonaws.com/music/demos/Attempting+to+Survive+in+Alternative+Planes+of+Existence.mp3
 
 lyrics: |
   I hate you all
@@ -66,20 +58,21 @@ lyrics: |
   Together we will journey on
 ---
 
+<g-link to="/band/reenchantment">Band Page</g-link>
+
 ## {{ $frontmatter.title }}
 
-By: <g-link to="/band/reenchantment">Reenchantment</g-link> ({{ $frontmatter.authors.join(', ') }})
-
+By: <g-link to="/band/reenchantment">Reenchantment</g-link> ({{ $frontmatter.authors.join(', ') }})  
 Explicit: {{$frontmatter.explicit}}
 
-## Description
+### Description
 
 <vue-markdown>{{ $frontmatter.description }}</vue-markdown>
 
-## Recordings
+### Recordings
 
-{{ $frontmatter.recordings }}
+* <g-link to="/recording/attempting-to-survive-in-alternative-planes-of-existence">Attempting to Survive in Alternative Planes of Existence</g-link>
 
-## Lyrics
+### Lyrics
 
 <vue-markdown>{{ $frontmatter.lyrics }}</vue-markdown>

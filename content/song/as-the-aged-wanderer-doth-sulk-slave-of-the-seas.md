@@ -31,14 +31,14 @@ lyrics: |
 By: <g-link to="/band/reenchantment">Reenchantment</g-link> ({{ $frontmatter.authors.join(', ') }})  
 Explicit: {{$frontmatter.explicit}}
 
-## Description
+### Description
 
 <vue-markdown>{{ $frontmatter.description }}</vue-markdown>
 
-## Recordings
+### Recordings
 
 * <g-link to="/recording/as-the-aged-wanderer-doth-sulk-slave-of-the-seas">As the Aged Wanderer Doth Sulk (Slave of the Seas)</g-link>
 
-## Lyrics
+### Lyrics
 
 <vue-markdown>{{ $frontmatter.lyrics }}</vue-markdown>
