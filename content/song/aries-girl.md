@@ -19,6 +19,8 @@ lyrics: |
   And if you could feel my pain, you’d see that I won’t last
 ---
 
+<g-link to="/band/reenchantment">Band Page</g-link>
+
 ## {{ $frontmatter.title }}
 
 By: <g-link to="/band/reenchantment">Reenchantment</g-link> ({{ $frontmatter.authors.join(', ') }})
