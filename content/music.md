@@ -13,6 +13,7 @@ updated: "2021-11-02"
 <g-link to="/band/reenchantment">Reenchantment</g-link>
 
 * <g-link to="/band/pater-shrouder">Pater Shrouder</g-link>
+* <g-link to="/band/reverend-of-despair">The Reverend of Despair</g-link>
 * <g-link to="/band/shroud-of-delirium">Shroud of Delirium</g-link>
 * <g-link to="/band/strange-people-in-pain">Strange People in Pain</g-link>
 * Jeff's After School Special

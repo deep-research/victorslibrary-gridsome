@@ -9,7 +9,7 @@ updated: "2021-1-03"
 
 ## {{ $frontmatter.title }}
 
-Hypnotic Rock Music by Victor Fisher
+Hypnotic Rock Music by Victor Fisher.
 
 ### Links
 

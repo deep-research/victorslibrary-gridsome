@@ -9,4 +9,4 @@ updated: "2021-1-03"
 
 ## {{ $frontmatter.title }}
 
-Drone Metal by Aaron Scheiber
+Drone Metal by Aaron Scheiber.
