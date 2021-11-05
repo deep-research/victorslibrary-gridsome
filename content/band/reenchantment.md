@@ -37,3 +37,4 @@ Hypnotic Rock Music by Victor Fisher
 10. <g-link to="/song/black-bile">Black Bile</g-link>
 11. <g-link to="/song/by-the-light-of-the-moon">By the Light of the Moon</g-link>
 12. <g-link to="/song/charlie">Charlie</g-link>
+13. <g-link to="/song/delusions-of-mystical-transcendence">Delusions of Mystical Transcendence</g-link>

@@ -1,19 +1,11 @@
 ---
-title: Delusions of Mystical Transcendence
+title: "Song: Delusions of Mystical Transcendence"
 band: Reenchantment
 authors: ["Victor Fisher"]
 explicit: false
 
 description: |
   This song is inspired by the wicked powers of datura!
-
-recordings:
-  - title: Delusions of Mystical Transcendence
-    type: Demo
-    style: Doom Metal
-    length: "4:52"
-    released: 
-    link: https://victorslibrary.s3.amazonaws.com/music/demos/Delusions+of+Mystical+Transcendence.mp3
 
 lyrics: |
   Uncharted Wasteland
@@ -47,10 +39,11 @@ lyrics: |
   With this fate of mine
 ---
 
+<g-link to="/band/reenchantment">Band Page</g-link>
+
 ## {{ $frontmatter.title }}
 
-By: <g-link to="/band/reenchantment">Reenchantment</g-link> ({{ $frontmatter.authors.join(', ') }})
-
+By: <g-link to="/band/reenchantment">Reenchantment</g-link> ({{ $frontmatter.authors.join(', ') }})  
 Explicit: {{$frontmatter.explicit}}
 
 ## Description
@@ -59,7 +52,7 @@ Explicit: {{$frontmatter.explicit}}
 
 ## Recordings
 
-{{ $frontmatter.recordings }}
+1. <g-link to="/recording/delusions-of-mystical-transcendence">Delusions of Mystical Transcendence</g-link>
 
 ## Lyrics
 

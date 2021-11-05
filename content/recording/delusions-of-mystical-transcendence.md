@@ -1,15 +1,15 @@
 ---
-title: "Recording: Attempting to Survive in Alternative Planes of Existence"
+title: "Recording: Delusions of Mystical Transcendence"
 authors: ["Victor Fisher"]
-explicit: true
+explicit: false
 type: Demo  
 style: Doom Metal
-length: "8:43"
+length: "5:29"
 released:
-link: https://victorslibrary.s3.amazonaws.com/music/demos/Attempting+to+Survive+in+Alternative+Planes+of+Existence.mp3
+link: https://victorslibrary.s3.amazonaws.com/music/demos/Delusions+of+Mystical+Transcendence.mp3
 ---
 
-<g-link to="/song/attempting-to-survive-in-alternative-planes-of-existence">Song Page</g-link>
+<g-link to="/song/delusions-of-mystical-transcendence">Song Page</g-link>
 
 ## {{ $frontmatter.title }}
 
@@ -23,3 +23,4 @@ Explicit: {{$frontmatter.explicit}}
   <source :src="$frontmatter.link" type="audio/mpeg">
 Your browser does not support the audio element.
 </audio>
+
