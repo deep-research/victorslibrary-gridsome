@@ -16,11 +16,11 @@ Hypnotic Rock Music by Victor Fisher
 <a href="http://hypnoticrock.com">hypnoticrock.com</a>
 * <a href="https://reenchantment.bandcamp.com">Bandcamp</a>
 * <a href="https://twitter.com/hypnoticrock">Twitter</a>
-<!-- * <a href="https://www.facebook.com/hypnoticrock">Facebook</a> -->
-<!-- * <a href="https://www.youtube.com/user/reverendofdespair">YouTube (The Reverend of Despair)</a> -->
-<!-- * <a href="https://www.youtube.com/channel/UCUty3MJPa-JrdNLJtiSxttA">YouTube (Reenchantment)</a> -->
-<!-- * <a href="https://www.instagram.com/hypnoticrock/">Instagram</a> -->
-<!-- * <a href="https://www.tiktok.com/@hypnoticrock?">TikTok</a> -->
+* <a href="https://www.facebook.com/hypnoticrock">Facebook</a>
+* <a href="https://www.youtube.com/user/reverendofdespair">YouTube (The Reverend of Despair)</a>
+* <a href="https://www.youtube.com/channel/UCUty3MJPa-JrdNLJtiSxttA">YouTube (Reenchantment)</a>
+* <a href="https://www.instagram.com/hypnoticrock/">Instagram</a>
+* <a href="https://www.tiktok.com/@hypnoticrock?">TikTok</a>
 <!-- * Snapchat -->
 
 ### Songs
@@ -30,3 +30,4 @@ Hypnotic Rock Music by Victor Fisher
 * <g-link to="/song/al-qaeda-and-jesus">Al Qaeda and Jesus</g-link>
 * <g-link to="/song/an-invocation-of-a-spirit-yet-unknown">An Invocation of a Spirit Yet Unknown</g-link>
 * <g-link to="/song/apathy-equals-freedom">Apathy = Freedom</g-link>
+* <g-link to="/song/aries-girl">Aries Girl</g-link>
