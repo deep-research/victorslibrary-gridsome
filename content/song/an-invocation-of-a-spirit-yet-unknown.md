@@ -37,7 +37,7 @@ Explicit: {{$frontmatter.explicit}}
 
 ### Recordings
 
-* <g-link to="/recording/an-invocation-of-a-spirit-yet-unknown">An Invocation of a Spirit Yet Unknown</g-link>
+1. <g-link to="/recording/an-invocation-of-a-spirit-yet-unknown">An Invocation of a Spirit Yet Unknown</g-link>
 
 ### Lyrics
 

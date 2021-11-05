@@ -71,7 +71,7 @@ Explicit: {{$frontmatter.explicit}}
 
 ### Recordings
 
-* <g-link to="/recording/attempting-to-survive-in-alternative-planes-of-existence">Attempting to Survive in Alternative Planes of Existence</g-link>
+1. <g-link to="/recording/attempting-to-survive-in-alternative-planes-of-existence">Attempting to Survive in Alternative Planes of Existence</g-link>
 
 ### Lyrics
 

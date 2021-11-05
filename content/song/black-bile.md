@@ -34,7 +34,7 @@ Explicit: {{$frontmatter.explicit}}
 
 ### Recordings
 
-* <g-link to="/recording/black-bile">Black Bile</g-link>
+1. <g-link to="/recording/black-bile">Black Bile</g-link>
 
 ### Lyrics
 

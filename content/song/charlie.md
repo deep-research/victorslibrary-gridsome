@@ -1,19 +1,11 @@
 ---
-title: Charlie
+title: "Song: Charlie"
 band: Reenchantment
 authors: ["Victor Fisher"]
 explicit: false
 
 description: |
   For this recording, I channeled the radical wisdom of Charles Manson.
-
-recordings:
-  - title: Charlie
-    type: Multitrack  
-    style: Electronic
-    length: "0:58"
-    released: 
-    link: https://victorslibrary.s3.amazonaws.com/music/Charlie/Charlie.mp3
 
 lyrics: |
   Charles Manson:
@@ -37,20 +29,22 @@ lyrics: |
   > I exist in places you’ve never even dreamed of 
 ---
 
+<g-link to="/band/reenchantment">Band Page</g-link>
+
 ## {{ $frontmatter.title }}
 
 By: <g-link to="/band/reenchantment">Reenchantment</g-link> ({{ $frontmatter.authors.join(', ') }})
 
 Explicit: {{$frontmatter.explicit}}
 
-## Description
+### Description
 
 <vue-markdown>{{ $frontmatter.description }}</vue-markdown>
 
-## Recordings
+### Recordings
 
-{{ $frontmatter.recordings }}
+1. <g-link to="/recording/charlie">Charlie</g-link>
 
-## Lyrics
+### Lyrics
 
 <vue-markdown>{{ $frontmatter.lyrics }}</vue-markdown>

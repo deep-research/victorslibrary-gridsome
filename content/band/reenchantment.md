@@ -36,3 +36,4 @@ Hypnotic Rock Music by Victor Fisher
 9. <g-link to="/song/attempting-to-survive-in-alternative-planes-of-existence">Attempting to Survive in Alternative Planes of Existence</g-link>
 10. <g-link to="/song/black-bile">Black Bile</g-link>
 11. <g-link to="/song/by-the-light-of-the-moon">By the Light of the Moon</g-link>
+12. <g-link to="/song/charlie">Charlie</g-link>

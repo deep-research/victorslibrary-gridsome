@@ -32,7 +32,7 @@ Explicit: {{$frontmatter.explicit}}
 
 ### Recordings
 
-* <g-link to="/recording/aries-girl">Aries Girl</g-link>
+1. <g-link to="/recording/aries-girl">Aries Girl</g-link>
 
 ### Lyrics
 

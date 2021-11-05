@@ -55,7 +55,7 @@ Explicit: {{$frontmatter.explicit}}
 
 ### Recordings
 
-* <g-link to="/recording/apathy-equals-freedom">Apathy = Freedom</g-link>
+1. <g-link to="/recording/apathy-equals-freedom">Apathy = Freedom</g-link>
 
 ### Lyrics
 

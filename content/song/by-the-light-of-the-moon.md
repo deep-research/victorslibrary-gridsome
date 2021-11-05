@@ -42,7 +42,7 @@ Explicit: {{$frontmatter.explicit}}
 
 ### Recordings
 
-* <g-link to="/recording/by-the-light-of-the-moon">By the Light of the Moon</g-link>
+1. <g-link to="/recording/by-the-light-of-the-moon">By the Light of the Moon</g-link>
 
 ### Lyrics
 

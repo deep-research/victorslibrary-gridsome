@@ -23,7 +23,7 @@ Explicit: {{$frontmatter.explicit}}
 
 ### Recordings
 
-* <g-link to="/recording/a-portrait-of-prince-khalil">A Portrait of Prince Khalil</g-link>
+1. <g-link to="/recording/a-portrait-of-prince-khalil">A Portrait of Prince Khalil</g-link>
 
 ### Lyrics
 

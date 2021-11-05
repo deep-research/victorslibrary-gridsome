@@ -55,8 +55,8 @@ Explicit: {{$frontmatter.explicit}}
 
 ### Recordings
 
-* <g-link to="/recording/al-qaeda-and-jesus">Al Qaeda and Jesus</g-link>
-* <g-link to="/recording/al-qaeda-and-jesus-clean-edit">Al Qaeda and Jesus (Clean Edit)</g-link>
+1. <g-link to="/recording/al-qaeda-and-jesus">Al Qaeda and Jesus</g-link>
+2. <g-link to="/recording/al-qaeda-and-jesus-clean-edit">Al Qaeda and Jesus (Clean Edit)</g-link>
 
 ### Lyrics
 

@@ -70,7 +70,7 @@ Explicit: {{$frontmatter.explicit}}
 
 ### Recordings
 
-* <g-link to="/recording/a-plastic-paradise">A Plastic Paradise</g-link>
+1. <g-link to="/recording/a-plastic-paradise">A Plastic Paradise</g-link>
 
 ### Lyrics
 

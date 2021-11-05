@@ -47,7 +47,7 @@ Explicit: {{$frontmatter.explicit}}
 
 ### Recordings
 
-* <g-link to="/recording/a-voice-in-the-distance">A Voice in the Distance</g-link>
+1. <g-link to="/recording/a-voice-in-the-distance">A Voice in the Distance</g-link>
 
 ### Lyrics
 

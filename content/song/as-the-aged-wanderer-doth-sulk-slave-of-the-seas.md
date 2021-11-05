@@ -37,7 +37,7 @@ Explicit: {{$frontmatter.explicit}}
 
 ### Recordings
 
-* <g-link to="/recording/as-the-aged-wanderer-doth-sulk-slave-of-the-seas">As the Aged Wanderer Doth Sulk (Slave of the Seas)</g-link>
+1. <g-link to="/recording/as-the-aged-wanderer-doth-sulk-slave-of-the-seas">As the Aged Wanderer Doth Sulk (Slave of the Seas)</g-link>
 
 ### Lyrics
 
