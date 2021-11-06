@@ -43,3 +43,4 @@ Hypnotic Rock Music by Victor Fisher
 16. <g-link to="/song/distorted-dreams">Distorted Dreams</g-link>
 17. <g-link to="/song/doom-sex-mind-control-extradimensional-ecstasy">Doom Sex (Mind Control Extradimensional Ecstasy)</g-link>
 18. <g-link to="/song/drawing-down-the-moon-the-art-of-the-cunning">Drawing Down the Moon (The Art of the Cunning)</g-link>
+19. <g-link to="/song/drone-theist-coda-entitled-desire-and-pain">DroneTheist [Coda entitled Desire and Pain]</g-link>
