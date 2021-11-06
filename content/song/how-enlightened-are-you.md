@@ -1,19 +1,11 @@
 ---
-title: How Enlightened Are You?
+title: "Song: How Enlightened Are You?"
 band: Reenchantment
 authors: ["Victor Fisher", "Aaron Schreiber"]
 explicit: true
 
 description: |
   This music conveys the deepest of wisdom from the lands of the east!
-
-recordings:
-  - title: How Enlightened Are You?
-    type: Multitrack  
-    style: Electronic
-    length: "2:41"
-    released: 
-    link: https://victorslibrary.s3.amazonaws.com/music/How+Enlightened+Are+You/How+Enlightened+Are+You.mp3
 
 lyrics: |
   Yo, I’m more enlightened than you m*\*\*erf*\*\*er
@@ -25,20 +17,21 @@ lyrics: |
   Come on now
 ---
 
+<g-link to="/band/reenchantment">Band Page</g-link>
+
 ## {{ $frontmatter.title }}
 
-By: <g-link to="/band/reenchantment">Reenchantment</g-link> ({{ $frontmatter.authors.join(', ') }})
-
+By: <g-link to="/band/reenchantment">Reenchantment</g-link> ({{ $frontmatter.authors.join(', ') }})  
 Explicit: {{$frontmatter.explicit}}
 
-## Description
+### Description
 
 <vue-markdown>{{ $frontmatter.description }}</vue-markdown>
 
-## Recordings
+### Recordings
 
-{{ $frontmatter.recordings }}
+1. <g-link to="/recording/how-enlightened-are-you">How Enlightened Are You?</g-link>
 
-## Lyrics
+### Lyrics
 
 <vue-markdown>{{ $frontmatter.lyrics }}</vue-markdown>
