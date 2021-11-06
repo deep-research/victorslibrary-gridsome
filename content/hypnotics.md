@@ -8,10 +8,10 @@ description: |
   This song is about the managed social decline and mind control techniques that are perpetrated against the general public. It also references the mythology of The Lord Reverend Wizard of Alchemical Despair's basement.
 
 recordings:
-  - title: 
+  - title: Hypnotics
     type: Demo
     style: Doom Metal
-    length: "6:48"
+    length: "7:15"
     released: 
     link: https://victorslibrary.s3.amazonaws.com/music/demos/Hypnotics.mp3
 

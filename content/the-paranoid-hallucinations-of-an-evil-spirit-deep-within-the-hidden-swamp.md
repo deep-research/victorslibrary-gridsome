@@ -11,7 +11,7 @@ recordings:
   - title: The Paranoid Hallucinations of an Evil Spirit (Deep Within the Hidden Swamp)
     type: Demo
     style: Doom Metal
-    length: "7:21"
+    length: "7:02"
     released: 
     link: https://victorslibrary.s3.amazonaws.com/music/demos/The+Paranoid+Hallucinations+of+an+Evil+Spirit+(Deep+Within+the+Hidden+Swamp).mp3
 

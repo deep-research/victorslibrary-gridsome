@@ -1,18 +1,11 @@
 ---
-title: Gaze into the Vast Ethers of Perception
+title: "Song: Gaze into the Vast Ethers of Perception"
 band: Reenchantment
 authors: ["Victor Fisher"]
 explicit: false
 
 description: |
   This song was inspired by an original encounter with that most controversial of plants.
-
-recordings:
-  - title: Gaze into the Vast Ethers of Perception (High School Version)
-    type: Multitrack  
-    style: Doom Metal
-    length: "8:33"
-    link: https://victorslibrary.s3.amazonaws.com/music/Gaze+into+the+Vast+Ethers+of+Perception/Gaze+into+the+Vast+Ethers+of+Perception+(High+School+Version).mp3
 
 lyrics: |
   I live
@@ -43,20 +36,22 @@ lyrics: |
   As does my mind, live on in me
 ---
 
+<g-link to="/band/reenchantment">Band Page</g-link>
+
 ## {{ $frontmatter.title }}
 
-By: <g-link to="/band/reenchantment">Reenchantment</g-link> ({{ $frontmatter.authors.join(', ') }})
-
+By: <g-link to="/band/reenchantment">Reenchantment</g-link> ({{ $frontmatter.authors.join(', ') }})  
 Explicit: {{$frontmatter.explicit}}
 
-## Description
+### Description
 
 <vue-markdown>{{ $frontmatter.description }}</vue-markdown>
 
-## Recordings
+### Recordings
 
-{{ $frontmatter.recordings }}
+1. <g-link to="/recording/gaze-into-the-vast-ethers-of-perception-copyright-version">Gaze into the Vast Ethers of Perception (Copyright Version)</g-link>
+2. <g-link to="/recording/gaze-into-the-vast-ethers-of-perception-high-school-version">Gaze into the Vast Ethers of Perception (High School Version)</g-link>
 
-## Lyrics
+### Lyrics
 
 <vue-markdown>{{ $frontmatter.lyrics }}</vue-markdown>

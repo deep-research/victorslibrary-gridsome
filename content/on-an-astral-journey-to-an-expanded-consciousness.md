@@ -11,7 +11,7 @@ recordings:
   - title: On an Astral Journey to an Expanded Consciousness
     type: Demo
     style: Doom Metal
-    length: "9:33"
+    length: "10:27"
     released: 
     link: https://victorslibrary.s3.amazonaws.com/music/demos/On+an+Astral+Journey+to+an+Expanded+Consciousness.mp3
 
