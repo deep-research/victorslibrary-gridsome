@@ -10,6 +10,7 @@ updated: "2021-11-02"
 ## {{ $frontmatter.title }}
 
 ### Bands
+
 <g-link to="/band/reenchantment">Reenchantment</g-link>
 
 * <g-link to="/band/pater-shrouder">Pater Shrouder</g-link>
