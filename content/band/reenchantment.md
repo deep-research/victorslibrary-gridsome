@@ -9,7 +9,7 @@ updated: "2021-1-03"
 
 ## {{ $frontmatter.title }}
 
-Hypnotic Rock Music by Victor Fisher.
+Hypnotic Rock Music by Victor Fisher
 
 ### Links
 
@@ -39,3 +39,4 @@ Hypnotic Rock Music by Victor Fisher.
 12. <g-link to="/song/charlie">Charlie</g-link>
 13. <g-link to="/song/delusions-of-mystical-transcendence">Delusions of Mystical Transcendence</g-link>
 14. <g-link to="/song/der-shaman-drone">derShamanDrone</g-link>
+15. <g-link to="/song/disoriented-by-the-forest-dark-far-from-help">Disoriented By the Forest Dark (Far From Help)</g-link>

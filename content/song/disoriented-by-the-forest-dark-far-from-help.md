@@ -1,19 +1,11 @@
 ---
-title: Disoriented By the Forest Dark (Far From Help)
+title: "Song: Disoriented By the Forest Dark (Far From Help)"
 band: Reenchantment
 authors: ["Victor Fisher"]
 explicit: false
 
 description: |
   This song represents the outcry of a wretched soul.
-
-recordings:
-  - title: Disoriented By the Forest Dark (Far From Help)
-    type: Demo
-    style: Rock
-    length: "5:35"
-    released: 
-    link: https://victorslibrary.s3.us-east-2.amazonaws.com/music/demos/Disoriented+By+the+Forest+Dark+(Far+From+Help).mp3
 
 lyrics: |
   Hear me now, I am calling out to you
@@ -49,20 +41,21 @@ lyrics: |
   And I wanted to see you, one final time
 ---
 
+<g-link to="/band/reenchantment">Band Page</g-link>
+
 ## {{ $frontmatter.title }}
 
-By: <g-link to="/band/reenchantment">Reenchantment</g-link> ({{ $frontmatter.authors.join(', ') }})
-
+By: <g-link to="/band/reenchantment">Reenchantment</g-link> ({{ $frontmatter.authors.join(', ') }})  
 Explicit: {{$frontmatter.explicit}}
 
-## Description
+### Description
 
 <vue-markdown>{{ $frontmatter.description }}</vue-markdown>
 
-## Recordings
+### Recordings
 
-{{ $frontmatter.recordings }}
+1. <g-link to="/recording/disoriented-by-the-forest-dark-far-from-help">Disoriented By the Forest Dark (Far From Help)</g-link>
 
-## Lyrics
+### Lyrics
 
 <vue-markdown>{{ $frontmatter.lyrics }}</vue-markdown>

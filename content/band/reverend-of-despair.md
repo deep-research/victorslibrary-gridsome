@@ -9,7 +9,7 @@ updated: "2021-1-03"
 
 ## {{ $frontmatter.title }}
 
-Evil rock music by Victor Fisher.
+Evil rock music by Victor Fisher
 
 ### Description
 

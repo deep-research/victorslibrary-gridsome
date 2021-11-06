@@ -9,7 +9,7 @@ updated: "2021-1-03"
 
 ## {{ $frontmatter.title }}
 
-High School Era Psychedelic Doom Band.
+High School Era Psychedelic Doom Band
 
 ### Members
 * Victor Fisher - Guitar, Vocals and Songwriting
