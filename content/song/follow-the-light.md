@@ -41,16 +41,16 @@ lyrics: |
 By: <g-link to="/band/reenchantment">Reenchantment</g-link> ({{ $frontmatter.authors.join(', ') }})  
 Explicit: {{$frontmatter.explicit}}
 
-## Description
+### Description
 
 <vue-markdown>{{ $frontmatter.description }}</vue-markdown>
 
-## Recordings
+### Recordings
 
 1. <g-link to="/recording/follow-the-light-copyright-version">Follow the Light (Copyright Version)</g-link>
 2. <g-link to="/recording/follow-the-light-ambient-version">Follow the Light (Ambient Version)</g-link>
 3. <g-link to="/recording/follow-the-light-high-school-version">Follow the Light (High School Version)</g-link>
 
-## Lyrics
+### Lyrics
 
 <vue-markdown>{{ $frontmatter.lyrics }}</vue-markdown>

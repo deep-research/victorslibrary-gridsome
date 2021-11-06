@@ -1,19 +1,11 @@
 ---
-title: From Path to Portal
+title: "Song: From Path to Portal"
 band: Reenchantment
 authors: ["Victor Fisher"]
 explicit: false
 
 description: |
   This is a neo-pagan acoustic rock song. It's rather catchy!
-
-recordings:
-  - title: From Path to Portal
-    type: Demo
-    style: Rock
-    length: "3:09"
-    released: 
-    link: https://victorslibrary.s3.amazonaws.com/music/demos/From+Path+to+Portal.mp3
 
 lyrics: |
   Trust the earth, and the water
@@ -30,20 +22,21 @@ lyrics: |
   We’re prepared to die
 ---
 
+<g-link to="/band/reenchantment">Band Page</g-link>
+
 ## {{ $frontmatter.title }}
 
-By: <g-link to="/band/reenchantment">Reenchantment</g-link> ({{ $frontmatter.authors.join(', ') }})
-
+By: <g-link to="/band/reenchantment">Reenchantment</g-link> ({{ $frontmatter.authors.join(', ') }})  
 Explicit: {{$frontmatter.explicit}}
 
-## Description
+### Description
 
 <vue-markdown>{{ $frontmatter.description }}</vue-markdown>
 
-## Recordings
+### Recordings
 
-{{ $frontmatter.recordings }}
+1. <g-link to="/recording/from-path-to-portal">From Path to Portal</g-link>
 
-## Lyrics
+### Lyrics
 
 <vue-markdown>{{ $frontmatter.lyrics }}</vue-markdown>

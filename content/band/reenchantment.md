@@ -45,3 +45,4 @@ Hypnotic Rock Music by Victor Fisher
 18. <g-link to="/song/drawing-down-the-moon-the-art-of-the-cunning">Drawing Down the Moon (The Art of the Cunning)</g-link>
 19. <g-link to="/song/drone-theist-coda-entitled-desire-and-pain">DroneTheist [Coda entitled Desire and Pain]</g-link>
 20. <g-link to="/song/follow-the-light">Follow the Light</g-link>
+21. <g-link to="/song/from-path-to-portal">From Path to Portal</g-link>
