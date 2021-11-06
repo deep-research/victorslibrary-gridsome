@@ -1,5 +1,5 @@
 ---
-title: Doom Sex (Mind Control Extradimensional Ecstasy)
+title: "Song: Doom Sex (Mind Control Extradimensional Ecstasy)"
 band: Reenchantment
 authors: ["Victor Fisher", "David Sommer"]
 explicit: false
@@ -20,10 +20,11 @@ lyrics: |
   > What did you put in my drink?
 ---
 
+<g-link to="/band/reenchantment">Band Page</g-link>
+
 ## {{ $frontmatter.title }}
 
-By: <g-link to="/band/reenchantment">Reenchantment</g-link> ({{ $frontmatter.authors.join(', ') }})
-
+By: <g-link to="/band/reenchantment">Reenchantment</g-link> ({{ $frontmatter.authors.join(', ') }})  
 Explicit: {{$frontmatter.explicit}}
 
 ## Description
@@ -32,7 +33,7 @@ Explicit: {{$frontmatter.explicit}}
 
 ## Recordings
 
-{{ $frontmatter.recordings }}
+1. <g-link to="/recording/doom-sex-mind-control-extradimensional-ecstasy">Doom Sex (Mind Control Extradimensional Ecstasy)</g-link>
 
 ## Lyrics
 
