@@ -2,7 +2,7 @@
 title: "Recording: Gaze into the Vast Ethers of Perception (High School Version)"
 authors: ["Victor Fisher"]
 explicit: false
-type: Multitrack  
+type: Multitrack
 style: Doom Metal
 length: "8:33"
 released:

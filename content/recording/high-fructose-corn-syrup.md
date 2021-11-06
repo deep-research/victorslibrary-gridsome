@@ -1,15 +1,15 @@
 ---
-title: "Recording: Gaze into the Vast Ethers of Perception (Copyright Version)"
+title: "Recording: High Fructose Corn Syrup"
 authors: ["Victor Fisher"]
 explicit: false
-type: Multitrack
-style: Doom Metal
-length: "8:02"
+type: Demo
+style: Rock
+length: "2:54"
 released:
-link: https://victorslibrary.s3.us-east-2.amazonaws.com/music/Gaze+into+the+Vast+Ethers+of+Perception/Gaze+into+the+Vast+Ethers+of+Perception+(Copyright+Version).mp3
+link: https://victorslibrary.s3.amazonaws.com/music/demos/High+Fructose+Corn+Syrup.mp3
 ---
 
-<g-link to="/song/gaze-into-the-vast-ethers-of-perception">Song Page</g-link>
+<g-link to="/song/high-fructose-corn-syrup">Song Page</g-link>
 
 ## {{ $frontmatter.title }}
 

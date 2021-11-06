@@ -1,19 +1,11 @@
 ---
-title: High Fructose Corn Syrup
+title: "Song: High Fructose Corn Syrup"
 band: Reenchantment
 authors: ["Victor Fisher"]
 explicit: false
 
 description: |
   This is a blues rock song about Hurricane Katrina. I wrote this with Lamp, my first band in High School.
-
-recordings:
-  - title: High Fructose Corn Syrup
-    type: Demo
-    style: Rock
-    length: "2:54"
-    released: 
-    link: https://victorslibrary.s3.amazonaws.com/music/demos/High+Fructose+Corn+Syrup.mp3
 
 lyrics: |
   I left my home, went out the door
@@ -42,20 +34,21 @@ lyrics: |
   I know that something’s gotta go
 ---
 
+<g-link to="/band/reenchantment">Band Page</g-link>
+
 ## {{ $frontmatter.title }}
 
-By: <g-link to="/band/reenchantment">Reenchantment</g-link> ({{ $frontmatter.authors.join(', ') }})
-
+By: <g-link to="/band/reenchantment">Reenchantment</g-link> ({{ $frontmatter.authors.join(', ') }})  
 Explicit: {{$frontmatter.explicit}}
 
-## Description
+### Description
 
 <vue-markdown>{{ $frontmatter.description }}</vue-markdown>
 
-## Recordings
+### Recordings
 
-{{ $frontmatter.recordings }}
+1. <g-link to="/recording/high-fructose-corn-syrup">High Fructose Corn Syrup</g-link>
 
-## Lyrics
+### Lyrics
 
 <vue-markdown>{{ $frontmatter.lyrics }}</vue-markdown>
