@@ -49,3 +49,4 @@ Hypnotic Rock Music by Victor Fisher
 22. <g-link to="/song/gaze-into-the-vast-ethers-of-perception">Gaze into the Vast Ethers of Perception</g-link>
 23. <g-link to="/song/high-fructose-corn-syrup">High Fructose Corn Syrup</g-link>
 24. <g-link to="/song/how-enlightened-are-you">How Enlightened Are You?</g-link>
+25. <g-link to="/song/hypnotics">Hypnotics</g-link>

@@ -1,19 +1,11 @@
 ---
-title: Hypnotics
+title: "Song: Hypnotics"
 band: Reenchantment
 authors: ["Victor Fisher"]
 explicit: false
 
 description: |
   This song is about the managed social decline and mind control techniques that are perpetrated against the general public. It also references the mythology of The Lord Reverend Wizard of Alchemical Despair's basement.
-
-recordings:
-  - title: Hypnotics
-    type: Demo
-    style: Doom Metal
-    length: "7:15"
-    released: 
-    link: https://victorslibrary.s3.amazonaws.com/music/demos/Hypnotics.mp3
 
 lyrics: |
   Screw this world
@@ -50,7 +42,7 @@ Explicit: {{$frontmatter.explicit}}
 
 ### Recordings
 
-1. <g-link to="/recording/how-enlightened-are-you">How Enlightened Are You?</g-link>
+1. <g-link to="/recording/hypnotics">Hypnotics</g-link>
 
 ### Lyrics
 
