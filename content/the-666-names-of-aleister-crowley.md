@@ -159,14 +159,14 @@ By: <g-link to="/band/pater-shrouder">Pater Shrouder</g-link> ({{ $frontmatter.a
 
 Explicit: {{$frontmatter.explicit}}
 
-## Description
+### Description
 
 <vue-markdown>{{ $frontmatter.description }}</vue-markdown>
 
-## Recordings
+### Recordings
 
 {{ $frontmatter.recordings }}
 
-## Lyrics
+### Lyrics
 
 <vue-markdown>{{ $frontmatter.lyrics }}</vue-markdown>
