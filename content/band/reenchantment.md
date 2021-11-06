@@ -40,3 +40,4 @@ Hypnotic Rock Music by Victor Fisher
 13. <g-link to="/song/delusions-of-mystical-transcendence">Delusions of Mystical Transcendence</g-link>
 14. <g-link to="/song/der-shaman-drone">derShamanDrone</g-link>
 15. <g-link to="/song/disoriented-by-the-forest-dark-far-from-help">Disoriented By the Forest Dark (Far From Help)</g-link>
+16. <g-link to="/song/distorted-dreams">Distorted Dreams</g-link>

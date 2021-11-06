@@ -1,19 +1,11 @@
 ---
-title: Distorted Dreams
+title: "Song: Distorted Dreams"
 band: Reenchantment
 authors: ["Victor Fisher"]
 explicit: true
 
 description: |
   This song is about the cosmic struggle that is at play within the depths of the human psyche.
-
-recordings:
-  - title: Distorted Dreams
-    type: Demo
-    style: Doom Metal
-    length: "6:54"
-    released: 
-    link: https://victorslibrary.s3.amazonaws.com/music/demos/Distorted+Dreams.mp3
 
 lyrics: |
   Filter all the darkness
@@ -52,20 +44,21 @@ lyrics: |
   Binded by the blood, of the sage
 ---
 
+<g-link to="/band/reenchantment">Band Page</g-link>
+
 ## {{ $frontmatter.title }}
 
-By: <g-link to="/band/reenchantment">Reenchantment</g-link> ({{ $frontmatter.authors.join(', ') }})
-
+By: <g-link to="/band/reenchantment">Reenchantment</g-link> ({{ $frontmatter.authors.join(', ') }})  
 Explicit: {{$frontmatter.explicit}}
 
-## Description
+### Description
 
 <vue-markdown>{{ $frontmatter.description }}</vue-markdown>
 
-## Recordings
+### Recordings
 
-{{ $frontmatter.recordings }}
+1. <g-link to="/recording/distorted-dreams">Distorted Dreams</g-link>
 
-## Lyrics
+### Lyrics
 
 <vue-markdown>{{ $frontmatter.lyrics }}</vue-markdown>
