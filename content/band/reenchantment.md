@@ -42,3 +42,4 @@ Hypnotic Rock Music by Victor Fisher
 15. <g-link to="/song/disoriented-by-the-forest-dark-far-from-help">Disoriented By the Forest Dark (Far From Help)</g-link>
 16. <g-link to="/song/distorted-dreams">Distorted Dreams</g-link>
 17. <g-link to="/song/doom-sex-mind-control-extradimensional-ecstasy">Doom Sex (Mind Control Extradimensional Ecstasy)</g-link>
+18. <g-link to="/song/drawing-down-the-moon-the-art-of-the-cunning">Drawing Down the Moon (The Art of the Cunning)</g-link>
