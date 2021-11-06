@@ -50,3 +50,4 @@ Hypnotic Rock Music by Victor Fisher
 23. <g-link to="/song/high-fructose-corn-syrup">High Fructose Corn Syrup</g-link>
 24. <g-link to="/song/how-enlightened-are-you">How Enlightened Are You?</g-link>
 25. <g-link to="/song/hypnotics">Hypnotics</g-link>
+26. <g-link to="/song/in-vain">In Vain...</g-link>

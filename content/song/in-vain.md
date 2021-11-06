@@ -1,5 +1,5 @@
 ---
-title: In Vain...
+title: "Song: In Vain..."
 band: Reenchantment
 authors: ["Victor Fisher"]
 explicit: true
@@ -8,14 +8,6 @@ description: |
   This song reflects upon the awesome power that is possessed by an empire and the vast impact of its gravitational field.
 
   The audio clips were sourced from an <a href="https://www.rt.com/" target="_blank">RT News</a> interview with Senator Mike Gravel.
-
-recordings:
-  - title: In Vain...
-    type: Multitrack  
-    style: Doom Metal
-    length: "8:27"
-    released: 
-    link: https://victorslibrary.s3.amazonaws.com/music/In+Vain.../In+Vain....mp3
 
 lyrics: |
   RT Reporter:
@@ -79,7 +71,7 @@ Explicit: {{$frontmatter.explicit}}
 
 ### Recordings
 
-1. <g-link to="/recording/how-enlightened-are-you">How Enlightened Are You?</g-link>
+1. <g-link to="/recording/in-vain">In Vain...</g-link>
 
 ### Lyrics
 
