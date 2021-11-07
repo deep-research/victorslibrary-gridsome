@@ -56,3 +56,4 @@ Hypnotic Rock Music by Victor Fisher
 29. <g-link to="/song/mad-in-time-cover">Mad in Time (Cover)</g-link>
 30. <g-link to="/song/maximum-emotional-capacity">Maximum Emotional Capacity</g-link>
 31. <g-link to="/song/on-an-astral-journey-to-an-expanded-consciousness">On an Astral Journey to an Expanded Consciousness</g-link>
+32. <g-link to="/song/otherworldly-dream-magic">Otherworldly Dream Magic</g-link>

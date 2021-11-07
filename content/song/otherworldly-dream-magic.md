@@ -1,18 +1,11 @@
 ---
-title: Otherworldly Dream Magic
+title: "Song: Otherworldly Dream Magic"
 band: Reenchantment
 authors: ["Victor Fisher"]
 explicit: false
 
 description: |
   This concise atmospheric rock song refers to the way of those who know.
-
-recordings:
-  - title: Otherworldly Dream Magic
-    type: Multitrack  
-    style: Electronic
-    length: "0:44"
-    link: https://victorslibrary.s3.amazonaws.com/music/Otherworldly+Dream+Magick/Otherworldly+Dream+Magick.mp3
 
 lyrics: |
   Flying toward the realm beyond
@@ -39,7 +32,7 @@ Explicit: {{$frontmatter.explicit}}
 
 ### Recordings
 
-1. <g-link to="/recording/how-enlightened-are-you">How Enlightened Are You?</g-link>
+1. <g-link to="/recording/otherworldly-dream-magic">Otherworldly Dream Magic</g-link>
 
 ### Lyrics
 
