@@ -1,19 +1,11 @@
 ---
-title: The Ceremony of Forgiveness
+title: "Song: The Ceremony of Forgiveness"
 band: Reenchantment
 authors: ["Victor Fisher"]
 explicit: false
 
 description: |
   This song describes the feeling of guilt that accompanies a broken relationship. It is one of the best examples of my atmospheric rock sound.
-
-recordings:
-  - title: The Ceremony of Forgiveness
-    type: Multitrack  
-    style: Rock
-    length: "3:10"
-    released: 
-    link: https://victorslibrary.s3.amazonaws.com/music/The+Ceremony+of+Forgiveness/The+Ceremony+of+Forgiveness.mp3
 
 lyrics: |
   I’ll say I’m sorry
@@ -42,7 +34,7 @@ Explicit: {{$frontmatter.explicit}}
 
 ### Recordings
 
-1. <g-link to="/recording/how-enlightened-are-you">How Enlightened Are You?</g-link>
+1. <g-link to="/recording/the-ceremony-of-forgiveness">The Ceremony of Forgiveness</g-link>
 
 ### Lyrics
 

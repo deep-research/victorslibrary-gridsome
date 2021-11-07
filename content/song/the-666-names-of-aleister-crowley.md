@@ -147,8 +147,7 @@ lyrics: |
 
 ## {{ $frontmatter.title }}
 
-By: <g-link to="/band/pater-shrouder">Pater Shrouder</g-link> ({{ $frontmatter.authors.join(', ') }})
-
+By: <g-link to="/band/pater-shrouder">Pater Shrouder</g-link> ({{ $frontmatter.authors.join(', ') }})  
 Explicit: {{$frontmatter.explicit}}
 
 ### Description

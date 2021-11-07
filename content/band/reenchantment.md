@@ -68,3 +68,4 @@ Hypnotic Rock Music by Victor Fisher
 41. <g-link to="/song/suicidal-shaman">Suicidal Shaman</g-link>
 42. <g-link to="/song/terra-incognita">Terra Incognita</g-link>
 43. <g-link to="/song/the-666-names-of-aleister-crowley">The 666 Names of Aleister Crowley</g-link>
+44. <g-link to="/song/the-ceremony-of-forgiveness">The Ceremony of Forgiveness</g-link>
