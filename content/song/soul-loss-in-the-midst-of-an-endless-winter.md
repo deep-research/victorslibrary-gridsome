@@ -1,25 +1,11 @@
 ---
-title: Soul Loss in the Midst of an Endless Winter
+title: "Song: Soul Loss in the Midst of an Endless Winter"
 band: Reenchantment
 authors: ["Victor Fisher"]
 explicit: false
 
 description: |
   This is a song that explores the inner workings of twisted mind.
-
-recordings:
-  - title: Soul Loss in the Midst of an Endless Winter
-    type: Multitrack  
-    style: Rock
-    length: "6:35"
-    released: "2021-03-10"
-    link: https://victorslibrary.s3.us-east-2.amazonaws.com/music/Soul+Loss+in+the+Midst+of+an+Endless+Winter/Soul+Loss+in+the+Midst+of+an+Endless+Winter.mp3
-  - title: Soul Loss in the Midst of an Endless Winter (Demo)
-    type: Demo
-    style: Doom Metal
-    length: "4:41"
-    released: 
-    link: https://victorslibrary.s3.amazonaws.com/music/demos/Soul+Loss+in+the+Midst+of+an+Endless+Winter.mp3
 
 lyrics: |
   Hanging 'round when you’re feeling down
@@ -59,7 +45,8 @@ Explicit: {{$frontmatter.explicit}}
 
 ### Recordings
 
-1. <g-link to="/recording/how-enlightened-are-you">How Enlightened Are You?</g-link>
+1. <g-link to="/recording/soul-loss-in-the-midst-of-an-endless-winter-doom-version">Soul Loss in the Midst of an Endless Winter (Doom Version)</g-link>
+2. <g-link to="/recording/soul-loss-in-the-midst-of-an-endless-winter-acoustic-version">Soul Loss in the Midst of an Endless Winter (Acoustic Version)</g-link>
 
 ### Lyrics
 

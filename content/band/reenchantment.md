@@ -63,3 +63,4 @@ Hypnotic Rock Music by Victor Fisher
 36. <g-link to="/song/satanic-drug-users-from-outer-space">Satanic Drug Users from Outer Space</g-link>
 37. <g-link to="/song/sleeper-cell">Sleeper Cell</g-link>
 38. <g-link to="/song/song-for-a-friend">Song for a Friend</g-link>
+39. <g-link to="/song/soul-loss-in-the-midst-of-an-endless-winter">Soul Loss in the Midst of an Endless Winter</g-link>
