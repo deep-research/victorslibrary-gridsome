@@ -1,5 +1,5 @@
 ---
-title: Spring Weather PSA
+title: "Song: Spring Weather PSA"
 band: Reenchantment
 authors: ["Victor Fisher"]
 explicit: false
@@ -8,15 +8,6 @@ description: |
   I was required to play public service announcements on my college radio show, which was called *Reverend Radio*. After getting sick of them, I decided to make one of my own. It ended up playing the automation system for many months.
   
   <a href="https://wmxm.org/" target="_blank">WMXM 88.9 FM - Lake Forest College Radio</a>
-
-
-recordings:
-  - title: Spring Weather PSA
-    type: Multitrack
-    style: Electronic
-    length: "0:41"
-    released: 
-    link: https://victorslibrary.s3.amazonaws.com/music/Spring+Weather+PSA/Spring+Weather+PSA.mp3
 
 lyrics: |
   Hello, I’m The Reverend of Despair and you’re listening to WMXM 88.9 FM, Lake Forest College Radio
@@ -45,7 +36,7 @@ Explicit: {{$frontmatter.explicit}}
 
 ### Recordings
 
-1. <g-link to="/recording/how-enlightened-are-you">How Enlightened Are You?</g-link>
+1. <g-link to="/recording/spring-weather-psa">Spring Weather PSA</g-link>
 
 ### Lyrics
 
