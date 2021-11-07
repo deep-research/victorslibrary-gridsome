@@ -65,3 +65,4 @@ Hypnotic Rock Music by Victor Fisher
 38. <g-link to="/song/song-for-a-friend">Song for a Friend</g-link>
 39. <g-link to="/song/soul-loss-in-the-midst-of-an-endless-winter">Soul Loss in the Midst of an Endless Winter</g-link>
 40. <g-link to="/song/spring-weather-psa">Spring Weather PSA</g-link>
+41. <g-link to="/song/suicidal-shaman">Suicidal Shaman</g-link>

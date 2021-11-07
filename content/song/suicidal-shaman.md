@@ -1,19 +1,11 @@
 ---
-title: Suicidal Shaman
+title: "Song: Suicidal Shaman"
 band: Reenchantment
 authors: ["Victor Fisher"]
 explicit: true
 
 description: |
   This is particularly nihilistic and rage fueled song of mine.
-
-recordings:
-  - title: Suicidal Shaman
-    type: Multitrack  
-    style: Hard Rock
-    length: "2:37"
-    released: 
-    link: https://victorslibrary.s3.amazonaws.com/music/Suicidal+Shaman/Suicidal+Shaman.mp3
 
 lyrics: |
   I am unemployed
@@ -52,7 +44,7 @@ Explicit: {{$frontmatter.explicit}}
 
 ### Recordings
 
-1. <g-link to="/recording/how-enlightened-are-you">How Enlightened Are You?</g-link>
+1. <g-link to="/recording/suicidal-shaman">Suicidal Shaman</g-link>
 
 ### Lyrics
 
