@@ -1,19 +1,11 @@
 ---
-title: Prescription Silencer
+title: "Song: Prescription Silencer"
 band: Reenchantment
 authors: ["Victor Fisher"]
 explicit: false
 
 description: |
   I experimented with sound design on this high energy synth rock track.
-
-recordings:
-  - title: Prescription Silencer
-    type: Multitrack  
-    style: Hard Rock
-    length: "3:33"
-    released: 
-    link: https://victorslibrary.s3.amazonaws.com/music/Prescription+Silencer/Prescription+Silencer.mp3
 
 lyrics: Instrumental
 ---
@@ -31,7 +23,7 @@ Explicit: {{$frontmatter.explicit}}
 
 ### Recordings
 
-1. <g-link to="/recording/how-enlightened-are-you">How Enlightened Are You?</g-link>
+1. <g-link to="/recording/prescription-silencer">Prescription Silencer</g-link>
 
 ### Lyrics
 
