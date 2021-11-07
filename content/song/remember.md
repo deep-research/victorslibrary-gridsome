@@ -1,19 +1,11 @@
 ---
-title: Remember
+title: "Song: Remember"
 band: Reenchantment
 authors: ["Victor Fisher"]
 explicit: false
 
 description: |
   This is a heartfelt song about the feeling of loosing your sense of self.
-
-recordings:
-  - title: Remember (High School Version)
-    type: Multitrack  
-    style: Rock
-    length: "9:23"
-    released: 
-    link: https://victorslibrary.s3.amazonaws.com/music/Remember/Remember+(High+School+Version).mp3
 
 lyrics: |
   Stumbling through the voids of rejection
@@ -76,7 +68,7 @@ Explicit: {{$frontmatter.explicit}}
 
 ### Recordings
 
-1. <g-link to="/recording/how-enlightened-are-you">How Enlightened Are You?</g-link>
+1. <g-link to="/recording/remember">Remember</g-link>
 
 ### Lyrics
 

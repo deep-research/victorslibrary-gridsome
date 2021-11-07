@@ -59,3 +59,4 @@ Hypnotic Rock Music by Victor Fisher
 32. <g-link to="/song/otherworldly-dream-magic">Otherworldly Dream Magic</g-link>
 33. <g-link to="/song/prescription-silencer">Prescription Silencer</g-link>
 34. <g-link to="/song/pure-misery">Pure Misery</g-link>
+35. <g-link to="/song/remember">Remember</g-link>
