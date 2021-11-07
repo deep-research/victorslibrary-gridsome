@@ -54,3 +54,4 @@ Hypnotic Rock Music by Victor Fisher
 27. <g-link to="/song/jonesian">Jonesian</g-link>
 28. <g-link to="/song/low-frequency">Low Frequency</g-link>
 29. <g-link to="/song/mad-in-time-cover">Mad in Time (Cover)</g-link>
+30. <g-link to="/song/maximum-emotional-capacity">Maximum Emotional Capacity</g-link>

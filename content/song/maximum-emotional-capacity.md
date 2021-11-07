@@ -1,19 +1,11 @@
 ---
-title: Maximum Emotional Capacity
+title: "Song: Maximum Emotional Capacity"
 band: Reenchantment
 authors: ["Victor Fisher"]
 explicit: false
 
 description: |
   This is sad song about the feeling of longing for love.
-
-recordings:
-  - title: Maximum Emotional Capacity
-    type: Draft
-    style: Rock
-    length: "3:38"
-    released: 
-    link: https://victorslibrary.s3.us-east-2.amazonaws.com/music/demos/Maximum+Emotional+Capacity.mp3
 
 lyrics: |
   I cannot continue on without you
@@ -41,7 +33,7 @@ Explicit: {{$frontmatter.explicit}}
 
 ### Recordings
 
-1. <g-link to="/recording/how-enlightened-are-you">How Enlightened Are You?</g-link>
+1. <g-link to="/recording/maximum-emotional-capacity">Maximum Emotional Capacity</g-link>
 
 ### Lyrics
 
