@@ -58,3 +58,4 @@ Hypnotic Rock Music by Victor Fisher
 31. <g-link to="/song/on-an-astral-journey-to-an-expanded-consciousness">On an Astral Journey to an Expanded Consciousness</g-link>
 32. <g-link to="/song/otherworldly-dream-magic">Otherworldly Dream Magic</g-link>
 33. <g-link to="/song/prescription-silencer">Prescription Silencer</g-link>
+34. <g-link to="/song/pure-misery">Pure Misery</g-link>

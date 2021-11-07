@@ -1,19 +1,11 @@
 ---
-title: Pure Misery
+title: "Song: Pure Misery"
 band: Reenchantment
 authors: ["Victor Fisher"]
 explicit: false
 
 description: |
   This is a song about nihilism, alienation and the descent into insanity.
-
-recordings:
-  - title: Pure Misery
-    type: Demo
-    style: Rock
-    length: "6:42"
-    released: 
-    link: https://victorslibrary.s3.amazonaws.com/music/demos/Pure+Misery.mp3
 
 lyrics: |
   Where have I gone in my life?
@@ -55,7 +47,7 @@ Explicit: {{$frontmatter.explicit}}
 
 ### Recordings
 
-1. <g-link to="/recording/how-enlightened-are-you">How Enlightened Are You?</g-link>
+1. <g-link to="/recording/pure-misery">Pure Misery</g-link>
 
 ### Lyrics
 
