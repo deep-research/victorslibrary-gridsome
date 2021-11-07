@@ -1,19 +1,11 @@
 ---
-title: Terra Incognita
+title: "Song: Terra Incognita"
 band: Reenchantment
 authors: ["Victor Fisher"]
 explicit: false
 
 description: |
   This is an atmospheric rock song that has a nautical feel to it.
-
-recordings:
-  - title: Terra Incognita
-    type: Multitrack  
-    style: Electronic
-    length: "1:18"
-    released: 
-    link: https://victorslibrary.s3.amazonaws.com/music/Terra+Incognita/Terra+Incognita.mp3
 
 lyrics: Instrumental
 ---
@@ -31,7 +23,7 @@ Explicit: {{$frontmatter.explicit}}
 
 ### Recordings
 
-1. <g-link to="/recording/how-enlightened-are-you">How Enlightened Are You?</g-link>
+1. <g-link to="/recording/terra-incognita">Terra Incognita</g-link>
 
 ### Lyrics
 
