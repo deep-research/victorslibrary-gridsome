@@ -1,19 +1,11 @@
 ---
-title: Jonesian
+title: "Song: Jonesian"
 band: Reenchantment
 authors: ["Victor Fisher"]
 explicit: false
 
 description: |
   This rap song was a protest against the attempt to control my creative process through the genre system.
-
-recordings:
-  - title: Jonesian
-    type: Multitrack  
-    style: Electronic
-    length: "3:55"
-    released: 
-    link: https://victorslibrary.s3.amazonaws.com/music/Jonesian/Jonesian.mp3
 
 lyrics: |
   What is?
@@ -52,7 +44,7 @@ Explicit: {{$frontmatter.explicit}}
 
 ### Recordings
 
-1. <g-link to="/recording/how-enlightened-are-you">How Enlightened Are You?</g-link>
+1. <g-link to="/recording/jonesian">Jonesian</g-link>
 
 ### Lyrics
 

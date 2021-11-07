@@ -51,3 +51,4 @@ Hypnotic Rock Music by Victor Fisher
 24. <g-link to="/song/how-enlightened-are-you">How Enlightened Are You?</g-link>
 25. <g-link to="/song/hypnotics">Hypnotics</g-link>
 26. <g-link to="/song/in-vain">In Vain...</g-link>
+27. <g-link to="/song/jonesian">Jonesian</g-link>

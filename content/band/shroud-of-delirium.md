@@ -20,7 +20,7 @@ High School Era Psychedelic Doom Band
 2007 - 2010
 
 ### Related Projects
-1. <g-link to="/band/reenchantment">Reenchantment</g-link>
-2. <g-link to="/band/pater-shrouder">Pater Shrouder</g-link>
+1. <g-link to="/band/pater-shrouder">Pater Shrouder</g-link>
+2. <g-link to="/band/reenchantment">Reenchantment</g-link>
 3. <g-link to="/band/strange-people-in-pain">Strange People in Pain</g-link>
 4. <g-link to="/band/reverend-of-despair">The Reverend of Despair</g-link>
