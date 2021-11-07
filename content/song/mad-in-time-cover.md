@@ -1,19 +1,11 @@
 ---
-title: Mad in Time (Cover)
+title: "Song: Mad in Time (Cover)"
 band: Reenchantment
 authors: ["Victor Fisher"]
 explicit: false
 
 description: |
   This is my version of a folk rock song by <a href="https://soundcloud.com/user-14069985/mad-in-time" target="_blank">Olivia Wallace</a>.
-
-recordings:
-  - title: Mad in Time (Cover)
-    type: Demo
-    style: Rock
-    length: "2:28"
-    released: 
-    link: https://victorslibrary.s3.amazonaws.com/music/demos/Mad+in+Time.mp3
 
 lyrics: |
   Mad in time
@@ -60,7 +52,7 @@ Explicit: {{$frontmatter.explicit}}
 
 ### Recordings
 
-1. <g-link to="/recording/how-enlightened-are-you">How Enlightened Are You?</g-link>
+1. <g-link to="/recording/mad-in-time-cover">Mad in Time (Cover)</g-link>
 
 ### Lyrics
 
