@@ -60,3 +60,4 @@ Hypnotic Rock Music by Victor Fisher
 33. <g-link to="/song/prescription-silencer">Prescription Silencer</g-link>
 34. <g-link to="/song/pure-misery">Pure Misery</g-link>
 35. <g-link to="/song/remember">Remember</g-link>
+36. <g-link to="/song/satanic-drug-users-from-outer-space">Satanic Drug Users from Outer Space</g-link>
