@@ -1,19 +1,11 @@
 ---
-title: The 666 Names of Aleister Crowley
+title: "Song: The 666 Names of Aleister Crowley"
 band: Pater Shrouder
 authors: ["Aaron Schreiber", "Victor Fisher"]
 explicit: true
 
 description: |
   This is a Hindu style prayer, chanted in honor of <a href="https://en.wikipedia.org/wiki/Aleister_Crowley" target="_blank">the great beast 666</a> himself.
-
-recordings:
-  - title: The 666 Names of Aleister Crowley
-    type: Multitrack  
-    style: Drone
-    length: "7:36"
-    released: "2017-04-30"
-    link: https://victorslibrary.s3.amazonaws.com/music/The+666+Names+of+Aleister+Crowley/The+666+Names+of+Aleister+Crowley.mp3
 
 lyrics: |
   The six hundred and sixty six names of Aleister Crowley
@@ -165,7 +157,7 @@ Explicit: {{$frontmatter.explicit}}
 
 ### Recordings
 
-{{ $frontmatter.recordings }}
+1. <g-link to="/recording/the-666-names-of-aleister-crowley">The 666 Names of Aleister Crowley</g-link>
 
 ### Lyrics
 
