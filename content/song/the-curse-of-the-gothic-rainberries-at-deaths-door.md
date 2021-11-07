@@ -1,25 +1,11 @@
 ---
-title: The Curse of the Gothic Rainberries at Death’s Door
+title: "Song: The Curse of the Gothic Rainberries at Death’s Door"
 band: Reenchantment
 authors: ["Victor Fisher"]
 explicit: false
 
 description: |
   Listen to this song in a misty graveyard, late at night. It will allow you to master the dark arts.
-
-recordings:
-  - title: The Curse of the Gothic Rainberries at Death’s Door
-    type: Multitrack  
-    style: Doom Metal
-    length: "6:57"
-    released: 
-    link: https://victorslibrary.s3.amazonaws.com/music/The+Curse+of+the+Gothic+Rainberries+at+Death's+Door/The+Curse+of+the+Gothic+Rainberries+at+Death's+Door.mp3
-  - title: The Curse of the Gothic Rainberries at Death’s Door (Music Video)
-    type: Video
-    style: Doom Metal
-    length: "6:55"
-    released: 
-    link: https://victorslibrary.s3.amazonaws.com/music/The+Curse+of+the+Gothic+Rainberries+at+Death's+Door/The+Curse+of+the+Gothic+Rainberries+at+Deaths+Door.mp4
 
 lyrics: |
   The curse of the gothic rainberries at death’s door
@@ -68,7 +54,8 @@ Explicit: {{$frontmatter.explicit}}
 
 ### Recordings
 
-1. <g-link to="/recording/how-enlightened-are-you">How Enlightened Are You?</g-link>
+1. <g-link to="/recording/the-curse-of-the-gothic-rainberries-at-deaths-door">The Curse of the Gothic Rainberries at Death’s Door</g-link>
+2. <g-link to="/recording/the-curse-of-the-gothic-rainberries-at-deaths-door-music-video">The Curse of the Gothic Rainberries at Death’s Door (Music Video)</g-link>
 
 ### Lyrics
 
