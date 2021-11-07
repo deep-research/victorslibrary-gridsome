@@ -1,19 +1,11 @@
 ---
-title: On an Astral Journey to an Expanded Consciousness
+title: "Song: On an Astral Journey to an Expanded Consciousness"
 band: Reenchantment
 authors: ["Victor Fisher"]
 explicit: false
 
 description: |
   This is a song about the extraordinary possibilities of mystical practice.
-
-recordings:
-  - title: On an Astral Journey to an Expanded Consciousness
-    type: Demo
-    style: Doom Metal
-    length: "10:27"
-    released: 
-    link: https://victorslibrary.s3.amazonaws.com/music/demos/On+an+Astral+Journey+to+an+Expanded+Consciousness.mp3
 
 lyrics: |
   Die forever more, when you can’t live with yourself
@@ -70,7 +62,7 @@ Explicit: {{$frontmatter.explicit}}
 
 ### Recordings
 
-1. <g-link to="/recording/how-enlightened-are-you">How Enlightened Are You?</g-link>
+1. <g-link to="/recording/on-an-astral-journey-to-an-expanded-consciousness">On an Astral Journey to an Expanded Consciousness</g-link>
 
 ### Lyrics
 
