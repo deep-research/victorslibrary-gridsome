@@ -1,19 +1,11 @@
 ---
-title: The Disco King
+title: "Song: The Disco King"
 band: Reenchantment
 authors: ["Victor Fisher"]
 explicit: false
 
 description: |
   This is a psychedelic rock jam that exudes pure coolness at every level.
-
-recordings:
-  - title: The Disco King
-    type: Multitrack  
-    style: Rock
-    length: "2:37"
-    released: "2019-11-09"
-    link: https://victorslibrary.s3.amazonaws.com/music/The+Disco+King/The+Disco+King.mp3
 
 lyrics: Instrumental
 ---
@@ -31,7 +23,7 @@ Explicit: {{$frontmatter.explicit}}
 
 ### Recordings
 
-1. <g-link to="/recording/how-enlightened-are-you">How Enlightened Are You?</g-link>
+1. <g-link to="/recording/the-disco-king">The Disco King</g-link>
 
 ### Lyrics
 
