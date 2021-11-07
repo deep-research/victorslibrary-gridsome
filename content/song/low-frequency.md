@@ -1,5 +1,5 @@
 ---
-title: Low Frequency
+title: "Song: Low Frequency"
 band: Reenchantment
 authors: ["Victor Fisher"]
 explicit: false
@@ -20,19 +20,21 @@ description: |
 lyrics: Instrumental
 ---
 
+<g-link to="/band/reenchantment">Band Page</g-link>
+
 ## {{ $frontmatter.title }}
 
 By: <g-link to="/band/reenchantment">Reenchantment</g-link> ({{ $frontmatter.authors.join(', ') }})  
 Explicit: {{$frontmatter.explicit}}
 
-## Description
+### Description
 
 <vue-markdown>{{ $frontmatter.description }}</vue-markdown>
 
-## Recordings
+### Recordings
 
 This recording is currently not available.
 
-## Lyrics
+### Lyrics
 
 <vue-markdown>{{ $frontmatter.lyrics }}</vue-markdown>
