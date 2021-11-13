@@ -1,19 +1,11 @@
 ---
-title: The Life of a Pilgrim
+title: "Song: The Life of a Pilgrim"
 band: Reenchantment
 authors: ["Victor Fisher"]
 explicit: false
 
 description: |
   This is an atmospheric rock song about the <a href="https://en.wikipedia.org/wiki/Hero%27s_journey" target="_blank">hero’s journey</a> and <a href="https://en.wikipedia.org/wiki/The_Way_of_a_Pilgrim" target="_blank">The Way of a Pilgrim</a>. Both sources contain fascinating perspectives on the nature of mystical practice.
-
-recordings:
-  - title: The Life of a Pilgrim
-    type: Multitrack  
-    style: Electronic
-    length: "2:37"
-    released: 
-    link: https://victorslibrary.s3.amazonaws.com/music/The+Life+of+a+Pilgrim/The+Life+of+a+Pilgrim.mp3
 
 lyrics: |
   We left down a long road
@@ -40,7 +32,7 @@ Explicit: {{$frontmatter.explicit}}
 
 ### Recordings
 
-1. <g-link to="/recording/how-enlightened-are-you">How Enlightened Are You?</g-link>
+1. <g-link to="/recording/the-life-of-a-pilgrim">The Life of a Pilgrim</g-link>
 
 ### Lyrics
 

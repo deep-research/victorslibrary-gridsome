@@ -75,3 +75,4 @@ Hypnotic Rock Music by Victor Fisher
 48. <g-link to="/song/the-grieg-and-euphorization-revealed">The Grieg and Euphorization Revealed</g-link>
 49. <g-link to="/song/the-groove-gestapo">The Groove Gestapo</g-link>
 50. <g-link to="/song/the-invasion-of-the-telepathic-squirrels">The Invasion of the Telepathic Squirrels</g-link>
+51. <g-link to="/song/the-life-of-a-pilgrim">The Life of a Pilgrim</g-link>
