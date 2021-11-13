@@ -1,5 +1,5 @@
 ---
-title: The Paths of Mist
+title: "Song: The Paths of Mist"
 band: Reenchantment
 authors: ["Victor Fisher"]
 explicit: false
@@ -8,14 +8,6 @@ description: |
   This atmospheric doom metal song is the earliest one I wrote for my high school band, Shroud of Delirium. The recording is also one of the first ones I made that I still have access to.
 
   In addition to doom metal, I was heavily influenced by black metal during this period.
-
-recordings:
-  - title: The Paths of Mist
-    type: Multitrack  
-    style: Doom Metal
-    length: "5:22"
-    released: 
-    link: https://victorslibrary.s3.amazonaws.com/music/The+Paths+of+Mist/The+Paths+of+Mist.mp3
 
 lyrics: |
   Wandering on the paths of mist
@@ -43,7 +35,7 @@ Explicit: {{$frontmatter.explicit}}
 
 ### Recordings
 
-1. <g-link to="/recording/how-enlightened-are-you">How Enlightened Are You?</g-link>
+1. <g-link to="/recording/the-paths-of-mist">The Paths of Mist</g-link>
 
 ### Lyrics
 
