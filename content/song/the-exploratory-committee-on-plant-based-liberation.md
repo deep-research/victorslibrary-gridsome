@@ -1,19 +1,11 @@
 ---
-title: The Exploratory Committee on Plant-based Liberation
+title: "Song: The Exploratory Committee on Plant-based Liberation"
 band: Reenchantment
 authors: ["Victor Fisher"]
 explicit: false
 
 description: |
   This song is a hippy rallying cry! It was written to rebel against my highschool’s talent show.
-
-recordings:
-  - title: The Exploratory Committee on Plant-based Liberation
-    type: Demo
-    style: Rock
-    length: "5:00"
-    released: 
-    link: https://victorslibrary.s3.amazonaws.com/music/demos/The+Exploratory+Committee+on+Plant-based+Liberation.mp3
 
 lyrics: |
   The sun is shining
@@ -58,7 +50,7 @@ Explicit: {{$frontmatter.explicit}}
 
 ### Recordings
 
-1. <g-link to="/recording/how-enlightened-are-you">How Enlightened Are You?</g-link>
+1. <g-link to="/recording/the-exploratory-committee-on-plant-based-liberation">The Exploratory Committee on Plant-based Liberation</g-link>
 
 ### Lyrics
 
