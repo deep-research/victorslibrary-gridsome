@@ -1,19 +1,11 @@
 ---
-title: The Medicinal Applications of Despair
+title: "Song: The Medicinal Applications of Despair"
 band: Reenchantment
 authors: ["Victor Fisher"]
 explicit: true
 
 description: |
   This song confronts the listener with the horrifying nature of an unhinged mind.
-
-recordings:
-  - title: The Medicinal Applications of Despair
-    type: Multitrack  
-    style: Doom Metal
-    length: "2:36"
-    released: 
-    link: https://victorslibrary.s3.amazonaws.com/music/The+Medicinal+Applications+of+Despair/The+Medicinal+Applications+of+Despair.mp3
 
 lyrics: |
   I wanna die, wanna go right to hell now
@@ -45,7 +37,7 @@ Explicit: {{$frontmatter.explicit}}
 
 ### Recordings
 
-1. <g-link to="/recording/how-enlightened-are-you">How Enlightened Are You?</g-link>
+1. <g-link to="/recording/the-medicinal-applications-of-despair">The Medicinal Applications of Despair</g-link>
 
 ### Lyrics
 

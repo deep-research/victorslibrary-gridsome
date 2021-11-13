@@ -76,3 +76,4 @@ Hypnotic Rock Music by Victor Fisher
 49. <g-link to="/song/the-groove-gestapo">The Groove Gestapo</g-link>
 50. <g-link to="/song/the-invasion-of-the-telepathic-squirrels">The Invasion of the Telepathic Squirrels</g-link>
 51. <g-link to="/song/the-life-of-a-pilgrim">The Life of a Pilgrim</g-link>
+52. <g-link to="/song/the-medicinal-applications-of-despair">The Medicinal Applications of Despair</g-link>
