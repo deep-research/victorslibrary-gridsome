@@ -1,0 +1,25 @@
+---
+title: "Recording: Trip-tamine"
+authors: ["Victor Fisher"]
+explicit: false
+type: Video
+style: Electronic
+length: "2:43"
+released:
+link: https://victorslibrary.s3.amazonaws.com/music/Trip-tamine/Trip-tamine.mp4
+---
+
+<g-link to="/song/trip-tamine">Song Page</g-link>
+
+## {{ $frontmatter.title }}
+
+By: <g-link to="/band/reenchantment">Reenchantment</g-link> ({{ $frontmatter.authors.join(', ') }})  
+Type: {{ $frontmatter.type }}  
+Explicit: {{$frontmatter.explicit}}
+
+### Video
+
+<video controls controlsList="nodownload" class="image">
+  <source :src="$frontmatter.link" type="video/mp4">
+Your browser does not support the audio element.
+</video>

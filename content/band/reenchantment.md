@@ -80,3 +80,14 @@ Hypnotic Rock Music by Victor Fisher
 53. <g-link to="/song/the-paranoid-hallucinations-of-an-evil-spirit-deep-within-the-hidden-swamp">The Paranoid Hallucinations of an Evil Spirit (Deep Within the Hidden Swamp)</g-link>
 54. <g-link to="/song/the-paths-of-mist">The Paths of Mist</g-link>
 55. <g-link to="/song/the-ritual">The Ritual</g-link>
+56. <g-link to="/song/the-temple-of-delirium">The Temple of Delirium</g-link>
+57. <g-link to="/song/the-truth-about-this-world">The Truth About This World</g-link>
+58. <g-link to="/song/the-weirdness-of-the-night">The Weirdness of the Night</g-link>
+59. <g-link to="/song/the-wrath-of-god">The Wrath of God</g-link>
+60. <g-link to="/song/theyll-come-for-you">They’ll Come For You</g-link>
+61. <g-link to="/song/this-wicked-realm">This Wicked Realm</g-link>
+62. <g-link to="/song/trip-tamine">Trip-tamine</g-link>
+63. <g-link to="/song/under-the-spell-of-the-mystical-mist">Under the Spell of the Mystical Mist</g-link>
+64. <g-link to="/song/what-for">What For?</g-link>
+65. <g-link to="/song/with-my-eyes">With My Eyes</g-link>
+66. <g-link to="/song/wmxm-hard-rock-promo">WMXM Hard Rock Promo</g-link>

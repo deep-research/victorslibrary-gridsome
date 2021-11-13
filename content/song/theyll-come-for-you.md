@@ -1,5 +1,5 @@
 ---
-title: They’ll Come For You
+title: "Song: They’ll Come For You"
 band: Reenchantment
 authors: ["Victor Fisher"]
 explicit: false
@@ -8,26 +8,6 @@ description: |
   The song discusses the way we are unconsciously shaped by <A href="https://en.wikipedia.org/wiki/Social_conditioning" target="_blank">social conditioning</a>.
 
   This is one of the best examples of my acoustic rock songwriting. The *Mermaid Version* ended up capturing my sound in the most accurate way, although the last minute of the *Pilgrimage Version* is also very interesting because is revealed how I would sound with a more radio friendly approach.
-
-recordings:
-  - title: They’ll Come For You (Mermaid Version)
-    type: Multitrack  
-    style: Rock
-    length: "5:15"
-    released: 
-    link: https://victorslibrary.s3.amazonaws.com/music/Theyll+Come+For+You/Theyll+Come+For+You+(Mermaid+Version).mp3
-  - title: They’ll Come For You (Pilgrimage Version)
-    type: Multitrack  
-    style: Rock
-    length: "5:07"
-    released: 
-    link: https://victorslibrary.s3.amazonaws.com/music/Theyll+Come+For+You/Theyll+Come+For+You+(Pilgrimage+Version).mp3
-  - title: They’ll Come For You (Live at the Sacred Forest)
-    type: Live
-    style: Rock
-    length: "5:18"
-    released: 
-    link: https://victorslibrary.s3.amazonaws.com/music/Theyll+Come+For+You/Theyll+Come+For+You+(Live+at+the+Sacred+Forest).mp3
 
 lyrics: |
   They’ll come for you when you’re too young
@@ -89,7 +69,9 @@ Explicit: {{$frontmatter.explicit}}
 
 ### Recordings
 
-1. <g-link to="/recording/how-enlightened-are-you">How Enlightened Are You?</g-link>
+1. <g-link to="/recording/theyll-come-for-you-mermaid-version">They’ll Come For You (Mermaid Version)</g-link>
+2. <g-link to="/recording/theyll-come-for-you-pigrimage-version">They’ll Come For You (Pilgrimage Version)</g-link>
+3. <g-link to="/recording/theyll-come-for-you-live-at-the-sacred-forest">They’ll Come For You (Live at the Sacred Forest)</g-link>
 
 ### Lyrics
 

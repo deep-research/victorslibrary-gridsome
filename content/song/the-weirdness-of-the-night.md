@@ -1,19 +1,11 @@
 ---
-title: The Weirdness of the Night
+title: "Song: The Weirdness of the Night"
 band: Reenchantment
 authors: ["Victor Fisher"]
 explicit: false
 
 description: |
   This song uses synthesizers to evoke the darker realms of spiritual exploration. The real question in occult research is *who do you trust?*
-
-recordings:
-  - title: The Weirdness of the Night
-    type: Multitrack  
-    style: Doom Metal
-    length: "0:55"
-    released: 
-    link: https://victorslibrary.s3.amazonaws.com/music/The+Wierdness+of+the+Night/The+Weirdness+of+the+Night.mp3
 
 lyrics: |
   The weirdness of the night destroys all the peace inside the mind
@@ -39,7 +31,7 @@ Explicit: {{$frontmatter.explicit}}
 
 ### Recordings
 
-1. <g-link to="/recording/how-enlightened-are-you">How Enlightened Are You?</g-link>
+1. <g-link to="/recording/the-weirdness-of-the-night">The Weirdness of the Night</g-link>
 
 ### Lyrics
 

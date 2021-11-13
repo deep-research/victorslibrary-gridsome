@@ -1,5 +1,5 @@
 ---
-title: Under the Spell of the Mystical Mist
+title: "Song: Under the Spell of the Mystical Mist"
 band: Reenchantment
 authors: ["Victor Fisher"]
 explicit: false
@@ -37,19 +37,21 @@ lyrics: |
   Will reclaim the prize of doom
 ---
 
+<g-link to="/band/reenchantment">Band Page</g-link>
+
 ## {{ $frontmatter.title }}
 
 By: <g-link to="/band/reenchantment">Reenchantment</g-link> ({{ $frontmatter.authors.join(', ') }})  
 Explicit: {{$frontmatter.explicit}}
 
-## Description
+### Description
 
 <vue-markdown>{{ $frontmatter.description }}</vue-markdown>
 
-## Recordings
+### Recordings
 
-No versions completed yet.
+No recording completed yet.
 
-## Lyrics
+### Lyrics
 
 <vue-markdown>{{ $frontmatter.lyrics }}</vue-markdown>

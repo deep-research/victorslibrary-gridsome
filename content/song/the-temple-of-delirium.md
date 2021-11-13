@@ -1,5 +1,5 @@
 ---
-title: The Temple of Delirium
+title: "Song: The Temple of Delirium"
 band: Reenchantment
 authors: ["Victor Fisher"]
 explicit: false
@@ -8,14 +8,6 @@ description: |
   This song is a musical depiction of the dark side within us all.
 
   It is the official anthem of the subversive cult that is known as The Shadow Work Society.
-
-recordings:
-  - title: The Temple of Delirium
-    type: Multitrack  
-    style: Doom Metal
-    length: "3:54"
-    released: 
-    link: https://victorslibrary.s3.amazonaws.com/music/The+Temple+of+Delirium/The+Temple+of+Delirium.mp3
 
 lyrics: |
   I met the void inside me
@@ -59,7 +51,7 @@ Explicit: {{$frontmatter.explicit}}
 
 ### Recordings
 
-1. <g-link to="/recording/how-enlightened-are-you">How Enlightened Are You?</g-link>
+1. <g-link to="/recording/the-temple-of-delirium">The Temple of Delirium</g-link>
 
 ### Lyrics
 

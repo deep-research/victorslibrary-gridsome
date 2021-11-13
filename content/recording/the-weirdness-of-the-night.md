@@ -1,0 +1,25 @@
+---
+title: "Recording: The Weirdness of the Night"
+authors: ["Victor Fisher"]
+explicit: false
+type: Multitrack
+style: Doom Metal
+length: "0:55"
+released:
+link: https://victorslibrary.s3.amazonaws.com/music/The+Wierdness+of+the+Night/The+Weirdness+of+the+Night.mp3
+---
+
+<g-link to="/song/the-weirdness-of-the-night">Song Page</g-link>
+
+## {{ $frontmatter.title }}
+
+By: <g-link to="/band/reenchantment">Reenchantment</g-link> ({{ $frontmatter.authors.join(', ') }})  
+Type: {{ $frontmatter.type }}  
+Explicit: {{$frontmatter.explicit}}
+
+### Audio
+
+<audio controls controlsList="nodownload">
+  <source :src="$frontmatter.link" type="audio/mpeg">
+Your browser does not support the audio element.
+</audio>

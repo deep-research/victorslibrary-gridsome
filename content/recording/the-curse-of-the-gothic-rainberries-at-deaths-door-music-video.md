@@ -16,9 +16,9 @@ By: <g-link to="/band/reenchantment">Reenchantment</g-link> ({{ $frontmatter.aut
 Type: {{ $frontmatter.type }}  
 Explicit: {{$frontmatter.explicit}}
 
-### Audio
+### Video
 
 <video controls controlsList="nodownload" class="image">
-  <source :src="$frontmatter.link" type="audio/mpeg">
+  <source :src="$frontmatter.link" type="video/mp4">
 Your browser does not support the audio element.
 </video>

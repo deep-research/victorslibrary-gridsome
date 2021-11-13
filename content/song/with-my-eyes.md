@@ -1,19 +1,11 @@
 ---
-title: With My Eyes
+title: "Song: With My Eyes"
 band: Reenchantment
 authors: ["Victor Fisher"]
 explicit: false
 
 description: |
   This is an emotional song about the <a href="https://en.wikipedia.org/wiki/Occupy_Wall_Street" target="_blank">Occupy Wall Street</a> movement.
-
-recordings:
-  - title: With My Eyes
-    type: Multitrack  
-    style: Hard Rock 
-    length: "5:38"
-    released: 
-    link: https://victorslibrary.s3.amazonaws.com/music/With+My+Eyes/With+My+Eyes.mp3
 
 lyrics: |
   I have seen things with my own eyes
@@ -49,7 +41,7 @@ Explicit: {{$frontmatter.explicit}}
 
 ### Recordings
 
-1. <g-link to="/recording/how-enlightened-are-you">How Enlightened Are You?</g-link>
+1. <g-link to="/recording/with-my-eyes">With My Eyes</g-link>
 
 ### Lyrics
 

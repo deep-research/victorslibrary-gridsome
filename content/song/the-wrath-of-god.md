@@ -1,19 +1,11 @@
 ---
-title: The Wrath of God
+title: "Song: The Wrath of God"
 band: Reenchantment
 authors: ["Victor Fisher"]
 explicit: true
 
 description: |
   This recording describes a terrifying journey through an apocalyptic vision.
-
-recordings:
-  - title: The Wrath of God
-    type: Multitrack  
-    style: Doom Metal
-    length: "19:58"
-    released: 
-    link: https://victorslibrary.s3.amazonaws.com/music/The+Wrath+of+God/The+Wrath+of+God+%7BNihilism+Remix%7D.mp3
 
 lyrics: |
   I see, into infinity
@@ -60,7 +52,7 @@ Explicit: {{$frontmatter.explicit}}
 
 ### Recordings
 
-1. <g-link to="/recording/how-enlightened-are-you">How Enlightened Are You?</g-link>
+1. <g-link to="/recording/the-wrath-of-god">The Wrath of God</g-link>
 
 ### Lyrics
 

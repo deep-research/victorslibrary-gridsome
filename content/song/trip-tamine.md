@@ -1,5 +1,5 @@
 ---
-title: Trip-tamine
+title: "Song: Trip-tamine"
 band: Reenchantment
 authors: ["Victor Fisher", "Dr. Timothy Leary"]
 explicit: false
@@ -9,14 +9,6 @@ description: |
 
   Dr. Timothy Leary:
   > Socrates said know thyself
-
-recordings:
-  - title: Trip-tamine
-    type: Video
-    style: Electronic
-    length: "2:43"
-    released: 
-    link: https://victorslibrary.s3.amazonaws.com/music/Trip-tamine/Trip-tamine.mp4
 
 lyrics: |
   Dr. Timothy Leary:
@@ -47,7 +39,7 @@ Explicit: {{$frontmatter.explicit}}
 
 ### Recordings
 
-1. <g-link to="/recording/how-enlightened-are-you">How Enlightened Are You?</g-link>
+1. <g-link to="/recording/trip-tamine">Trip-tamine</g-link>
 
 ### Lyrics
 

@@ -1,19 +1,11 @@
 ---
-title: The Truth About This World
+title: "Song: The Truth About This World"
 band: Reenchantment
 authors: ["Victor Fisher"]
 explicit: false
 
 description: 
   This contains philosophical musings about the mysteries of the universe.
-
-recordings:
-  - title: The Truth About This World
-    type: Demo
-    style: Rock
-    length: "2:04"
-    released: 
-    link: https://victorslibrary.s3.amazonaws.com/music/demos/The+Truth+About+this+World.mp3
 
 lyrics: |
   Did the wise men know the truth about this world?
@@ -40,7 +32,7 @@ Explicit: {{$frontmatter.explicit}}
 
 ### Recordings
 
-1. <g-link to="/recording/how-enlightened-are-you">How Enlightened Are You?</g-link>
+1. <g-link to="/recording/the-truth-about-this-world">The Truth About This World</g-link>
 
 ### Lyrics
 

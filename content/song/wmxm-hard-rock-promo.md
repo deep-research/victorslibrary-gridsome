@@ -1,19 +1,11 @@
 ---
-title: WMXM Hard Rock Promo
+title: "Song: WMXM Hard Rock Promo"
 band: Reenchantment
 authors: ["Victor Fisher"]
 explicit: false
 
 description: |
   I used to open my <a href="http://wmxm.radioactivity.fm/playlist.html?djoid=5590" target="_blank">show</a> on <a href="https://wmxm.org/" target="_blank">college radio</a> with this recording as the introduction.
-
-recordings:
-  - title: WMXM Hard Rock Promo
-    type: Multitrack  
-    style: Hard Rock
-    length: "0:50"
-    released: 
-    link: https://victorslibrary.s3.amazonaws.com/music/WMXM+Hard+Rock+Promo/WMXM+Hard+Rock+Promo.mp3
 
 lyrics: You’re listening to WMXM 88.9 FM
 ---
@@ -31,7 +23,7 @@ Explicit: {{$frontmatter.explicit}}
 
 ### Recordings
 
-1. <g-link to="/recording/how-enlightened-are-you">How Enlightened Are You?</g-link>
+1. <g-link to="/recording/wmxm-hard-rock-promo">WMXM Hard Rock Promo</g-link>
 
 ### Lyrics
 

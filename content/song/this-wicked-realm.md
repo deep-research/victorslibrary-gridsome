@@ -1,19 +1,11 @@
 ---
-title: This Wicked Realm
+title: "Song: This Wicked Realm"
 band: Reenchantment
 authors: ["Victor Fisher"]
 explicit: false
 
 description: |
   The lyrics for this song describe the inability to express a magical experience to other people. And the music was able to beautifully capture my interest in both doom metal and atmospheric rock.
-
-recordings:
-  - title: This Wicked Realm
-    type: Multitrack  
-    style: Doom Metal
-    length: "5:55"
-    released: 
-    link: https://victorslibrary.s3.amazonaws.com/music/This+Wicked+Realm/This+Wicked+Realm.mp3
 
 lyrics: |
   Aya, bring the dawn
@@ -44,7 +36,7 @@ Explicit: {{$frontmatter.explicit}}
 
 ### Recordings
 
-1. <g-link to="/recording/how-enlightened-are-you">How Enlightened Are You?</g-link>
+1. <g-link to="/recording/this-wicked-realm">This Wicked Realm</g-link>
 
 ### Lyrics
 
