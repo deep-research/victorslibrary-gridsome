@@ -74,3 +74,4 @@ Hypnotic Rock Music by Victor Fisher
 47. <g-link to="/song/the-exploratory-committee-on-plant-based-liberation">The Exploratory Committee on Plant-based Liberation</g-link>
 48. <g-link to="/song/the-grieg-and-euphorization-revealed">The Grieg and Euphorization Revealed</g-link>
 49. <g-link to="/song/the-groove-gestapo">The Groove Gestapo</g-link>
+50. <g-link to="/song/the-invasion-of-the-telepathic-squirrels">The Invasion of the Telepathic Squirrels</g-link>

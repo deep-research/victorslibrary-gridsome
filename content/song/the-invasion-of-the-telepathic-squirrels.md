@@ -7,16 +7,7 @@ explicit: false
 description: |
   I have been preparing for this looming cataclysm for many years.
 
-recordings:
-  - title: The Invasion of the Telepathic Squirrels
-    type: Multitrack  
-    style: Electronic
-    length: "1:33"
-    released: 
-    link: https://victorslibrary.s3.amazonaws.com/music/The+Invasion+of+the+Telepathic+Squirrels/The+Invasion+of+the+Telepathic+Squirrels.mp3
-
 lyrics: Instrumental
-
 ---
 
 <g-link to="/band/reenchantment">Band Page</g-link>
@@ -32,7 +23,7 @@ Explicit: {{$frontmatter.explicit}}
 
 ### Recordings
 
-1. <g-link to="/recording/how-enlightened-are-you">How Enlightened Are You?</g-link>
+1. <g-link to="/recording/the-invasion-of-the-telepathic-squirrels">The Invasion of the Telepathic Squirrels</g-link>
 
 ### Lyrics
 
