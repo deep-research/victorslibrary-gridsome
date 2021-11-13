@@ -79,3 +79,4 @@ Hypnotic Rock Music by Victor Fisher
 52. <g-link to="/song/the-medicinal-applications-of-despair">The Medicinal Applications of Despair</g-link>
 53. <g-link to="/song/the-paranoid-hallucinations-of-an-evil-spirit-deep-within-the-hidden-swamp">The Paranoid Hallucinations of an Evil Spirit (Deep Within the Hidden Swamp)</g-link>
 54. <g-link to="/song/the-paths-of-mist">The Paths of Mist</g-link>
+55. <g-link to="/song/the-ritual">The Ritual</g-link>

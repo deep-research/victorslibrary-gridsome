@@ -1,19 +1,11 @@
 ---
-title: The Ritual
+title: "Song: The Ritual"
 band: Reenchantment
 authors: ["Victor Fisher"]
 explicit: false
 
 description: |
   This is an epic song about the dark history of mankind.
-
-recordings:
-  - title: The Ritual
-    type: Multitrack  
-    style: Doom Metal
-    length: "9:13"
-    released: 
-    link: https://victorslibrary.s3.amazonaws.com/music/The+Ritual/The+Ritual.mp3
 
 lyrics: |
   Into dark, I was born
@@ -53,7 +45,7 @@ Explicit: {{$frontmatter.explicit}}
 
 ### Recordings
 
-1. <g-link to="/recording/how-enlightened-are-you">How Enlightened Are You?</g-link>
+1. <g-link to="/recording/the-ritual">The Ritual</g-link>
 
 ### Lyrics
 
