@@ -1,5 +1,5 @@
 ---
-title: The Invasion of the Telepathic Squirrels
+title: "Song: The Invasion of the Telepathic Squirrels"
 band: Reenchantment
 authors: ["Victor Fisher", "Aaron Schreiber"]
 explicit: false

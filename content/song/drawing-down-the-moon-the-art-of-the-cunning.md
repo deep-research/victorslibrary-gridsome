@@ -1,5 +1,5 @@
 ---
-title: Drawing Down the Moon (The Art of the Cunning)
+title: "Song: Drawing Down the Moon (The Art of the Cunning)"
 band: Reenchantment
 authors: ["Victor Fisher"]
 explicit: false
