@@ -72,3 +72,4 @@ Hypnotic Rock Music by Victor Fisher
 45. <g-link to="/song/the-curse-of-the-gothic-rainberries-at-deaths-door">The Curse of the Gothic Rainberries at Death’s Door</g-link>
 46. <g-link to="/song/the-disco-king">The Disco King</g-link>
 47. <g-link to="/song/the-exploratory-committee-on-plant-based-liberation">The Exploratory Committee on Plant-based Liberation</g-link>
+48. <g-link to="/song/the-grieg-and-euphorization-revealed">The Grieg and Euphorization Revealed</g-link>

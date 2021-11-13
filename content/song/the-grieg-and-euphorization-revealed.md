@@ -1,5 +1,5 @@
 ---
-title: The Grieg and Euphorization Revealed
+title: "Song: The Grieg and Euphorization Revealed"
 band: Reenchantment
 authors: ["Victor Fisher"]
 explicit: false
@@ -8,14 +8,6 @@ description: |
   This song depicts the contrast between a feeling of extreme terror and a calm and reflective period that may be experienced in its wake.
   
   It is named after the exquisite composer <a href="https://en.wikipedia.org/wiki/Funeral_March_in_Memory_of_Rikard_Nordraak" target="_blank">Edvard Grieg</a>.
-
-recordings:
-  - title: The Grieg and Euphorization Revealed
-    type: Multitrack  
-    style: Doom Metal
-    length: "3:25"
-    released: 
-    link: https://victorslibrary.s3.amazonaws.com/music/The+Grieg+and+Euphorization+Revealed/The+Grieg+and+Euphorization+Revealed.mp3
 
 lyrics: |
   I hate to see you, looking so bad
@@ -37,7 +29,7 @@ Explicit: {{$frontmatter.explicit}}
 
 ### Recordings
 
-1. <g-link to="/recording/how-enlightened-are-you">How Enlightened Are You?</g-link>
+1. <g-link to="/recording/the-grieg-and-euphorization-revealed">The Grieg and Euphorization Revealed</g-link>
 
 ### Lyrics
 
