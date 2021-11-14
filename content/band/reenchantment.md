@@ -15,6 +15,8 @@ Hypnotic Rock Music by Victor Fisher
 
 <a href="http://hypnoticrock.com">hypnoticrock.com</a>
 
+#### Social Media
+
 1. <a href="https://reenchantment.bandcamp.com">Bandcamp</a>
 2. <a href="https://twitter.com/hypnoticrock">Twitter</a>
 3. <a href="https://www.facebook.com/hypnoticrock">Facebook</a>
