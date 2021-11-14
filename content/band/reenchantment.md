@@ -17,13 +17,13 @@ Hypnotic Rock Music by Victor Fisher
 
 #### Social Media
 
-1. <a href="https://reenchantment.bandcamp.com">Bandcamp</a>
-2. <a href="https://twitter.com/hypnoticrock">Twitter</a>
-3. <a href="https://www.facebook.com/hypnoticrock">Facebook</a>
-4. <a href="https://www.youtube.com/user/reverendofdespair">YouTube (The Reverend of Despair)</a>
-5. <a href="https://www.youtube.com/channel/UCUty3MJPa-JrdNLJtiSxttA">YouTube (Reenchantment)</a>
-6. <a href="https://www.instagram.com/hypnoticrock">Instagram</a>
-7. <a href="https://www.tiktok.com/@hypnoticrock">TikTok</a>
+1. <a href="https://reenchantment.bandcamp.com" target="_blank">Bandcamp</a>
+2. <a href="https://twitter.com/hypnoticrock" target="_blank">Twitter</a>
+3. <a href="https://www.facebook.com/hypnoticrock" target="_blank">Facebook</a>
+4. <a href="https://www.youtube.com/user/reverendofdespair" target="_blank">YouTube (The Reverend of Despair)</a>
+5. <a href="https://www.youtube.com/channel/UCUty3MJPa-JrdNLJtiSxttA" target="_blank">YouTube (Reenchantment)</a>
+6. <a href="https://www.instagram.com/hypnoticrock" target="_blank">Instagram</a>
+7. <a href="https://www.tiktok.com/@hypnoticrock" target="_blank">TikTok</a>
 <!-- * Snapchat -->
 
 ### Songs
