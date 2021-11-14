@@ -14,6 +14,7 @@ link: https://victorslibrary.s3.amazonaws.com/music/Suicidal+Shaman/Suicidal+Sha
 
 By: <g-link to="/band/reenchantment">Reenchantment</g-link> ({{ $frontmatter.authors.join(', ') }})   
 Type: {{ $frontmatter.type }}  
+Style: {{ $frontmatter.style }}  
 Explicit: {{$frontmatter.explicit}}
 
 ### Audio

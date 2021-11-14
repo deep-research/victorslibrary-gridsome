@@ -16,6 +16,7 @@ link: https://victorslibrary.s3.amazonaws.com/music/The+Disco+King/The+Disco+Kin
 By: <g-link to="/band/reenchantment">Reenchantment</g-link> ({{ $frontmatter.authors.join(', ') }})  
 Released: {{ formatDate($frontmatter.released) }}  
 Type: {{ $frontmatter.type }}  
+Style: {{ $frontmatter.style }}  
 Explicit: {{$frontmatter.explicit}}
 
 ### Audio

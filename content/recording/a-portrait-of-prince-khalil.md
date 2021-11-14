@@ -16,6 +16,7 @@ link: https://victorslibrary.s3.amazonaws.com/music/A+Portrait+of+Prince+Khalil/
 
 By: <g-link to="/band/reenchantment">Reenchantment</g-link> ({{ $frontmatter.authors.join(', ') }})  
 Type: {{ $frontmatter.type }}  
+Style: {{ $frontmatter.style }}  
 Explicit: {{$frontmatter.explicit}}
 
 ### Audio

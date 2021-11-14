@@ -16,6 +16,7 @@ link: https://victorslibrary.s3.us-east-2.amazonaws.com/music/Soul+Loss+in+the+M
 By: <g-link to="/band/reenchantment">Reenchantment</g-link> ({{ $frontmatter.authors.join(', ') }})  
 Released: {{ formatDate($frontmatter.released) }}  
 Type: {{ $frontmatter.type }}  
+Style: {{ $frontmatter.style }}  
 Explicit: {{$frontmatter.explicit}}
 
 ### Audio

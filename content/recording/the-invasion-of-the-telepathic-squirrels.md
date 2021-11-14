@@ -15,6 +15,7 @@ link: https://victorslibrary.s3.amazonaws.com/music/The+Invasion+of+the+Telepath
 
 By: <g-link to="/band/reenchantment">Reenchantment</g-link> ({{ $frontmatter.authors.join(', ') }})  
 Type: {{ $frontmatter.type }}  
+Style: {{ $frontmatter.style }}  
 Explicit: {{$frontmatter.explicit}}
 
 ### Audio

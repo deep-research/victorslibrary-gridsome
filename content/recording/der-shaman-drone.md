@@ -15,6 +15,7 @@ link: https://victorslibrary.s3.amazonaws.com/music/derShamanDrone/derShamanDron
 
 By: <g-link to="/band/reenchantment">Reenchantment</g-link> ({{ $frontmatter.authors.join(', ') }})  
 Type: {{ $frontmatter.type }}  
+Style: {{ $frontmatter.style }}  
 Explicit: {{$frontmatter.explicit}}
 
 ### Audio

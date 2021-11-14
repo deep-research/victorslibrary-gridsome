@@ -15,6 +15,7 @@ link: https://victorslibrary.s3.us-east-2.amazonaws.com/music/Gaze+into+the+Vast
 
 By: <g-link to="/band/reenchantment">Reenchantment</g-link> ({{ $frontmatter.authors.join(', ') }})  
 Type: {{ $frontmatter.type }}  
+Style: {{ $frontmatter.style }}  
 Explicit: {{$frontmatter.explicit}}
 
 ### Audio

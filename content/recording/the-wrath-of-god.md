@@ -15,6 +15,7 @@ link: https://victorslibrary.s3.amazonaws.com/music/The+Wrath+of+God/The+Wrath+o
 
 By: <g-link to="/band/reenchantment">Reenchantment</g-link> ({{ $frontmatter.authors.join(', ') }})  
 Type: {{ $frontmatter.type }}  
+Style: {{ $frontmatter.style }}  
 Explicit: {{$frontmatter.explicit}}
 
 ### Audio

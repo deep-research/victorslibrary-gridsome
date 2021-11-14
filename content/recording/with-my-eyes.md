@@ -15,6 +15,7 @@ link: https://victorslibrary.s3.amazonaws.com/music/With+My+Eyes/With+My+Eyes.mp
 
 By: <g-link to="/band/reenchantment">Reenchantment</g-link> ({{ $frontmatter.authors.join(', ') }})  
 Type: {{ $frontmatter.type }}  
+Style: {{ $frontmatter.style }}  
 Explicit: {{$frontmatter.explicit}}
 
 ### Audio
