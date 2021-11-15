@@ -6,13 +6,13 @@ updated: "2021-10-27"
 
 ## {{ $frontmatter.title }}
 
-<g-link to="/band/reenchantment">Original Music</g-link>
+<g-link to="/16">Original Music</g-link>
 
 ### Categories
 
-* <g-link to="/music">Music</g-link>
+* <g-link to="/3">Music</g-link>
 
 ### System
 
-* <g-link to="/global-search">Global Search</g-link><br />
-* <g-link to="/versions">Website Versions</g-link>
+* <g-link to="/2">Global Search</g-link><br />
+* <g-link to="/13">Website Versions</g-link>
